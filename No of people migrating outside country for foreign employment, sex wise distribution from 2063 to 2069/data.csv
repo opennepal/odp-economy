@@ -1,0 +1,157 @@
+Country,Year,Gender,No of people migrating out
+Katar,2063/064,Male,59642
+Katar,2063/064,Female,63
+Katar,2064/065,Male,85247
+Katar,2064/065,Female,195
+Katar,2065/066,Male,75862
+Katar,2065/066,Female,313
+Katar,2066/067,Male,55656
+Katar,2066/067,Female,284
+Katar,2067/068,Male,102653
+Katar,2067/068,Female,313
+Katar,2068/069,Male,104685
+Katar,2068/069,Female,996
+Malasia,2063/064,Male,73998
+Malasia,2063/064,Female,31
+Malasia,2064/065,Male,50395
+Malasia,2064/065,Female,159
+Malasia,2065/066,Male,35011
+Malasia,2065/066,Female,59
+Malasia,2066/067,Male,113733
+Malasia,2066/067,Female,249
+Malasia,2067/068,Male,104520
+Malasia,2067/068,Female,1386
+Malasia,2068/069,Male,96157
+Malasia,2068/069,Female,2210
+Saudi Arabia,2063/064,Male,39279
+Saudi Arabia,2063/064,Female,0
+Saudi Arabia,2064/065,Male,42355
+Saudi Arabia,2064/065,Female,39
+Saudi Arabia,2065/066,Male,48618
+Saudi Arabia,2065/066,Female,131
+Saudi Arabia,2066/067,Male,63217
+Saudi Arabia,2066/067,Female,183
+Saudi Arabia,2067/068,Male,70960
+Saudi Arabia,2067/068,Female,156
+Saudi Arabia,2068/069,Male,80218
+Saudi Arabia,2068/069,Female,237
+U.A.E,2063/064,Male,25152
+U.A.E,2063/064,Female,20
+U.A.E,2064/065,Male,44881
+U.A.E,2064/065,Female,461
+U.A.E,2065/066,Male,30911
+U.A.E,2065/066,Female,777
+U.A.E,2066/067,Male,31506
+U.A.E,2066/067,Female,1682
+U.A.E,2067/068,Male,42553
+U.A.E,2067/068,Female,1911
+U.A.E,2068/069,Male,49959
+U.A.E,2068/069,Female,4523
+Kuwat,2063/064,Male,2441
+Kuwat,2063/064,Female,0
+Kuwat,2064/065,Male,1573
+Kuwat,2064/065,Female,394
+Kuwat,2065/066,Male,1421
+Kuwat,2065/066,Female,870
+Kuwat,2066/067,Male,6067
+Kuwat,2066/067,Female,2188
+Kuwat,2067/068,Male,9392
+Kuwat,2067/068,Female,5795
+Kuwat,2068/069,Male,12080
+Kuwat,2068/069,Female,12495
+Baharin,2063/064,Male,1198
+Baharin,2063/064,Female,2
+Baharin,2064/065,Male,4878
+Baharin,2064/065,Female,221
+Baharin,2065/066,Male,6102
+Baharin,2065/066,Female,258
+Baharin,2066/067,Male,3617
+Baharin,2066/067,Female,617
+Baharin,2067/068,Male,4441
+Baharin,2067/068,Female,206
+Baharin,2068/069,Male,5333
+Baharin,2068/069,Female,532
+Oman,2063/064,Male,509
+Oman,2063/064,Female,0
+Oman,2064/065,Male,2503
+Oman,2064/065,Female,123
+Oman,2065/066,Male,4105
+Oman,2065/066,Female,142
+Oman,2066/067,Male,2678
+Oman,2066/067,Female,607
+Oman,2067/068,Male,2385
+Oman,2067/068,Female,57
+Oman,2068/069,Male,2868
+Oman,2068/069,Female,295
+South Korea,2063/064,Male,724
+South Korea,2063/064,Female,41
+South Korea,2064/065,Male,143
+South Korea,2064/065,Female,3
+South Korea,2065/066,Male,2909
+South Korea,2065/066,Female,0
+South Korea,2066/067,Male,2526
+South Korea,2066/067,Female,6
+South Korea,2067/068,Male,3727
+South Korea,2067/068,Female,1
+South Korea,2068/069,Male,5315
+South Korea,2068/069,Female,312
+Lebanon,2063/064,Male,0
+Lebanon,2063/064,Female,0
+Lebanon,2064/065,Male,73
+Lebanon,2064/065,Female,2490
+Lebanon,2065/066,Male,176
+Lebanon,2065/066,Female,3203
+Lebanon,2066/067,Male,92
+Lebanon,2066/067,Female,3696
+Lebanon,2067/068,Male,67
+Lebanon,2067/068,Female,84
+Lebanon,2068/069,Male,38
+Lebanon,2068/069,Female,205
+Isarel,2063/064,Male,182
+Isarel,2063/064,Female,223
+Isarel,2064/065,Male,20
+Isarel,2064/065,Female,90
+Isarel,2065/066,Male,1251
+Isarel,2065/066,Female,2127
+Isarel,2066/067,Male,82
+Isarel,2066/067,Female,234
+Isarel,2067/068,Male,122
+Isarel,2067/068,Female,151
+Isarel,2068/069,Male,102
+Isarel,2068/069,Female,472
+Afghanistan,2063/064,Male,182
+Afghanistan,2063/064,Female,0
+Afghanistan,2064/065,Male,1398
+Afghanistan,2064/065,Female,2
+Afghanistan,2065/066,Male,1521
+Afghanistan,2065/066,Female,17
+Afghanistan,2066/067,Male,733
+Afghanistan,2066/067,Female,2
+Afghanistan,2067/068,Male,653
+Afghanistan,2067/068,Female,2
+Afghanistan,2068/069,Male,822
+Afghanistan,2068/069,Female,1
+Japan,2063/064,Male,0
+Japan,2063/064,Female,0
+Japan,2064/065,Male,1278
+Japan,2064/065,Female,28
+Japan,2065/066,Male,1707
+Japan,2065/066,Female,120
+Japan,2066/067,Male,505
+Japan,2066/067,Female,11
+Japan,2067/068,Male,550
+Japan,2067/068,Female,53
+Japan,2068/069,Male,1036
+Japan,2068/069,Female,108
+Others,2063/064,Male,836
+Others,2063/064,Female,10
+Others,2064/065,Male,9622
+Others,2064/065,Female,480
+Others,2065/066,Male,1777
+Others,2065/066,Female,577
+Others,2066/067,Male,3626
+Others,2066/067,Female,297
+Others,2067/068,Male,2277
+Others,2067/068,Female,301
+Others,2068/069,Male,3094
+Others,2068/069,Female,572
