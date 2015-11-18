@@ -1,121 +1,121 @@
-industrial_classification,year,value
-Agriculture and forestry,2000/01,153781
-Agriculture and forestry,2005/06,180260
-Agriculture and forestry,2006/07,181958
-Agriculture and forestry,2007/08,192514
-Agriculture and forestry,2008/09,198257
-Agriculture and forestry,2009/10,202196
-Agriculture and forestry,2010/11,211228
-Agriculture and forestry,2011/12,221494
-Fishing,2000/01,1844
-Fishing,2005/06,2755
-Fishing,2006/07,2838
-Fishing,2007/08,3045
-Fishing,2008/09,3207
-Fishing,2009/10,3321
-Fishing,2010/11,3549
-Fishing,2011/12,3863
-Mining and quarrying,2000/01,1817
-Mining and quarrying,2005/06,2348
-Mining and quarrying,2006/07,2383
-Mining and quarrying,2007/08,2513
-Mining and quarrying,2008/09,2531
-Mining and quarrying,2009/10,2585
-Mining and quarrying,2010/11,2637
-Mining and quarrying,2011/12,2770
-Manufacturing,2000/01,38409
-Manufacturing,2005/06,38898
-Manufacturing,2006/07,39891
-Manufacturing,2007/08,39545
-Manufacturing,2008/09,39132
-Manufacturing,2009/10,40291
-Manufacturing,2010/11,41216
-Manufacturing,2011/12,41744
-Electricty gas and water,2000/01,7750
-Electricty gas and water,2005/06,11562
-Electricty gas and water,2006/07,13065
-Electricty gas and water,2007/08,13204
-Electricty gas and water,2008/09,12750
-Electricty gas and water,2009/10,12989
-Electricty gas and water,2010/11,12929
-Electricty gas and water,2011/12,13884
-Construction,2000/01,25585
-Construction,2005/06,30690
-Construction,2006/07,31453
-Construction,2007/08,33043
-Construction,2008/09,33371
-Construction,2009/10,35430
-Construction,2010/11,37126
-Construction,2011/12,37100
-Wholesale and retail trade,2000/01,69928
-Wholesale and retail trade,2005/06,68099
-Wholesale and retail trade,2006/07,64292
-Wholesale and retail trade,2007/08,66962
-Wholesale and retail trade,2008/09,70481
-Wholesale and retail trade,2009/10,75237
-Wholesale and retail trade,2010/11,76117
-Wholesale and retail trade,2011/12,79002
-Hotels and restaurants,2000/01,8459
-Hotels and restaurants,2005/06,8001
-Hotels and restaurants,2006/07,8278
-Hotels and restaurants,2007/08,8851
-Hotels and restaurants,2008/09,9056
-Hotels and restaurants,2009/10,9646
-Hotels and restaurants,2010/11,10359
-Hotels and restaurants,2011/12,11217
-"Transport, storage and communications",2000/01,31425
-"Transport, storage and communications",2005/06,42001
-"Transport, storage and communications",2006/07,44094
-"Transport, storage and communications",2007/08,48226
-"Transport, storage and communications",2008/09,51585
-"Transport, storage and communications",2009/10,54657
-"Transport, storage and communications",2010/11,57757
-"Transport, storage and communications",2011/12,61707
-Financial intermediation,2000/01,11455
-Financial intermediation,2005/06,19843
-Financial intermediation,2006/07,22103
-Financial intermediation,2007/08,24142
-Financial intermediation,2008/09,24632
-Financial intermediation,2009/10,25327
-Financial intermediation,2010/11,26163
-Financial intermediation,2011/12,27071
-"Real estate, renting and business activities",2000/01,35267
-"Real estate, renting and business activities",2005/06,36900
-"Real estate, renting and business activities",2006/07,41240
-"Real estate, renting and business activities",2007/08,45544
-"Real estate, renting and business activities",2008/09,46421
-"Real estate, renting and business activities",2009/10,47818
-"Real estate, renting and business activities",2010/11,48894
-"Real estate, renting and business activities",2011/12,50346
-Public administration and defence,2000/01,5288
-Public administration and defence,2005/06,9139
-Public administration and defence,2006/07,9262
-Public administration and defence,2007/08,9319
-Public administration and defence,2008/09,10012
-Public administration and defence,2009/10,10405
-Public administration and defence,2010/11,10805
-Public administration and defence,2011/12,11411
-Education,2000/01,17372
-Education,2005/06,28640
-Education,2006/07,30738
-Education,2007/08,32716
-Education,2008/09,36233
-Education,2009/10,38638
-Education,2010/11,39785
-Education,2011/12,41762
-Health and social work,2000/01,4178
-Health and social work,2005/06,6470
-Health and social work,2006/07,6888
-Health and social work,2007/08,7474
-Health and social work,2008/09,8191
-Health and social work,2009/10,8581
-Health and social work,2010/11,9035
-Health and social work,2011/12,9530
-"Other community, social and personal service activities",2000/01,12896
-"Other community, social and personal service activities",2005/06,13933
-"Other community, social and personal service activities",2006/07,16643
-"Other community, social and personal service activities",2007/08,18204
-"Other community, social and personal service activities",2008/09,20520
-"Other community, social and personal service activities",2009/10,22966
-"Other community, social and personal service activities",2010/11,24806
-"Other community, social and personal service activities",2011/12,27062
+industrial_classification,year AD,year BS,value
+Agriculture and forestry,2000/01,2057/58,153781
+Agriculture and forestry,2005/06,2062/63,180260
+Agriculture and forestry,2006/07,2063/64,181958
+Agriculture and forestry,2007/08,2064/65,192514
+Agriculture and forestry,2008/09,2065/66,198257
+Agriculture and forestry,2009/10,2066/67,202196
+Agriculture and forestry,2010/11,2067/68,211228
+Agriculture and forestry,2011/12,2068/69,221494
+Fishing,2000/01,2057/58,1844
+Fishing,2005/06,2062/63,2755
+Fishing,2006/07,2063/64,2838
+Fishing,2007/08,2064/65,3045
+Fishing,2008/09,2065/66,3207
+Fishing,2009/10,2066/67,3321
+Fishing,2010/11,2067/68,3549
+Fishing,2011/12,2068/69,3863
+Mining and quarrying,2000/01,2057/58,1817
+Mining and quarrying,2005/06,2062/63,2348
+Mining and quarrying,2006/07,2063/64,2383
+Mining and quarrying,2007/08,2064/65,2513
+Mining and quarrying,2008/09,2065/66,2531
+Mining and quarrying,2009/10,2066/67,2585
+Mining and quarrying,2010/11,2067/68,2637
+Mining and quarrying,2011/12,2068/69,2770
+Manufacturing,2000/01,2057/58,38409
+Manufacturing,2005/06,2062/63,38898
+Manufacturing,2006/07,2063/64,39891
+Manufacturing,2007/08,2064/65,39545
+Manufacturing,2008/09,2065/66,39132
+Manufacturing,2009/10,2066/67,40291
+Manufacturing,2010/11,2067/68,41216
+Manufacturing,2011/12,2068/69,41744
+Electricty gas and water,2000/01,2057/58,7750
+Electricty gas and water,2005/06,2062/63,11562
+Electricty gas and water,2006/07,2063/64,13065
+Electricty gas and water,2007/08,2064/65,13204
+Electricty gas and water,2008/09,2065/66,12750
+Electricty gas and water,2009/10,2066/67,12989
+Electricty gas and water,2010/11,2067/68,12929
+Electricty gas and water,2011/12,2068/69,13884
+Construction,2000/01,2057/58,25585
+Construction,2005/06,2062/63,30690
+Construction,2006/07,2063/64,31453
+Construction,2007/08,2064/65,33043
+Construction,2008/09,2065/66,33371
+Construction,2009/10,2066/67,35430
+Construction,2010/11,2067/68,37126
+Construction,2011/12,2068/69,37100
+Wholesale and retail trade,2000/01,2057/58,69928
+Wholesale and retail trade,2005/06,2062/63,68099
+Wholesale and retail trade,2006/07,2063/64,64292
+Wholesale and retail trade,2007/08,2064/65,66962
+Wholesale and retail trade,2008/09,2065/66,70481
+Wholesale and retail trade,2009/10,2066/67,75237
+Wholesale and retail trade,2010/11,2067/68,76117
+Wholesale and retail trade,2011/12,2068/69,79002
+Hotels and restaurants,2000/01,2057/58,8459
+Hotels and restaurants,2005/06,2062/63,8001
+Hotels and restaurants,2006/07,2063/64,8278
+Hotels and restaurants,2007/08,2064/65,8851
+Hotels and restaurants,2008/09,2065/66,9056
+Hotels and restaurants,2009/10,2066/67,9646
+Hotels and restaurants,2010/11,2067/68,10359
+Hotels and restaurants,2011/12,2068/69,11217
+"Transport, storage and communications",2000/01,2057/58,31425
+"Transport, storage and communications",2005/06,2062/63,42001
+"Transport, storage and communications",2006/07,2063/64,44094
+"Transport, storage and communications",2007/08,2064/65,48226
+"Transport, storage and communications",2008/09,2065/66,51585
+"Transport, storage and communications",2009/10,2066/67,54657
+"Transport, storage and communications",2010/11,2067/68,57757
+"Transport, storage and communications",2011/12,2068/69,61707
+Financial intermediation,2000/01,2057/58,11455
+Financial intermediation,2005/06,2062/63,19843
+Financial intermediation,2006/07,2063/64,22103
+Financial intermediation,2007/08,2064/65,24142
+Financial intermediation,2008/09,2065/66,24632
+Financial intermediation,2009/10,2066/67,25327
+Financial intermediation,2010/11,2067/68,26163
+Financial intermediation,2011/12,2068/69,27071
+"Real estate, renting and business activities",2000/01,2057/58,35267
+"Real estate, renting and business activities",2005/06,2062/63,36900
+"Real estate, renting and business activities",2006/07,2063/64,41240
+"Real estate, renting and business activities",2007/08,2064/65,45544
+"Real estate, renting and business activities",2008/09,2065/66,46421
+"Real estate, renting and business activities",2009/10,2066/67,47818
+"Real estate, renting and business activities",2010/11,2067/68,48894
+"Real estate, renting and business activities",2011/12,2068/69,50346
+Public administration and defence,2000/01,2057/58,5288
+Public administration and defence,2005/06,2062/63,9139
+Public administration and defence,2006/07,2063/64,9262
+Public administration and defence,2007/08,2064/65,9319
+Public administration and defence,2008/09,2065/66,10012
+Public administration and defence,2009/10,2066/67,10405
+Public administration and defence,2010/11,2067/68,10805
+Public administration and defence,2011/12,2068/69,11411
+Education,2000/01,2057/58,17372
+Education,2005/06,2062/63,28640
+Education,2006/07,2063/64,30738
+Education,2007/08,2064/65,32716
+Education,2008/09,2065/66,36233
+Education,2009/10,2066/67,38638
+Education,2010/11,2067/68,39785
+Education,2011/12,2068/69,41762
+Health and social work,2000/01,2057/58,4178
+Health and social work,2005/06,2062/63,6470
+Health and social work,2006/07,2063/64,6888
+Health and social work,2007/08,2064/65,7474
+Health and social work,2008/09,2065/66,8191
+Health and social work,2009/10,2066/67,8581
+Health and social work,2010/11,2067/68,9035
+Health and social work,2011/12,2068/69,9530
+"Other community, social and personal service activities",2000/01,2057/58,12896
+"Other community, social and personal service activities",2005/06,2062/63,13933
+"Other community, social and personal service activities",2006/07,2063/64,16643
+"Other community, social and personal service activities",2007/08,2064/65,18204
+"Other community, social and personal service activities",2008/09,2065/66,20520
+"Other community, social and personal service activities",2009/10,2066/67,22966
+"Other community, social and personal service activities",2010/11,2067/68,24806
+"Other community, social and personal service activities",2011/12,2068/69,27062

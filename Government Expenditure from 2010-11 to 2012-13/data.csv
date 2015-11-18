@@ -1,73 +1,73 @@
-Description,Sub-group,Year,Value ( in 10 million)
-Capital,General Public Service ,2010/11,120.5
-Capital,Defense ,2010/11,144.6
-Capital,Public Order and Safety  ,2010/11,354.8
-Capital,Economic Affair ,2010/11,3141.7
-Capital,Environment Protection ,2010/11,46
-Capital,Housing and Community amenities ,2010/11,558.3
-Capital,Health ,2010/11,314.3
-Capital,"Recreation,Culture and Religion",2010/11,14.3
-Capital,Education ,2010/11,17.1
-Capital,Social Protection ,2010/11,21.1
-Capital,General Public Service ,2011/12,125.4
-Capital,Defense ,2011/12,187.8
-Capital,Public Order and Safety  ,2011/12,319
-Capital,Economic Affair ,2011/12,3387.9
-Capital,Environment Protection ,2011/12,45.2
-Capital,Housing and Community amenities ,2011/12,678.4
-Capital,Health ,2011/12,337.5
-Capital,"Recreation,Culture and Religion",2011/12,20.2
-Capital,Education ,2011/12,13.9
-Capital,Social Protection ,2011/12,23.7
-Capital,General Public Service ,2012/13,517.7
-Capital,Defense ,2012/13,216.1
-Capital,Public Order and Safety  ,2012/13,370.2
-Capital,Economic Affair ,2012/13,4334.9
-Capital,Environment Protection ,2012/13,38.2
-Capital,Housing and Community amenities ,2012/13,748.6
-Capital,Health ,2012/13,326.3
-Capital,"Recreation,Culture and Religion",2012/13,18.6
-Capital,Education ,2012/13,18.3
-Capital,Social Protection ,2012/13,24.5
-Recurrent,General Public Service,2010/11,4626.7
-Recurrent,Defense ,2010/11,1754.7
-Recurrent,Pubilc Order and safety  ,2010/11,2558.9
-Recurrent,Economic Affair ,2010/11,3465.2
-Recurrent,Environment protection ,2010/11,63.7
-Recurrent,Housing and community amenities ,2010/11,289.8
-Recurrent,Health ,2010/11,1673.2
-Recurrent,"Recreation, Culture and Religion ",2010/11,127.9
-Recurrent,Education ,2010/11,5481.6
-Recurrent,social Protection ,2010/11,974.9
-Recurrent,General Public Service,2011/12,5455
-Recurrent,Defense ,2011/12,2078
-Recurrent,Pubilc Order and safety  ,2011/12,3607.5
-Recurrent,Economic Affair ,2011/12,3473.7
-Recurrent,Environment protection ,2011/12,46.5
-Recurrent,Housing and community amenities ,2011/12,323.4
-Recurrent,Health ,2011/12,1949.5
-Recurrent,"Recreation, Culture and Religion ",2011/12,186.4
-Recurrent,Education ,2011/12,6191.4
-Recurrent,social Protection ,2011/12,1034.5
-Recurrent,General Public Service,2012/13,8321.4
-Recurrent,Defense ,2012/13,1920.8
-Recurrent,Pubilc Order and safety  ,2012/13,3505.7
-Recurrent,Economic Affair ,2012/13,4014.2
-Recurrent,Environment protection ,2012/13,52.4
-Recurrent,Housing and community amenities ,2012/13,509.7
-Recurrent,Health ,2012/13,1921.2
-Recurrent,"Recreation, Culture and Religion ",2012/13,172.1
-Recurrent,Education ,2012/13,6324.9
-Recurrent,social Protection ,2012/13,1158.7
-Share Investment,-,2010/11,994.36
-Share Investment,-,2011/12,1209.38
-Share Investment,-,2012/13,859.87
-Domestic Loan Investment,-,2010/11,1070.39
-Domestic Loan Investment,-,2011/12,1206.37
-Domestic Loan Investment,-,2012/13,2022.91
-Principle Repayment of domestic debt,-,2010/11,600.24
-Principle Repayment of domestic debt,-,2011/12,662.68
-Principle Repayment of domestic debt,-,2012/13,1500.54
-Principle Repayment of foreign debt,-,2010/11,1121.81
-Principle Repayment of foreign debt,-,2011/12,1353.24
-Principle Repayment of foreign debt,-,2012/13,1584.57
+Description,Sub-group,Year AD,Year BS,Value ( in 10 million)
+Capital,General Public Service ,2010/11,2067/68,120.5
+Capital,Defense ,2010/11,2067/68,144.6
+Capital,Public Order and Safety  ,2010/11,2067/68,354.8
+Capital,Economic Affair ,2010/11,2067/68,3141.7
+Capital,Environment Protection ,2010/11,2067/68,46.0
+Capital,Housing and Community amenities ,2010/11,2067/68,558.3
+Capital,Health ,2010/11,2067/68,314.3
+Capital,"Recreation,Culture and Religion",2010/11,2067/68,14.3
+Capital,Education ,2010/11,2067/68,17.1
+Capital,Social Protection ,2010/11,2067/68,21.1
+Capital,General Public Service ,2011/12,2068/69,125.4
+Capital,Defense ,2011/12,2068/69,187.8
+Capital,Public Order and Safety  ,2011/12,2068/69,319.0
+Capital,Economic Affair ,2011/12,2068/69,3387.9
+Capital,Environment Protection ,2011/12,2068/69,45.2
+Capital,Housing and Community amenities ,2011/12,2068/69,678.4
+Capital,Health ,2011/12,2068/69,337.5
+Capital,"Recreation,Culture and Religion",2011/12,2068/69,20.2
+Capital,Education ,2011/12,2068/69,13.9
+Capital,Social Protection ,2011/12,2068/69,23.7
+Capital,General Public Service ,2012/13,2069/70,517.7
+Capital,Defense ,2012/13,2069/70,216.1
+Capital,Public Order and Safety  ,2012/13,2069/70,370.2
+Capital,Economic Affair ,2012/13,2069/70,4334.9
+Capital,Environment Protection ,2012/13,2069/70,38.2
+Capital,Housing and Community amenities ,2012/13,2069/70,748.6
+Capital,Health ,2012/13,2069/70,326.3
+Capital,"Recreation,Culture and Religion",2012/13,2069/70,18.6
+Capital,Education ,2012/13,2069/70,18.3
+Capital,Social Protection ,2012/13,2069/70,24.5
+Recurrent,General Public Service,2010/11,2067/68,4626.7
+Recurrent,Defense ,2010/11,2067/68,1754.7
+Recurrent,Pubilc Order and safety  ,2010/11,2067/68,2558.9
+Recurrent,Economic Affair ,2010/11,2067/68,3465.2
+Recurrent,Environment protection ,2010/11,2067/68,63.7
+Recurrent,Housing and community amenities ,2010/11,2067/68,289.8
+Recurrent,Health ,2010/11,2067/68,1673.2
+Recurrent,"Recreation, Culture and Religion ",2010/11,2067/68,127.9
+Recurrent,Education ,2010/11,2067/68,5481.6
+Recurrent,social Protection ,2010/11,2067/68,974.9
+Recurrent,General Public Service,2011/12,2068/69,5455.0
+Recurrent,Defense ,2011/12,2068/69,2078.0
+Recurrent,Pubilc Order and safety  ,2011/12,2068/69,3607.5
+Recurrent,Economic Affair ,2011/12,2068/69,3473.7
+Recurrent,Environment protection ,2011/12,2068/69,46.5
+Recurrent,Housing and community amenities ,2011/12,2068/69,323.4
+Recurrent,Health ,2011/12,2068/69,1949.5
+Recurrent,"Recreation, Culture and Religion ",2011/12,2068/69,186.4
+Recurrent,Education ,2011/12,2068/69,6191.4
+Recurrent,social Protection ,2011/12,2068/69,1034.5
+Recurrent,General Public Service,2012/13,2069/70,8321.4
+Recurrent,Defense ,2012/13,2069/70,1920.8
+Recurrent,Pubilc Order and safety  ,2012/13,2069/70,3505.7
+Recurrent,Economic Affair ,2012/13,2069/70,4014.2
+Recurrent,Environment protection ,2012/13,2069/70,52.4
+Recurrent,Housing and community amenities ,2012/13,2069/70,509.7
+Recurrent,Health ,2012/13,2069/70,1921.2
+Recurrent,"Recreation, Culture and Religion ",2012/13,2069/70,172.1
+Recurrent,Education ,2012/13,2069/70,6324.9
+Recurrent,social Protection ,2012/13,2069/70,1158.7
+Share Investment,-,2010/11,2067/68,994.36
+Share Investment,-,2011/12,2068/69,1209.38
+Share Investment,-,2012/13,2069/70,859.87
+Domestic Loan Investment,-,2010/11,2067/68,1070.39
+Domestic Loan Investment,-,2011/12,2068/69,1206.37
+Domestic Loan Investment,-,2012/13,2069/70,2022.91
+Principle Repayment of domestic debt,-,2010/11,2067/68,600.24
+Principle Repayment of domestic debt,-,2011/12,2068/69,662.68
+Principle Repayment of domestic debt,-,2012/13,2069/70,1500.54
+Principle Repayment of foreign debt,-,2010/11,2067/68,1121.81
+Principle Repayment of foreign debt,-,2011/12,2068/69,1353.24
+Principle Repayment of foreign debt,-,2012/13,2069/70,1584.57

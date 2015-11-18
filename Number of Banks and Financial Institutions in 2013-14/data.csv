@@ -1,78 +1,78 @@
-Bank and Financial  Institutions,Year,Number of banks
-Commercial Bank,2008,25
-Commercial Bank,2009,26
-Commercial Bank,2010,27
-Commercial Bank,2011,31
-Commercial Bank,2012,32
-Commercial Bank,2013,31
-Commercial Bank,2014*,30
-Development Bank,2008,58
-Development Bank,2009,63
-Development Bank,2010,71
-Development Bank,2011,88
-Development Bank,2012,88
-Development Bank,2013,86
-Development Bank,2014*,87
-Finance Companies,2008,78
-Finance Companies,2009,77
-Finance Companies,2010,79
-Finance Companies,2011,80
-Finance Companies,2012,70
-Finance Companies,2013,59
-Finance Companies,2014*,58
-Micro-finance Institutions,2008,12
-Micro-finance Institutions,2009,15
-Micro-finance Institutions,2010,18
-Micro-finance Institutions,2011,21
-Micro-finance Institutions,2012,24
-Micro-finance Institutions,2013,31
-Micro-finance Institutions,2014*,35
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2008,16
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2009,16
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2010,15
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2011,16
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2012,16
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2013,16
-Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2014*,16
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2008,46
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2009,45
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2010,45
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2011,38
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2012,36
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2013,31
-Nepal Rastra Bank licensed NGOs (microfinance transactions),2014*,31
-Insurance Company,2008,25
-Insurance Company,2009,25
-Insurance Company,2010,25
-Insurance Company,2011,25
-Insurance Company,2012,25
-Insurance Company,2013,25
-Insurance Company,2014*,25
-Employees Provident Fund,2008,1
-Employees Provident Fund,2009,1
-Employees Provident Fund,2010,1
-Employees Provident Fund,2011,1
-Employees Provident Fund,2012,1
-Employees Provident Fund,2013,1
-Employees Provident Fund,2014*,1
-Citizen Investment trust,2008,1
-Citizen Investment trust,2009,1
-Citizen Investment trust,2010,1
-Citizen Investment trust,2011,1
-Citizen Investment trust,2012,1
-Citizen Investment trust,2013,1
-Citizen Investment trust,2014*,1
-Postal Saving Bank,2008,1
-Postal Saving Bank,2009,1
-Postal Saving Bank,2010,1
-Postal Saving Bank,2011,1
-Postal Saving Bank,2012,1
-Postal Saving Bank,2013,1
-Postal Saving Bank,2014*,1
-Offices of Postal Saving Bank,2008,117
-Offices of Postal Saving Bank,2009,117
-Offices of Postal Saving Bank,2010,117
-Offices of Postal Saving Bank,2011,117
-Offices of Postal Saving Bank,2012,117
-Offices of Postal Saving Bank,2013,117
-Offices of Postal Saving Bank,2014*,117
+Bank and Financial  Institutions,Year AD,Year BS,Number of banks
+Commercial Bank,2008,2065,25
+Commercial Bank,2009,2066,26
+Commercial Bank,2010,2067,27
+Commercial Bank,2011,2068,31
+Commercial Bank,2012,2069,32
+Commercial Bank,2013,2070,31
+Commercial Bank,2014*,2071,30
+Development Bank,2008,2065,58
+Development Bank,2009,2066,63
+Development Bank,2010,2067,71
+Development Bank,2011,2068,88
+Development Bank,2012,2069,88
+Development Bank,2013,2070,86
+Development Bank,2014*,2071,87
+Finance Companies,2008,2065,78
+Finance Companies,2009,2066,77
+Finance Companies,2010,2067,79
+Finance Companies,2011,2068,80
+Finance Companies,2012,2069,70
+Finance Companies,2013,2070,59
+Finance Companies,2014*,2071,58
+Micro-finance Institutions,2008,2065,12
+Micro-finance Institutions,2009,2066,15
+Micro-finance Institutions,2010,2067,18
+Micro-finance Institutions,2011,2068,21
+Micro-finance Institutions,2012,2069,24
+Micro-finance Institutions,2013,2070,31
+Micro-finance Institutions,2014*,2071,35
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2008,2065,16
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2009,2066,16
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2010,2067,15
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2011,2068,16
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2012,2069,16
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2013,2070,16
+Nepal Rastra Bank licensed Cooperatives (limited banking transactions),2014*,2071,16
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2008,2065,46
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2009,2066,45
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2010,2067,45
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2011,2068,38
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2012,2069,36
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2013,2070,31
+Nepal Rastra Bank licensed NGOs (microfinance transactions),2014*,2071,31
+Insurance Company,2008,2065,25
+Insurance Company,2009,2066,25
+Insurance Company,2010,2067,25
+Insurance Company,2011,2068,25
+Insurance Company,2012,2069,25
+Insurance Company,2013,2070,25
+Insurance Company,2014*,2071,25
+Employees Provident Fund,2008,2065,1
+Employees Provident Fund,2009,2066,1
+Employees Provident Fund,2010,2067,1
+Employees Provident Fund,2011,2068,1
+Employees Provident Fund,2012,2069,1
+Employees Provident Fund,2013,2070,1
+Employees Provident Fund,2014*,2071,1
+Citizen Investment trust,2008,2065,1
+Citizen Investment trust,2009,2066,1
+Citizen Investment trust,2010,2067,1
+Citizen Investment trust,2011,2068,1
+Citizen Investment trust,2012,2069,1
+Citizen Investment trust,2013,2070,1
+Citizen Investment trust,2014*,2071,1
+Postal Saving Bank,2008,2065,1
+Postal Saving Bank,2009,2066,1
+Postal Saving Bank,2010,2067,1
+Postal Saving Bank,2011,2068,1
+Postal Saving Bank,2012,2069,1
+Postal Saving Bank,2013,2070,1
+Postal Saving Bank,2014*,2071,1
+Offices of Postal Saving Bank,2008,2065,117
+Offices of Postal Saving Bank,2009,2066,117
+Offices of Postal Saving Bank,2010,2067,117
+Offices of Postal Saving Bank,2011,2068,117
+Offices of Postal Saving Bank,2012,2069,117
+Offices of Postal Saving Bank,2013,2070,117
+Offices of Postal Saving Bank,2014*,2071,117

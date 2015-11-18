@@ -1,36 +1,36 @@
-Service Providers,Fiscal Year,Subscribers
-Nepal Telecom Limited,2009/10,6326068
-Nepal Telecom Limited,2010/11,7522136
-Nepal Telecom Limited,2011/12,8595771
-Nepal Telecom Limited,2012/13,9176060
-Nepal Telecom Limited,2013/14,580289
-United Telecom Limited,2009/10,538833
-United Telecom Limited,2010/11,613801
-United Telecom Limited,2011/12,698298
-United Telecom Limited,2012/13,719341
-United Telecom Limited,2013/14,21043
-Ncell Pvt Ltd,2009/10,4479021
-Ncell Pvt Ltd,2010/11,7463071
-Ncell Pvt Ltd,2011/12,9553404
-Ncell Pvt Ltd,2012/13,10526798
-Ncell Pvt Ltd,2013/14,973394
-STM Telecom Sanchar Pvt. Ltd,2009/10,5185
-STM Telecom Sanchar Pvt. Ltd,2010/11,5336
-STM Telecom Sanchar Pvt. Ltd,2011/12,5363
-STM Telecom Sanchar Pvt. Ltd,2012/13,5385
-STM Telecom Sanchar Pvt. Ltd,2013/14,22
-Nepal Satellite Telecom Pvt.,2009/10,77238
-Nepal Satellite Telecom Pvt.,2010/11,146319
-Nepal Satellite Telecom Pvt.,2011/12,149708
-Nepal Satellite Telecom Pvt.,2012/13,149698
-Nepal Satellite Telecom Pvt.,2013/14,-10
-Smart Telecom,2009/10,91469
-Smart Telecom,2010/11,311227
-Smart Telecom,2011/12,576503
-Smart Telecom,2012/13,753254
-Smart Telecom,2013/14,176751
-Others,2009/10,1742
-Others,2010/11,1742
-Others,2011/12,1742
-Others,2012/13,1742
-Others,2013/14,0
+Service Providers,Fiscal Year AD,Fiscal Year BS,Subscribers
+Nepal Telecom Limited,2009/10,2066/67,6326068
+Nepal Telecom Limited,2010/11,2067/68,7522136
+Nepal Telecom Limited,2011/12,2068/69,8595771
+Nepal Telecom Limited,2012/13,2069/70,9176060
+Nepal Telecom Limited,2013/14,2070/71,580289
+United Telecom Limited,2009/10,2066/67,538833
+United Telecom Limited,2010/11,2067/68,613801
+United Telecom Limited,2011/12,2068/69,698298
+United Telecom Limited,2012/13,2069/70,719341
+United Telecom Limited,2013/14,2070/71,21043
+Ncell Pvt Ltd,2009/10,2066/67,4479021
+Ncell Pvt Ltd,2010/11,2067/68,7463071
+Ncell Pvt Ltd,2011/12,2068/69,9553404
+Ncell Pvt Ltd,2012/13,2069/70,10526798
+Ncell Pvt Ltd,2013/14,2070/71,973394
+STM Telecom Sanchar Pvt. Ltd,2009/10,2066/67,5185
+STM Telecom Sanchar Pvt. Ltd,2010/11,2067/68,5336
+STM Telecom Sanchar Pvt. Ltd,2011/12,2068/69,5363
+STM Telecom Sanchar Pvt. Ltd,2012/13,2069/70,5385
+STM Telecom Sanchar Pvt. Ltd,2013/14,2070/71,22
+Nepal Satellite Telecom Pvt.,2009/10,2066/67,77238
+Nepal Satellite Telecom Pvt.,2010/11,2067/68,146319
+Nepal Satellite Telecom Pvt.,2011/12,2068/69,149708
+Nepal Satellite Telecom Pvt.,2012/13,2069/70,149698
+Nepal Satellite Telecom Pvt.,2013/14,2070/71,-10
+Smart Telecom,2009/10,2066/67,91469
+Smart Telecom,2010/11,2067/68,311227
+Smart Telecom,2011/12,2068/69,576503
+Smart Telecom,2012/13,2069/70,753254
+Smart Telecom,2013/14,2070/71,176751
+Others,2009/10,2066/67,1742
+Others,2010/11,2067/68,1742
+Others,2011/12,2068/69,1742
+Others,2012/13,2069/70,1742
+Others,2013/14,2070/71,0

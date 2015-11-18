@@ -1,2476 +1,2476 @@
-Districts,Category,Value
-Taplejung,Agriculture and Forestry,4723
-Taplejung,Fishing,0
-Taplejung,Mining and quarrying,41
-Taplejung,Manufacturing,96
-Taplejung,"Electricity, gas and water",9
-Taplejung,Construction,479
-Taplejung,Wholesale and retail trade,491
-Taplejung,Hotels and restaurants,57
-Taplejung,"Transport, storage and
+Districts,Zone,Geographical Region,Development Region,Category,Value
+Taplejung,Mechi,Mountain,Eastern,Agriculture and Forestry,4723
+Taplejung,Mechi,Mountain,Eastern,Fishing,0
+Taplejung,Mechi,Mountain,Eastern,Mining and quarrying,41
+Taplejung,Mechi,Mountain,Eastern,Manufacturing,96
+Taplejung,Mechi,Mountain,Eastern,"Electricity, gas and water",9
+Taplejung,Mechi,Mountain,Eastern,Construction,479
+Taplejung,Mechi,Mountain,Eastern,Wholesale and retail trade,491
+Taplejung,Mechi,Mountain,Eastern,Hotels and restaurants,57
+Taplejung,Mechi,Mountain,Eastern,"Transport, storage and
 communications",123
-Taplejung,Financial intermediation,101
-Taplejung,"Real estate, renting and
+Taplejung,Mechi,Mountain,Eastern,Financial intermediation,101
+Taplejung,Mechi,Mountain,Eastern,"Real estate, renting and
 business activities",431
-Taplejung,"Public administration and
+Taplejung,Mechi,Mountain,Eastern,"Public administration and
 defense",148
-Taplejung,Education,163
-Taplejung,Health and social work,67
-Taplejung,"Other community,
+Taplejung,Mechi,Mountain,Eastern,Education,163
+Taplejung,Mechi,Mountain,Eastern,Health and social work,67
+Taplejung,Mechi,Mountain,Eastern,"Other community,
 social and personal services
 activities",94
-Taplejung,"Total economy including
+Taplejung,Mechi,Mountain,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7021
-Taplejung,"Total economy at basic price
+Taplejung,Mechi,Mountain,Eastern,"Total economy at basic price
 (total value added)",6803
-Taplejung,GDP at market price,7448
-Taplejung,Factor income,39
-Taplejung,GNI,7487
-Taplejung,"Per capita income, Rs. at
+Taplejung,Mechi,Mountain,Eastern,GDP at market price,7448
+Taplejung,Mechi,Mountain,Eastern,Factor income,39
+Taplejung,Mechi,Mountain,Eastern,GNI,7487
+Taplejung,Mechi,Mountain,Eastern,"Per capita income, Rs. at
 market price",58741
-Taplejung,"Per capita income, $",813
-Taplejung,"Per capita income, PPP $",1313
-Sankhuwasabha,Agriculture and Forestry,4569
-Sankhuwasabha,Fishing,0
-Sankhuwasabha,Mining and quarrying,29
-Sankhuwasabha,Manufacturing,134
-Sankhuwasabha,"Electricity, gas and water",25
-Sankhuwasabha,Construction,494
-Sankhuwasabha,Wholesale and retail trade,659
-Sankhuwasabha,Hotels and restaurants,78
-Sankhuwasabha,"Transport, storage and
+Taplejung,Mechi,Mountain,Eastern,"Per capita income, $",813
+Taplejung,Mechi,Mountain,Eastern,"Per capita income, PPP $",1313
+Sankhuwasabha,Kosi,Mountain,Eastern,Agriculture and Forestry,4569
+Sankhuwasabha,Kosi,Mountain,Eastern,Fishing,0
+Sankhuwasabha,Kosi,Mountain,Eastern,Mining and quarrying,29
+Sankhuwasabha,Kosi,Mountain,Eastern,Manufacturing,134
+Sankhuwasabha,Kosi,Mountain,Eastern,"Electricity, gas and water",25
+Sankhuwasabha,Kosi,Mountain,Eastern,Construction,494
+Sankhuwasabha,Kosi,Mountain,Eastern,Wholesale and retail trade,659
+Sankhuwasabha,Kosi,Mountain,Eastern,Hotels and restaurants,78
+Sankhuwasabha,Kosi,Mountain,Eastern,"Transport, storage and
 communications",403
-Sankhuwasabha,Financial intermediation,141
-Sankhuwasabha,"Real estate, renting and
+Sankhuwasabha,Kosi,Mountain,Eastern,Financial intermediation,141
+Sankhuwasabha,Kosi,Mountain,Eastern,"Real estate, renting and
 business activities",936
-Sankhuwasabha,"Public administration and
+Sankhuwasabha,Kosi,Mountain,Eastern,"Public administration and
 defense",158
-Sankhuwasabha,Education,155
-Sankhuwasabha,Health and social work,80
-Sankhuwasabha,"Other community,
+Sankhuwasabha,Kosi,Mountain,Eastern,Education,155
+Sankhuwasabha,Kosi,Mountain,Eastern,Health and social work,80
+Sankhuwasabha,Kosi,Mountain,Eastern,"Other community,
 social and personal services
 activities",95
-Sankhuwasabha,"Total economy including
+Sankhuwasabha,Kosi,Mountain,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7955
-Sankhuwasabha,"Total economy at basic price
+Sankhuwasabha,Kosi,Mountain,Eastern,"Total economy at basic price
 (total value added)",7688
-Sankhuwasabha,GDP at market price,8417
-Sankhuwasabha,Factor income,54
-Sankhuwasabha,GNI,8471
-Sankhuwasabha,"Per capita income, Rs. at
+Sankhuwasabha,Kosi,Mountain,Eastern,GDP at market price,8417
+Sankhuwasabha,Kosi,Mountain,Eastern,Factor income,54
+Sankhuwasabha,Kosi,Mountain,Eastern,GNI,8471
+Sankhuwasabha,Kosi,Mountain,Eastern,"Per capita income, Rs. at
 market price",53364
-Sankhuwasabha,"Per capita income, $",738
-Sankhuwasabha,"Per capita income, PPP $",1193
-Solukhumbu,Agriculture and Forestry,5422
-Solukhumbu,Fishing,0
-Solukhumbu,Mining and quarrying,24
-Solukhumbu,Manufacturing,89
-Solukhumbu,"Electricity, gas and water",2
-Solukhumbu,Construction,365
-Solukhumbu,Wholesale and retail trade,436
-Solukhumbu,Hotels and restaurants,103
-Solukhumbu,"Transport, storage and
+Sankhuwasabha,Kosi,Mountain,Eastern,"Per capita income, $",738
+Sankhuwasabha,Kosi,Mountain,Eastern,"Per capita income, PPP $",1193
+Solukhumbu,Sagarmatha,Mountain,Eastern,Agriculture and Forestry,5422
+Solukhumbu,Sagarmatha,Mountain,Eastern,Fishing,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,Mining and quarrying,24
+Solukhumbu,Sagarmatha,Mountain,Eastern,Manufacturing,89
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Electricity, gas and water",2
+Solukhumbu,Sagarmatha,Mountain,Eastern,Construction,365
+Solukhumbu,Sagarmatha,Mountain,Eastern,Wholesale and retail trade,436
+Solukhumbu,Sagarmatha,Mountain,Eastern,Hotels and restaurants,103
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Transport, storage and
 communications",485
-Solukhumbu,Financial intermediation,184
-Solukhumbu,"Real estate, renting and
+Solukhumbu,Sagarmatha,Mountain,Eastern,Financial intermediation,184
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Real estate, renting and
 business activities",565
-Solukhumbu,"Public administration and
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Public administration and
 defense",141
-Solukhumbu,Education,93
-Solukhumbu,Health and social work,42
-Solukhumbu,"Other community,
+Solukhumbu,Sagarmatha,Mountain,Eastern,Education,93
+Solukhumbu,Sagarmatha,Mountain,Eastern,Health and social work,42
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Other community,
 social and personal services
 activities",110
-Solukhumbu,"Total economy including
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8061
-Solukhumbu,"Total economy at basic price
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Total economy at basic price
 (total value added)",7948
-Solukhumbu,GDP at market price,8702
-Solukhumbu,Factor income,18
-Solukhumbu,GNI,8720
-Solukhumbu,"Per capita income, Rs. at
+Solukhumbu,Sagarmatha,Mountain,Eastern,GDP at market price,8702
+Solukhumbu,Sagarmatha,Mountain,Eastern,Factor income,18
+Solukhumbu,Sagarmatha,Mountain,Eastern,GNI,8720
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Per capita income, Rs. at
 market price",82356
-Solukhumbu,"Per capita income, $",1140
-Solukhumbu,"Per capita income, PPP $",1841
-Panchthar,Agriculture and Forestry,5206
-Panchthar,Fishing,1
-Panchthar,Mining and quarrying,46
-Panchthar,Manufacturing,168
-Panchthar,"Electricity, gas and water",21
-Panchthar,Construction,651
-Panchthar,Wholesale and retail trade,880
-Panchthar,Hotels and restaurants,69
-Panchthar,"Transport, storage and
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Per capita income, $",1140
+Solukhumbu,Sagarmatha,Mountain,Eastern,"Per capita income, PPP $",1841
+Panchthar,Mechi,Hill,Eastern,Agriculture and Forestry,5206
+Panchthar,Mechi,Hill,Eastern,Fishing,1
+Panchthar,Mechi,Hill,Eastern,Mining and quarrying,46
+Panchthar,Mechi,Hill,Eastern,Manufacturing,168
+Panchthar,Mechi,Hill,Eastern,"Electricity, gas and water",21
+Panchthar,Mechi,Hill,Eastern,Construction,651
+Panchthar,Mechi,Hill,Eastern,Wholesale and retail trade,880
+Panchthar,Mechi,Hill,Eastern,Hotels and restaurants,69
+Panchthar,Mechi,Hill,Eastern,"Transport, storage and
 communications",478
-Panchthar,Financial intermediation,91
-Panchthar,"Real estate, renting and
+Panchthar,Mechi,Hill,Eastern,Financial intermediation,91
+Panchthar,Mechi,Hill,Eastern,"Real estate, renting and
 business activities",341
-Panchthar,"Public administration and
+Panchthar,Mechi,Hill,Eastern,"Public administration and
 defense",189
-Panchthar,Education,298
-Panchthar,Health and social work,154
-Panchthar,"Other community,
+Panchthar,Mechi,Hill,Eastern,Education,298
+Panchthar,Mechi,Hill,Eastern,Health and social work,154
+Panchthar,Mechi,Hill,Eastern,"Other community,
 social and personal services
 activities",99
-Panchthar,"Total economy including
+Panchthar,Mechi,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8694
-Panchthar,"Total economy at basic price
+Panchthar,Mechi,Hill,Eastern,"Total economy at basic price
 (total value added)",8413
-Panchthar,GDP at market price,9212
-Panchthar,Factor income,73
-Panchthar,GNI,9285
-Panchthar,"Per capita income, Rs. at
+Panchthar,Mechi,Hill,Eastern,GDP at market price,9212
+Panchthar,Mechi,Hill,Eastern,Factor income,73
+Panchthar,Mechi,Hill,Eastern,GNI,9285
+Panchthar,Mechi,Hill,Eastern,"Per capita income, Rs. at
 market price",48405
-Panchthar,"Per capita income, $",670
-Panchthar,"Per capita income, PPP $",1082
-Ilam,Agriculture and Forestry,9723
-Ilam,Fishing,1
-Ilam,Mining and quarrying,65
-Ilam,Manufacturing,223
-Ilam,"Electricity, gas and water",80
-Ilam,Construction,982
-Ilam,Wholesale and retail trade,1302
-Ilam,Hotels and restaurants,110
-Ilam,"Transport, storage and
+Panchthar,Mechi,Hill,Eastern,"Per capita income, $",670
+Panchthar,Mechi,Hill,Eastern,"Per capita income, PPP $",1082
+Ilam,Mechi,Hill,Eastern,Agriculture and Forestry,9723
+Ilam,Mechi,Hill,Eastern,Fishing,1
+Ilam,Mechi,Hill,Eastern,Mining and quarrying,65
+Ilam,Mechi,Hill,Eastern,Manufacturing,223
+Ilam,Mechi,Hill,Eastern,"Electricity, gas and water",80
+Ilam,Mechi,Hill,Eastern,Construction,982
+Ilam,Mechi,Hill,Eastern,Wholesale and retail trade,1302
+Ilam,Mechi,Hill,Eastern,Hotels and restaurants,110
+Ilam,Mechi,Hill,Eastern,"Transport, storage and
 communications",837
-Ilam,Financial intermediation,296
-Ilam,"Real estate, renting and
+Ilam,Mechi,Hill,Eastern,Financial intermediation,296
+Ilam,Mechi,Hill,Eastern,"Real estate, renting and
 business activities",918
-Ilam,"Public administration and
+Ilam,Mechi,Hill,Eastern,"Public administration and
 defense",220
-Ilam,Education,343
-Ilam,Health and social work,137
-Ilam,"Other community,
+Ilam,Mechi,Hill,Eastern,Education,343
+Ilam,Mechi,Hill,Eastern,Health and social work,137
+Ilam,Mechi,Hill,Eastern,"Other community,
 social and personal services
 activities",110
-Ilam,"Total economy including
+Ilam,Mechi,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",15348
-Ilam,"Total economy at basic price
+Ilam,Mechi,Hill,Eastern,"Total economy at basic price
 (total value added)",14852
-Ilam,GDP at market price,16262
-Ilam,Factor income,94
-Ilam,GNI,16355
-Ilam,"Per capita income, Rs. at
+Ilam,Mechi,Hill,Eastern,GDP at market price,16262
+Ilam,Mechi,Hill,Eastern,Factor income,94
+Ilam,Mechi,Hill,Eastern,GNI,16355
+Ilam,Mechi,Hill,Eastern,"Per capita income, Rs. at
 market price",56348
-Ilam,"Per capita income, $",780
-Ilam,"Per capita income, PPP $",1260
-Dhankuta,Agriculture and Forestry,4695
-Dhankuta,Fishing,0
-Dhankuta,Mining and quarrying,65
-Dhankuta,Manufacturing,140
-Dhankuta,"Electricity, gas and water",57
-Dhankuta,Construction,717
-Dhankuta,Wholesale and retail trade,770
-Dhankuta,Hotels and restaurants,76
-Dhankuta,"Transport, storage and
+Ilam,Mechi,Hill,Eastern,"Per capita income, $",780
+Ilam,Mechi,Hill,Eastern,"Per capita income, PPP $",1260
+Dhankuta,Kosi,Hill,Eastern,Agriculture and Forestry,4695
+Dhankuta,Kosi,Hill,Eastern,Fishing,0
+Dhankuta,Kosi,Hill,Eastern,Mining and quarrying,65
+Dhankuta,Kosi,Hill,Eastern,Manufacturing,140
+Dhankuta,Kosi,Hill,Eastern,"Electricity, gas and water",57
+Dhankuta,Kosi,Hill,Eastern,Construction,717
+Dhankuta,Kosi,Hill,Eastern,Wholesale and retail trade,770
+Dhankuta,Kosi,Hill,Eastern,Hotels and restaurants,76
+Dhankuta,Kosi,Hill,Eastern,"Transport, storage and
 communications",424
-Dhankuta,Financial intermediation,51
-Dhankuta,"Real estate, renting and
+Dhankuta,Kosi,Hill,Eastern,Financial intermediation,51
+Dhankuta,Kosi,Hill,Eastern,"Real estate, renting and
 business activities",826
-Dhankuta,"Public administration and
+Dhankuta,Kosi,Hill,Eastern,"Public administration and
 defense",219
-Dhankuta,Education,269
-Dhankuta,Health and social work,198
-Dhankuta,"Other community,
+Dhankuta,Kosi,Hill,Eastern,Education,269
+Dhankuta,Kosi,Hill,Eastern,Health and social work,198
+Dhankuta,Kosi,Hill,Eastern,"Other community,
 social and personal services
 activities",106
-Dhankuta,"Total economy including
+Dhankuta,Kosi,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8614
-Dhankuta,"Total economy at basic price
+Dhankuta,Kosi,Hill,Eastern,"Total economy at basic price
 (total value added)",8335
-Dhankuta,GDP at market price,9126
-Dhankuta,Factor income,61
-Dhankuta,GNI,9187
-Dhankuta,"Per capita income, Rs. at
+Dhankuta,Kosi,Hill,Eastern,GDP at market price,9126
+Dhankuta,Kosi,Hill,Eastern,Factor income,61
+Dhankuta,Kosi,Hill,Eastern,GNI,9187
+Dhankuta,Kosi,Hill,Eastern,"Per capita income, Rs. at
 market price",56223
-Dhankuta,"Per capita income, $",778
-Dhankuta,"Per capita income, PPP $",1257
-Terhathum,Agriculture and Forestry,4054
-Terhathum,Fishing,0
-Terhathum,Mining and quarrying,17
-Terhathum,Manufacturing,114
-Terhathum,"Electricity, gas and water",19
-Terhathum,Construction,307
-Terhathum,Wholesale and retail trade,437
-Terhathum,Hotels and restaurants,49
-Terhathum,"Transport, storage and
+Dhankuta,Kosi,Hill,Eastern,"Per capita income, $",778
+Dhankuta,Kosi,Hill,Eastern,"Per capita income, PPP $",1257
+Terhathum,Kosi,Hill,Eastern,Agriculture and Forestry,4054
+Terhathum,Kosi,Hill,Eastern,Fishing,0
+Terhathum,Kosi,Hill,Eastern,Mining and quarrying,17
+Terhathum,Kosi,Hill,Eastern,Manufacturing,114
+Terhathum,Kosi,Hill,Eastern,"Electricity, gas and water",19
+Terhathum,Kosi,Hill,Eastern,Construction,307
+Terhathum,Kosi,Hill,Eastern,Wholesale and retail trade,437
+Terhathum,Kosi,Hill,Eastern,Hotels and restaurants,49
+Terhathum,Kosi,Hill,Eastern,"Transport, storage and
 communications",241
-Terhathum,Financial intermediation,76
-Terhathum,"Real estate, renting and
+Terhathum,Kosi,Hill,Eastern,Financial intermediation,76
+Terhathum,Kosi,Hill,Eastern,"Real estate, renting and
 business activities",260
-Terhathum,"Public administration and
+Terhathum,Kosi,Hill,Eastern,"Public administration and
 defense",125
-Terhathum,Education,163
-Terhathum,Health and social work,89
-Terhathum,"Other community,
+Terhathum,Kosi,Hill,Eastern,Education,163
+Terhathum,Kosi,Hill,Eastern,Health and social work,89
+Terhathum,Kosi,Hill,Eastern,"Other community,
 social and personal services
 activities",95
-Terhathum,"Total economy including
+Terhathum,Kosi,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6046
-Terhathum,"Total economy at basic price
+Terhathum,Kosi,Hill,Eastern,"Total economy at basic price
 (total value added)",5850
-Terhathum,GDP at market price,6406
-Terhathum,Factor income,42
-Terhathum,GNI,6447
-Terhathum,"Per capita income, Rs. at
+Terhathum,Kosi,Hill,Eastern,GDP at market price,6406
+Terhathum,Kosi,Hill,Eastern,Factor income,42
+Terhathum,Kosi,Hill,Eastern,GNI,6447
+Terhathum,Kosi,Hill,Eastern,"Per capita income, Rs. at
 market price",63470
-Terhathum,"Per capita income, $",878
-Terhathum,"Per capita income, PPP $",1419
-Bhojpur,Agriculture and Forestry,4561
-Bhojpur,Fishing,0
-Bhojpur,Mining and quarrying,21
-Bhojpur,Manufacturing,114
-Bhojpur,"Electricity, gas and water",6
-Bhojpur,Construction,504
-Bhojpur,Wholesale and retail trade,781
-Bhojpur,Hotels and restaurants,64
-Bhojpur,"Transport, storage and
+Terhathum,Kosi,Hill,Eastern,"Per capita income, $",878
+Terhathum,Kosi,Hill,Eastern,"Per capita income, PPP $",1419
+Bhojpur,Kosi,Hill,Eastern,Agriculture and Forestry,4561
+Bhojpur,Kosi,Hill,Eastern,Fishing,0
+Bhojpur,Kosi,Hill,Eastern,Mining and quarrying,21
+Bhojpur,Kosi,Hill,Eastern,Manufacturing,114
+Bhojpur,Kosi,Hill,Eastern,"Electricity, gas and water",6
+Bhojpur,Kosi,Hill,Eastern,Construction,504
+Bhojpur,Kosi,Hill,Eastern,Wholesale and retail trade,781
+Bhojpur,Kosi,Hill,Eastern,Hotels and restaurants,64
+Bhojpur,Kosi,Hill,Eastern,"Transport, storage and
 communications",394
-Bhojpur,Financial intermediation,32
-Bhojpur,"Real estate, renting and
+Bhojpur,Kosi,Hill,Eastern,Financial intermediation,32
+Bhojpur,Kosi,Hill,Eastern,"Real estate, renting and
 business activities",533
-Bhojpur,"Public administration and
+Bhojpur,Kosi,Hill,Eastern,"Public administration and
 defense",190
-Bhojpur,Education,219
-Bhojpur,Health and social work,126
-Bhojpur,"Other community,
+Bhojpur,Kosi,Hill,Eastern,Education,219
+Bhojpur,Kosi,Hill,Eastern,Health and social work,126
+Bhojpur,Kosi,Hill,Eastern,"Other community,
 social and personal services
 activities",95
-Bhojpur,"Total economy including
+Bhojpur,Kosi,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7640
-Bhojpur,"Total economy at basic price
+Bhojpur,Kosi,Hill,Eastern,"Total economy at basic price
 (total value added)",7384
-Bhojpur,GDP at market price,8084
-Bhojpur,Factor income,65
-Bhojpur,GNI,8150
-Bhojpur,"Per capita income, Rs. at
+Bhojpur,Kosi,Hill,Eastern,GDP at market price,8084
+Bhojpur,Kosi,Hill,Eastern,Factor income,65
+Bhojpur,Kosi,Hill,Eastern,GNI,8150
+Bhojpur,Kosi,Hill,Eastern,"Per capita income, Rs. at
 market price",44666
-Bhojpur,"Per capita income, $",618
-Bhojpur,"Per capita income, PPP $",999
-Okhaldhunga,Agriculture and Forestry,3422
-Okhaldhunga,Fishing,0
-Okhaldhunga,Mining and quarrying,51
-Okhaldhunga,Manufacturing,81
-Okhaldhunga,"Electricity, gas and water",3
-Okhaldhunga,Construction,591
-Okhaldhunga,Wholesale and retail trade,661
-Okhaldhunga,Hotels and restaurants,55
-Okhaldhunga,"Transport, storage and
+Bhojpur,Kosi,Hill,Eastern,"Per capita income, $",618
+Bhojpur,Kosi,Hill,Eastern,"Per capita income, PPP $",999
+Okhaldhunga,Sagarmatha,Hill,Eastern,Agriculture and Forestry,3422
+Okhaldhunga,Sagarmatha,Hill,Eastern,Fishing,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,Mining and quarrying,51
+Okhaldhunga,Sagarmatha,Hill,Eastern,Manufacturing,81
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Electricity, gas and water",3
+Okhaldhunga,Sagarmatha,Hill,Eastern,Construction,591
+Okhaldhunga,Sagarmatha,Hill,Eastern,Wholesale and retail trade,661
+Okhaldhunga,Sagarmatha,Hill,Eastern,Hotels and restaurants,55
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Transport, storage and
 communications",140
-Okhaldhunga,Financial intermediation,32
-Okhaldhunga,"Real estate, renting and
+Okhaldhunga,Sagarmatha,Hill,Eastern,Financial intermediation,32
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Real estate, renting and
 business activities",367
-Okhaldhunga,"Public administration and
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Public administration and
 defense",163
-Okhaldhunga,Education,214
-Okhaldhunga,Health and social work,96
-Okhaldhunga,"Other community,
+Okhaldhunga,Sagarmatha,Hill,Eastern,Education,214
+Okhaldhunga,Sagarmatha,Hill,Eastern,Health and social work,96
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Other community,
 social and personal services
 activities",98
-Okhaldhunga,"Total economy including
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",5973
-Okhaldhunga,"Total economy at basic price
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Total economy at basic price
 (total value added)",5748
-Okhaldhunga,GDP at market price,6294
-Okhaldhunga,Factor income,40
-Okhaldhunga,GNI,6334
-Okhaldhunga,"Per capita income, Rs. at
+Okhaldhunga,Sagarmatha,Hill,Eastern,GDP at market price,6294
+Okhaldhunga,Sagarmatha,Hill,Eastern,Factor income,40
+Okhaldhunga,Sagarmatha,Hill,Eastern,GNI,6334
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Per capita income, Rs. at
 market price",42800
-Okhaldhunga,"Per capita income, $",592
-Okhaldhunga,"Per capita income, PPP $",957
-Khotang,Agriculture and Forestry,7143
-Khotang,Fishing,0
-Khotang,Mining and quarrying,32
-Khotang,Manufacturing,156
-Khotang,"Electricity, gas and water",12
-Khotang,Construction,592
-Khotang,Wholesale and retail trade,845
-Khotang,Hotels and restaurants,77
-Khotang,"Transport, storage and
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Per capita income, $",592
+Okhaldhunga,Sagarmatha,Hill,Eastern,"Per capita income, PPP $",957
+Khotang,Sagarmatha,Hill,Eastern,Agriculture and Forestry,7143
+Khotang,Sagarmatha,Hill,Eastern,Fishing,0
+Khotang,Sagarmatha,Hill,Eastern,Mining and quarrying,32
+Khotang,Sagarmatha,Hill,Eastern,Manufacturing,156
+Khotang,Sagarmatha,Hill,Eastern,"Electricity, gas and water",12
+Khotang,Sagarmatha,Hill,Eastern,Construction,592
+Khotang,Sagarmatha,Hill,Eastern,Wholesale and retail trade,845
+Khotang,Sagarmatha,Hill,Eastern,Hotels and restaurants,77
+Khotang,Sagarmatha,Hill,Eastern,"Transport, storage and
 communications",205
-Khotang,Financial intermediation,23
-Khotang,"Real estate, renting and
+Khotang,Sagarmatha,Hill,Eastern,Financial intermediation,23
+Khotang,Sagarmatha,Hill,Eastern,"Real estate, renting and
 business activities",39
-Khotang,"Public administration and
+Khotang,Sagarmatha,Hill,Eastern,"Public administration and
 defense",206
-Khotang,Education,247
-Khotang,Health and social work,127
-Khotang,"Other community,
+Khotang,Sagarmatha,Hill,Eastern,Education,247
+Khotang,Sagarmatha,Hill,Eastern,Health and social work,127
+Khotang,Sagarmatha,Hill,Eastern,"Other community,
 social and personal services
 activities",88
-Khotang,"Total economy including
+Khotang,Sagarmatha,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",9793
-Khotang,"Total economy at basic price
+Khotang,Sagarmatha,Hill,Eastern,"Total economy at basic price
 (total value added)",9477
-Khotang,GDP at market price,10376
-Khotang,Factor income,71
-Khotang,GNI,10446
-Khotang,"Per capita income, Rs. at
+Khotang,Sagarmatha,Hill,Eastern,GDP at market price,10376
+Khotang,Sagarmatha,Hill,Eastern,Factor income,71
+Khotang,Sagarmatha,Hill,Eastern,GNI,10446
+Khotang,Sagarmatha,Hill,Eastern,"Per capita income, Rs. at
 market price",50634
-Khotang,"Per capita income, $",701
-Khotang,"Per capita income, PPP $",1132
-Udayapur,Agriculture and Forestry,5625
-Udayapur,Fishing,8
-Udayapur,Mining and quarrying,198
-Udayapur,Manufacturing,892
-Udayapur,"Electricity, gas and water",165
-Udayapur,Construction,942
-Udayapur,Wholesale and retail trade,1342
-Udayapur,Hotels and restaurants,125
-Udayapur,"Transport, storage and
+Khotang,Sagarmatha,Hill,Eastern,"Per capita income, $",701
+Khotang,Sagarmatha,Hill,Eastern,"Per capita income, PPP $",1132
+Udayapur,Sagarmatha,Hill,Eastern,Agriculture and Forestry,5625
+Udayapur,Sagarmatha,Hill,Eastern,Fishing,8
+Udayapur,Sagarmatha,Hill,Eastern,Mining and quarrying,198
+Udayapur,Sagarmatha,Hill,Eastern,Manufacturing,892
+Udayapur,Sagarmatha,Hill,Eastern,"Electricity, gas and water",165
+Udayapur,Sagarmatha,Hill,Eastern,Construction,942
+Udayapur,Sagarmatha,Hill,Eastern,Wholesale and retail trade,1342
+Udayapur,Sagarmatha,Hill,Eastern,Hotels and restaurants,125
+Udayapur,Sagarmatha,Hill,Eastern,"Transport, storage and
 communications",425
-Udayapur,Financial intermediation,322
-Udayapur,"Real estate, renting and
+Udayapur,Sagarmatha,Hill,Eastern,Financial intermediation,322
+Udayapur,Sagarmatha,Hill,Eastern,"Real estate, renting and
 business activities",1332
-Udayapur,"Public administration and
+Udayapur,Sagarmatha,Hill,Eastern,"Public administration and
 defense",217
-Udayapur,Education,358
-Udayapur,Health and social work,182
-Udayapur,"Other community,
+Udayapur,Sagarmatha,Hill,Eastern,Education,358
+Udayapur,Sagarmatha,Hill,Eastern,Health and social work,182
+Udayapur,Sagarmatha,Hill,Eastern,"Other community,
 social and personal services
 activities",103
-Udayapur,"Total economy including
+Udayapur,Sagarmatha,Hill,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",12237
-Udayapur,"Total economy at basic price
+Udayapur,Sagarmatha,Hill,Eastern,"Total economy at basic price
 (total value added)",11842
-Udayapur,GDP at market price,12965
-Udayapur,Factor income,103
-Udayapur,GNI,13068
-Udayapur,"Per capita income, Rs. at
+Udayapur,Sagarmatha,Hill,Eastern,GDP at market price,12965
+Udayapur,Sagarmatha,Hill,Eastern,Factor income,103
+Udayapur,Sagarmatha,Hill,Eastern,GNI,13068
+Udayapur,Sagarmatha,Hill,Eastern,"Per capita income, Rs. at
 market price",41156
-Udayapur,"Per capita income, $",569
-Udayapur,"Per capita income, PPP $",920
-Jhapa,Agriculture and Forestry,19099
-Jhapa,Fishing,153
-Jhapa,Mining and quarrying,129
-Jhapa,Manufacturing,1927
-Jhapa,"Electricity, gas and water",612
-Jhapa,Construction,2510
-Jhapa,Wholesale and retail trade,6152
-Jhapa,Hotels and restaurants,672
-Jhapa,"Transport, storage and
+Udayapur,Sagarmatha,Hill,Eastern,"Per capita income, $",569
+Udayapur,Sagarmatha,Hill,Eastern,"Per capita income, PPP $",920
+Jhapa,Mechi,Terai,Eastern,Agriculture and Forestry,19099
+Jhapa,Mechi,Terai,Eastern,Fishing,153
+Jhapa,Mechi,Terai,Eastern,Mining and quarrying,129
+Jhapa,Mechi,Terai,Eastern,Manufacturing,1927
+Jhapa,Mechi,Terai,Eastern,"Electricity, gas and water",612
+Jhapa,Mechi,Terai,Eastern,Construction,2510
+Jhapa,Mechi,Terai,Eastern,Wholesale and retail trade,6152
+Jhapa,Mechi,Terai,Eastern,Hotels and restaurants,672
+Jhapa,Mechi,Terai,Eastern,"Transport, storage and
 communications",2825
-Jhapa,Financial intermediation,1345
-Jhapa,"Real estate, renting and
+Jhapa,Mechi,Terai,Eastern,Financial intermediation,1345
+Jhapa,Mechi,Terai,Eastern,"Real estate, renting and
 business activities",3034
-Jhapa,"Public administration and
+Jhapa,Mechi,Terai,Eastern,"Public administration and
 defense",431
-Jhapa,Education,1794
-Jhapa,Health and social work,435
-Jhapa,"Other community,
+Jhapa,Mechi,Terai,Eastern,Education,1794
+Jhapa,Mechi,Terai,Eastern,Health and social work,435
+Jhapa,Mechi,Terai,Eastern,"Other community,
 social and personal services
 activities",346
-Jhapa,"Total economy including
+Jhapa,Mechi,Terai,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",41465
-Jhapa,"Total economy at basic price
+Jhapa,Mechi,Terai,Eastern,"Total economy at basic price
 (total value added)",40370
-Jhapa,GDP at market price,44201
-Jhapa,Factor income,351
-Jhapa,GNI,44552
-Jhapa,"Per capita income, Rs. at
+Jhapa,Mechi,Terai,Eastern,GDP at market price,44201
+Jhapa,Mechi,Terai,Eastern,Factor income,351
+Jhapa,Mechi,Terai,Eastern,GNI,44552
+Jhapa,Mechi,Terai,Eastern,"Per capita income, Rs. at
 market price",54823
-Jhapa,"Per capita income, $",759
-Jhapa,"Per capita income, PPP $",1226
-Morang,Agriculture and Forestry,16963
-Morang,Fishing,312
-Morang,Mining and quarrying,123
-Morang,Manufacturing,6086
-Morang,"Electricity, gas and water",1178
-Morang,Construction,2766
-Morang,Wholesale and retail trade,8392
-Morang,Hotels and restaurants,993
-Morang,"Transport, storage and
+Jhapa,Mechi,Terai,Eastern,"Per capita income, $",759
+Jhapa,Mechi,Terai,Eastern,"Per capita income, PPP $",1226
+Morang,Kosi,Terai,Eastern,Agriculture and Forestry,16963
+Morang,Kosi,Terai,Eastern,Fishing,312
+Morang,Kosi,Terai,Eastern,Mining and quarrying,123
+Morang,Kosi,Terai,Eastern,Manufacturing,6086
+Morang,Kosi,Terai,Eastern,"Electricity, gas and water",1178
+Morang,Kosi,Terai,Eastern,Construction,2766
+Morang,Kosi,Terai,Eastern,Wholesale and retail trade,8392
+Morang,Kosi,Terai,Eastern,Hotels and restaurants,993
+Morang,Kosi,Terai,Eastern,"Transport, storage and
 communications",5200
-Morang,Financial intermediation,1752
-Morang,"Real estate, renting and
+Morang,Kosi,Terai,Eastern,Financial intermediation,1752
+Morang,Kosi,Terai,Eastern,"Real estate, renting and
 business activities",3137
-Morang,"Public administration and
+Morang,Kosi,Terai,Eastern,"Public administration and
 defense",519
-Morang,Education,1360
-Morang,Health and social work,834
-Morang,"Other community,
+Morang,Kosi,Terai,Eastern,Education,1360
+Morang,Kosi,Terai,Eastern,Health and social work,834
+Morang,Kosi,Terai,Eastern,"Other community,
 social and personal services
 activities",439
-Morang,"Total economy including
+Morang,Kosi,Terai,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",50055
-Morang,"Total economy at basic price
+Morang,Kosi,Terai,Eastern,"Total economy at basic price
 (total value added)",49026
-Morang,GDP at market price,53678
-Morang,Factor income,349
-Morang,GNI,54027
-Morang,"Per capita income, Rs. at
+Morang,Kosi,Terai,Eastern,GDP at market price,53678
+Morang,Kosi,Terai,Eastern,Factor income,349
+Morang,Kosi,Terai,Eastern,GNI,54027
+Morang,Kosi,Terai,Eastern,"Per capita income, Rs. at
 market price",55965
-Morang,"Per capita income, $",774
-Morang,"Per capita income, PPP $",1251
-Sunsari,Agriculture and Forestry,11829
-Sunsari,Fishing,163
-Sunsari,Mining and quarrying,129
-Sunsari,Manufacturing,4079
-Sunsari,"Electricity, gas and water",691
-Sunsari,Construction,2290
-Sunsari,Wholesale and retail trade,5630
-Sunsari,Hotels and restaurants,576
-Sunsari,"Transport, storage and
+Morang,Kosi,Terai,Eastern,"Per capita income, $",774
+Morang,Kosi,Terai,Eastern,"Per capita income, PPP $",1251
+Sunsari,Kosi,Terai,Eastern,Agriculture and Forestry,11829
+Sunsari,Kosi,Terai,Eastern,Fishing,163
+Sunsari,Kosi,Terai,Eastern,Mining and quarrying,129
+Sunsari,Kosi,Terai,Eastern,Manufacturing,4079
+Sunsari,Kosi,Terai,Eastern,"Electricity, gas and water",691
+Sunsari,Kosi,Terai,Eastern,Construction,2290
+Sunsari,Kosi,Terai,Eastern,Wholesale and retail trade,5630
+Sunsari,Kosi,Terai,Eastern,Hotels and restaurants,576
+Sunsari,Kosi,Terai,Eastern,"Transport, storage and
 communications",2531
-Sunsari,Financial intermediation,1629
-Sunsari,"Real estate, renting and
+Sunsari,Kosi,Terai,Eastern,Financial intermediation,1629
+Sunsari,Kosi,Terai,Eastern,"Real estate, renting and
 business activities",4066
-Sunsari,"Public administration and
+Sunsari,Kosi,Terai,Eastern,"Public administration and
 defense",490
-Sunsari,Education,893
-Sunsari,Health and social work,261
-Sunsari,"Other community,
+Sunsari,Kosi,Terai,Eastern,Education,893
+Sunsari,Kosi,Terai,Eastern,Health and social work,261
+Sunsari,Kosi,Terai,Eastern,"Other community,
 social and personal services
 activities",148
-Sunsari,"Total economy including
+Sunsari,Kosi,Terai,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",35404
-Sunsari,"Total economy at basic price
+Sunsari,Kosi,Terai,Eastern,"Total economy at basic price
 (total value added)",34261
-Sunsari,GDP at market price,37512
-Sunsari,Factor income,189
-Sunsari,GNI,37701
-Sunsari,"Per capita income, Rs. at
+Sunsari,Kosi,Terai,Eastern,GDP at market price,37512
+Sunsari,Kosi,Terai,Eastern,Factor income,189
+Sunsari,Kosi,Terai,Eastern,GNI,37701
+Sunsari,Kosi,Terai,Eastern,"Per capita income, Rs. at
 market price",49380
-Sunsari,"Per capita income, $",683
-Sunsari,"Per capita income, PPP $",1104
-Saptari,Agriculture and Forestry,11230
-Saptari,Fishing,561
-Saptari,Mining and quarrying,70
-Saptari,Manufacturing,660
-Saptari,"Electricity, gas and water",103
-Saptari,Construction,1570
-Saptari,Wholesale and retail trade,3833
-Saptari,Hotels and restaurants,418
-Saptari,"Transport, storage and
+Sunsari,Kosi,Terai,Eastern,"Per capita income, $",683
+Sunsari,Kosi,Terai,Eastern,"Per capita income, PPP $",1104
+Saptari,Sagarmatha,Terai,Eastern,Agriculture and Forestry,11230
+Saptari,Sagarmatha,Terai,Eastern,Fishing,561
+Saptari,Sagarmatha,Terai,Eastern,Mining and quarrying,70
+Saptari,Sagarmatha,Terai,Eastern,Manufacturing,660
+Saptari,Sagarmatha,Terai,Eastern,"Electricity, gas and water",103
+Saptari,Sagarmatha,Terai,Eastern,Construction,1570
+Saptari,Sagarmatha,Terai,Eastern,Wholesale and retail trade,3833
+Saptari,Sagarmatha,Terai,Eastern,Hotels and restaurants,418
+Saptari,Sagarmatha,Terai,Eastern,"Transport, storage and
 communications",783
-Saptari,Financial intermediation,241
-Saptari,"Real estate, renting and
+Saptari,Sagarmatha,Terai,Eastern,Financial intermediation,241
+Saptari,Sagarmatha,Terai,Eastern,"Real estate, renting and
 business activities",970
-Saptari,"Public administration and
+Saptari,Sagarmatha,Terai,Eastern,"Public administration and
 defense",336
-Saptari,Education,354
-Saptari,Health and social work,266
-Saptari,"Other community,
+Saptari,Sagarmatha,Terai,Eastern,Education,354
+Saptari,Sagarmatha,Terai,Eastern,Health and social work,266
+Saptari,Sagarmatha,Terai,Eastern,"Other community,
 social and personal services
 activities",120
-Saptari,"Total economy including
+Saptari,Sagarmatha,Terai,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",21518
-Saptari,"Total economy at basic price
+Saptari,Sagarmatha,Terai,Eastern,"Total economy at basic price
 (total value added)",20823
-Saptari,GDP at market price,22799
-Saptari,Factor income,112
-Saptari,GNI,22911
-Saptari,"Per capita income, Rs. at
+Saptari,Sagarmatha,Terai,Eastern,GDP at market price,22799
+Saptari,Sagarmatha,Terai,Eastern,Factor income,112
+Saptari,Sagarmatha,Terai,Eastern,GNI,22911
+Saptari,Sagarmatha,Terai,Eastern,"Per capita income, Rs. at
 market price",35838
-Saptari,"Per capita income, $",496
-Saptari,"Per capita income, PPP $",801
-Siraha,Agriculture and Forestry,7777
-Siraha,Fishing,391
-Siraha,Mining and quarrying,69
-Siraha,Manufacturing,438
-Siraha,"Electricity, gas and water",45
-Siraha,Construction,1531
-Siraha,Wholesale and retail trade,3827
-Siraha,Hotels and restaurants,413
-Siraha,"Transport, storage and
+Saptari,Sagarmatha,Terai,Eastern,"Per capita income, $",496
+Saptari,Sagarmatha,Terai,Eastern,"Per capita income, PPP $",801
+Siraha,Sagarmatha,Terai,Eastern,Agriculture and Forestry,7777
+Siraha,Sagarmatha,Terai,Eastern,Fishing,391
+Siraha,Sagarmatha,Terai,Eastern,Mining and quarrying,69
+Siraha,Sagarmatha,Terai,Eastern,Manufacturing,438
+Siraha,Sagarmatha,Terai,Eastern,"Electricity, gas and water",45
+Siraha,Sagarmatha,Terai,Eastern,Construction,1531
+Siraha,Sagarmatha,Terai,Eastern,Wholesale and retail trade,3827
+Siraha,Sagarmatha,Terai,Eastern,Hotels and restaurants,413
+Siraha,Sagarmatha,Terai,Eastern,"Transport, storage and
 communications",592
-Siraha,Financial intermediation,284
-Siraha,"Real estate, renting and
+Siraha,Sagarmatha,Terai,Eastern,Financial intermediation,284
+Siraha,Sagarmatha,Terai,Eastern,"Real estate, renting and
 business activities",1671
-Siraha,"Public administration and
+Siraha,Sagarmatha,Terai,Eastern,"Public administration and
 defense",267
-Siraha,Education,713
-Siraha,Health and social work,239
-Siraha,"Other community,
+Siraha,Sagarmatha,Terai,Eastern,Education,713
+Siraha,Sagarmatha,Terai,Eastern,Health and social work,239
+Siraha,Sagarmatha,Terai,Eastern,"Other community,
 social and personal services
 activities",121
-Siraha,"Total economy including
+Siraha,Sagarmatha,Terai,Eastern,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",18378
-Siraha,"Total economy at basic price
+Siraha,Sagarmatha,Terai,Eastern,"Total economy at basic price
 (total value added)",17784
-Siraha,GDP at market price,19472
-Siraha,Factor income,171
-Siraha,GNI,19643
-Siraha,"Per capita income, Rs. at
+Siraha,Sagarmatha,Terai,Eastern,GDP at market price,19472
+Siraha,Sagarmatha,Terai,Eastern,Factor income,171
+Siraha,Sagarmatha,Terai,Eastern,GNI,19643
+Siraha,Sagarmatha,Terai,Eastern,"Per capita income, Rs. at
 market price",30820
-Siraha,"Per capita income, $",426
-Siraha,"Per capita income, PPP $",689
-Dolakha,Agriculture and Forestry,2869
-Dolakha,Fishing,0
-Dolakha,Mining and quarrying,69
-Dolakha,Manufacturing,200
-Dolakha,"Electricity, gas and water",41
-Dolakha,Construction,977
-Dolakha,Wholesale and retail trade,848
-Dolakha,Hotels and restaurants,101
-Dolakha,"Transport, storage and
+Siraha,Sagarmatha,Terai,Eastern,"Per capita income, $",426
+Siraha,Sagarmatha,Terai,Eastern,"Per capita income, PPP $",689
+Dolakha,Janakpur,Mountain,Central,Agriculture and Forestry,2869
+Dolakha,Janakpur,Mountain,Central,Fishing,0
+Dolakha,Janakpur,Mountain,Central,Mining and quarrying,69
+Dolakha,Janakpur,Mountain,Central,Manufacturing,200
+Dolakha,Janakpur,Mountain,Central,"Electricity, gas and water",41
+Dolakha,Janakpur,Mountain,Central,Construction,977
+Dolakha,Janakpur,Mountain,Central,Wholesale and retail trade,848
+Dolakha,Janakpur,Mountain,Central,Hotels and restaurants,101
+Dolakha,Janakpur,Mountain,Central,"Transport, storage and
 communications",161
-Dolakha,Financial intermediation,308
-Dolakha,"Real estate, renting and
+Dolakha,Janakpur,Mountain,Central,Financial intermediation,308
+Dolakha,Janakpur,Mountain,Central,"Real estate, renting and
 business activities",818
-Dolakha,"Public administration and
+Dolakha,Janakpur,Mountain,Central,"Public administration and
 defense",177
-Dolakha,Education,322
-Dolakha,Health and social work,228
-Dolakha,"Other community,
+Dolakha,Janakpur,Mountain,Central,Education,322
+Dolakha,Janakpur,Mountain,Central,Health and social work,228
+Dolakha,Janakpur,Mountain,Central,"Other community,
 social and personal services
 activities",106
-Dolakha,"Total economy including
+Dolakha,Janakpur,Mountain,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7225
-Dolakha,"Total economy at basic price
+Dolakha,Janakpur,Mountain,Central,"Total economy at basic price
 (total value added)",6992
-Dolakha,GDP at market price,7655
-Dolakha,Factor income,41
-Dolakha,GNI,7697
-Dolakha,"Per capita income, Rs. at
+Dolakha,Janakpur,Mountain,Central,GDP at market price,7655
+Dolakha,Janakpur,Mountain,Central,Factor income,41
+Dolakha,Janakpur,Mountain,Central,GNI,7697
+Dolakha,Janakpur,Mountain,Central,"Per capita income, Rs. at
 market price",41256
-Dolakha,"Per capita income, $",571
-Dolakha,"Per capita income, PPP $",922
-Sindhupalchok,Agriculture and Forestry,6645
-Sindhupalchok,Fishing,0
-Sindhupalchok,Mining and quarrying,52
-Sindhupalchok,Manufacturing,300
-Sindhupalchok,"Electricity, gas and water",73
-Sindhupalchok,Construction,1171
-Sindhupalchok,Wholesale and retail trade,1268
-Sindhupalchok,Hotels and restaurants,165
-Sindhupalchok,"Transport, storage and
+Dolakha,Janakpur,Mountain,Central,"Per capita income, $",571
+Dolakha,Janakpur,Mountain,Central,"Per capita income, PPP $",922
+Sindhupalchok,Bagmati,Mountain,Central,Agriculture and Forestry,6645
+Sindhupalchok,Bagmati,Mountain,Central,Fishing,0
+Sindhupalchok,Bagmati,Mountain,Central,Mining and quarrying,52
+Sindhupalchok,Bagmati,Mountain,Central,Manufacturing,300
+Sindhupalchok,Bagmati,Mountain,Central,"Electricity, gas and water",73
+Sindhupalchok,Bagmati,Mountain,Central,Construction,1171
+Sindhupalchok,Bagmati,Mountain,Central,Wholesale and retail trade,1268
+Sindhupalchok,Bagmati,Mountain,Central,Hotels and restaurants,165
+Sindhupalchok,Bagmati,Mountain,Central,"Transport, storage and
 communications",1805
-Sindhupalchok,Financial intermediation,518
-Sindhupalchok,"Real estate, renting and
+Sindhupalchok,Bagmati,Mountain,Central,Financial intermediation,518
+Sindhupalchok,Bagmati,Mountain,Central,"Real estate, renting and
 business activities",574
-Sindhupalchok,"Public administration and
+Sindhupalchok,Bagmati,Mountain,Central,"Public administration and
 defense",233
-Sindhupalchok,Education,358
-Sindhupalchok,Health and social work,145
-Sindhupalchok,"Other community,
+Sindhupalchok,Bagmati,Mountain,Central,Education,358
+Sindhupalchok,Bagmati,Mountain,Central,Health and social work,145
+Sindhupalchok,Bagmati,Mountain,Central,"Other community,
 social and personal services
 activities",103
-Sindhupalchok,"Total economy including
+Sindhupalchok,Bagmati,Mountain,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",13409
-Sindhupalchok,"Total economy at basic price
+Sindhupalchok,Bagmati,Mountain,Central,"Total economy at basic price
 (total value added)",12976
-Sindhupalchok,GDP at market price,14208
-Sindhupalchok,Factor income,83
-Sindhupalchok,GNI,14291
-Sindhupalchok,"Per capita income, Rs. at
+Sindhupalchok,Bagmati,Mountain,Central,GDP at market price,14208
+Sindhupalchok,Bagmati,Mountain,Central,Factor income,83
+Sindhupalchok,Bagmati,Mountain,Central,GNI,14291
+Sindhupalchok,Bagmati,Mountain,Central,"Per capita income, Rs. at
 market price",49657
-Sindhupalchok,"Per capita income, $",687
-Sindhupalchok,"Per capita income, PPP $",1110
-Rasuwa,Agriculture and Forestry,1605
-Rasuwa,Fishing,0
-Rasuwa,Mining and quarrying,13
-Rasuwa,Manufacturing,53
-Rasuwa,"Electricity, gas and water",13
-Rasuwa,Construction,198
-Rasuwa,Wholesale and retail trade,179
-Rasuwa,Hotels and restaurants,26
-Rasuwa,"Transport, storage and
+Sindhupalchok,Bagmati,Mountain,Central,"Per capita income, $",687
+Sindhupalchok,Bagmati,Mountain,Central,"Per capita income, PPP $",1110
+Rasuwa,Bagmati,Mountain,Central,Agriculture and Forestry,1605
+Rasuwa,Bagmati,Mountain,Central,Fishing,0
+Rasuwa,Bagmati,Mountain,Central,Mining and quarrying,13
+Rasuwa,Bagmati,Mountain,Central,Manufacturing,53
+Rasuwa,Bagmati,Mountain,Central,"Electricity, gas and water",13
+Rasuwa,Bagmati,Mountain,Central,Construction,198
+Rasuwa,Bagmati,Mountain,Central,Wholesale and retail trade,179
+Rasuwa,Bagmati,Mountain,Central,Hotels and restaurants,26
+Rasuwa,Bagmati,Mountain,Central,"Transport, storage and
 communications",115
-Rasuwa,Financial intermediation,62
-Rasuwa,"Real estate, renting and
+Rasuwa,Bagmati,Mountain,Central,Financial intermediation,62
+Rasuwa,Bagmati,Mountain,Central,"Real estate, renting and
 business activities",217
-Rasuwa,"Public administration and
+Rasuwa,Bagmati,Mountain,Central,"Public administration and
 defense",92
-Rasuwa,Education,64
-Rasuwa,Health and social work,35
-Rasuwa,"Other community,
+Rasuwa,Bagmati,Mountain,Central,Education,64
+Rasuwa,Bagmati,Mountain,Central,Health and social work,35
+Rasuwa,Bagmati,Mountain,Central,"Other community,
 social and personal services
 activities",94
-Rasuwa,"Total economy including
+Rasuwa,Bagmati,Mountain,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",2767
-Rasuwa,"Total economy at basic price
+Rasuwa,Bagmati,Mountain,Central,"Total economy at basic price
 (total value added)",2677
-Rasuwa,GDP at market price,2931
-Rasuwa,Factor income,12
-Rasuwa,GNI,2943
-Rasuwa,"Per capita income, Rs. at
+Rasuwa,Bagmati,Mountain,Central,GDP at market price,2931
+Rasuwa,Bagmati,Mountain,Central,Factor income,12
+Rasuwa,Bagmati,Mountain,Central,GNI,2943
+Rasuwa,Bagmati,Mountain,Central,"Per capita income, Rs. at
 market price",67973
-Rasuwa,"Per capita income, $",941
-Rasuwa,"Per capita income, PPP $",1520
-Sindhuli,Agriculture and Forestry,5714
-Sindhuli,Fishing,1
-Sindhuli,Mining and quarrying,42
-Sindhuli,Manufacturing,165
-Sindhuli,"Electricity, gas and water",73
-Sindhuli,Construction,991
-Sindhuli,Wholesale and retail trade,1153
-Sindhuli,Hotels and restaurants,95
-Sindhuli,"Transport, storage and
+Rasuwa,Bagmati,Mountain,Central,"Per capita income, $",941
+Rasuwa,Bagmati,Mountain,Central,"Per capita income, PPP $",1520
+Sindhuli,Janakpur,Hill,Central,Agriculture and Forestry,5714
+Sindhuli,Janakpur,Hill,Central,Fishing,1
+Sindhuli,Janakpur,Hill,Central,Mining and quarrying,42
+Sindhuli,Janakpur,Hill,Central,Manufacturing,165
+Sindhuli,Janakpur,Hill,Central,"Electricity, gas and water",73
+Sindhuli,Janakpur,Hill,Central,Construction,991
+Sindhuli,Janakpur,Hill,Central,Wholesale and retail trade,1153
+Sindhuli,Janakpur,Hill,Central,Hotels and restaurants,95
+Sindhuli,Janakpur,Hill,Central,"Transport, storage and
 communications",333
-Sindhuli,Financial intermediation,156
-Sindhuli,"Real estate, renting and
+Sindhuli,Janakpur,Hill,Central,Financial intermediation,156
+Sindhuli,Janakpur,Hill,Central,"Real estate, renting and
 business activities",558
-Sindhuli,"Public administration and
+Sindhuli,Janakpur,Hill,Central,"Public administration and
 defense",231
-Sindhuli,Education,527
-Sindhuli,Health and social work,77
-Sindhuli,"Other community,
+Sindhuli,Janakpur,Hill,Central,Education,527
+Sindhuli,Janakpur,Hill,Central,Health and social work,77
+Sindhuli,Janakpur,Hill,Central,"Other community,
 social and personal services
 activities",98
-Sindhuli,"Total economy including
+Sindhuli,Janakpur,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",10214
-Sindhuli,"Total economy at basic price
+Sindhuli,Janakpur,Hill,Central,"Total economy at basic price
 (total value added)",9884
-Sindhuli,GDP at market price,10822
-Sindhuli,Factor income,68
-Sindhuli,GNI,10890
-Sindhuli,"Per capita income, Rs. at
+Sindhuli,Janakpur,Hill,Central,GDP at market price,10822
+Sindhuli,Janakpur,Hill,Central,Factor income,68
+Sindhuli,Janakpur,Hill,Central,GNI,10890
+Sindhuli,Janakpur,Hill,Central,"Per capita income, Rs. at
 market price",36767
-Sindhuli,"Per capita income, $",509
-Sindhuli,"Per capita income, PPP $",822
-Ramechhap,Agriculture and Forestry,4775
-Ramechhap,Fishing,0
-Ramechhap,Mining and quarrying,37
-Ramechhap,Manufacturing,105
-Ramechhap,"Electricity, gas and water",31
-Ramechhap,Construction,783
-Ramechhap,Wholesale and retail trade,880
-Ramechhap,Hotels and restaurants,78
-Ramechhap,"Transport, storage and
+Sindhuli,Janakpur,Hill,Central,"Per capita income, $",509
+Sindhuli,Janakpur,Hill,Central,"Per capita income, PPP $",822
+Ramechhap,Janakpur,Hill,Central,Agriculture and Forestry,4775
+Ramechhap,Janakpur,Hill,Central,Fishing,0
+Ramechhap,Janakpur,Hill,Central,Mining and quarrying,37
+Ramechhap,Janakpur,Hill,Central,Manufacturing,105
+Ramechhap,Janakpur,Hill,Central,"Electricity, gas and water",31
+Ramechhap,Janakpur,Hill,Central,Construction,783
+Ramechhap,Janakpur,Hill,Central,Wholesale and retail trade,880
+Ramechhap,Janakpur,Hill,Central,Hotels and restaurants,78
+Ramechhap,Janakpur,Hill,Central,"Transport, storage and
 communications",131
-Ramechhap,Financial intermediation,20
-Ramechhap,"Real estate, renting and
+Ramechhap,Janakpur,Hill,Central,Financial intermediation,20
+Ramechhap,Janakpur,Hill,Central,"Real estate, renting and
 business activities",568
-Ramechhap,"Public administration and
+Ramechhap,Janakpur,Hill,Central,"Public administration and
 defense",171
-Ramechhap,Education,345
-Ramechhap,Health and social work,86
-Ramechhap,"Other community,
+Ramechhap,Janakpur,Hill,Central,Education,345
+Ramechhap,Janakpur,Hill,Central,Health and social work,86
+Ramechhap,Janakpur,Hill,Central,"Other community,
 social and personal services
 activities",85
-Ramechhap,"Total economy including
+Ramechhap,Janakpur,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8095
-Ramechhap,"Total economy at basic price
+Ramechhap,Janakpur,Hill,Central,"Total economy at basic price
 (total value added)",7836
-Ramechhap,GDP at market price,8579
-Ramechhap,Factor income,38
-Ramechhap,GNI,8617
-Ramechhap,"Per capita income, Rs. at
+Ramechhap,Janakpur,Hill,Central,GDP at market price,8579
+Ramechhap,Janakpur,Hill,Central,Factor income,38
+Ramechhap,Janakpur,Hill,Central,GNI,8617
+Ramechhap,Janakpur,Hill,Central,"Per capita income, Rs. at
 market price",42524
-Ramechhap,"Per capita income, $",588
-Ramechhap,"Per capita income, PPP $",951
-Kavrepalanchok,Agriculture and Forestry,11746
-Kavrepalanchok,Fishing,1
-Kavrepalanchok,Mining and quarrying,92
-Kavrepalanchok,Manufacturing,513
-Kavrepalanchok,"Electricity, gas and water",245
-Kavrepalanchok,Construction,1567
-Kavrepalanchok,Wholesale and retail trade,1705
-Kavrepalanchok,Hotels and restaurants,378
-Kavrepalanchok,"Transport, storage and
+Ramechhap,Janakpur,Hill,Central,"Per capita income, $",588
+Ramechhap,Janakpur,Hill,Central,"Per capita income, PPP $",951
+Kavre,Bagmati,Hill,Central,Agriculture and Forestry,11746
+Kavre,Bagmati,Hill,Central,Fishing,1
+Kavre,Bagmati,Hill,Central,Mining and quarrying,92
+Kavre,Bagmati,Hill,Central,Manufacturing,513
+Kavre,Bagmati,Hill,Central,"Electricity, gas and water",245
+Kavre,Bagmati,Hill,Central,Construction,1567
+Kavre,Bagmati,Hill,Central,Wholesale and retail trade,1705
+Kavre,Bagmati,Hill,Central,Hotels and restaurants,378
+Kavre,Bagmati,Hill,Central,"Transport, storage and
 communications",1907
-Kavrepalanchok,Financial intermediation,724
-Kavrepalanchok,"Real estate, renting and
+Kavre,Bagmati,Hill,Central,Financial intermediation,724
+Kavre,Bagmati,Hill,Central,"Real estate, renting and
 business activities",1747
-Kavrepalanchok,"Public administration and
+Kavre,Bagmati,Hill,Central,"Public administration and
 defense",305
-Kavrepalanchok,Education,915
-Kavrepalanchok,Health and social work,340
-Kavrepalanchok,"Other community,
+Kavre,Bagmati,Hill,Central,Education,915
+Kavre,Bagmati,Hill,Central,Health and social work,340
+Kavre,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",319
-Kavrepalanchok,"Total economy including
+Kavre,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",22504
-Kavrepalanchok,"Total economy at basic price
+Kavre,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",21778
-Kavrepalanchok,GDP at market price,23844
-Kavrepalanchok,Factor income,50
-Kavrepalanchok,GNI,23894
-Kavrepalanchok,"Per capita income, Rs. at
+Kavre,Bagmati,Hill,Central,GDP at market price,23844
+Kavre,Bagmati,Hill,Central,Factor income,50
+Kavre,Bagmati,Hill,Central,GNI,23894
+Kavre,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",62559
-Kavrepalanchok,"Per capita income, $",866
-Kavrepalanchok,"Per capita income, PPP $",1399
-Lalitpur,Agriculture and Forestry,3733
-Lalitpur,Fishing,3
-Lalitpur,Mining and quarrying,489
-Lalitpur,Manufacturing,2578
-Lalitpur,"Electricity, gas and water",846
-Lalitpur,Construction,4066
-Lalitpur,Wholesale and retail trade,6111
-Lalitpur,Hotels and restaurants,696
-Lalitpur,"Transport, storage and
+Kavre,Bagmati,Hill,Central,"Per capita income, $",866
+Kavre,Bagmati,Hill,Central,"Per capita income, PPP $",1399
+Lalitpur,Bagmati,Hill,Central,Agriculture and Forestry,3733
+Lalitpur,Bagmati,Hill,Central,Fishing,3
+Lalitpur,Bagmati,Hill,Central,Mining and quarrying,489
+Lalitpur,Bagmati,Hill,Central,Manufacturing,2578
+Lalitpur,Bagmati,Hill,Central,"Electricity, gas and water",846
+Lalitpur,Bagmati,Hill,Central,Construction,4066
+Lalitpur,Bagmati,Hill,Central,Wholesale and retail trade,6111
+Lalitpur,Bagmati,Hill,Central,Hotels and restaurants,696
+Lalitpur,Bagmati,Hill,Central,"Transport, storage and
 communications",3002
-Lalitpur,Financial intermediation,3363
-Lalitpur,"Real estate, renting and
+Lalitpur,Bagmati,Hill,Central,Financial intermediation,3363
+Lalitpur,Bagmati,Hill,Central,"Real estate, renting and
 business activities",5353
-Lalitpur,"Public administration and
+Lalitpur,Bagmati,Hill,Central,"Public administration and
 defense",499
-Lalitpur,Education,5464
-Lalitpur,Health and social work,451
-Lalitpur,"Other community,
+Lalitpur,Bagmati,Hill,Central,Education,5464
+Lalitpur,Bagmati,Hill,Central,Health and social work,451
+Lalitpur,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",733
-Lalitpur,"Total economy including
+Lalitpur,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",37386
-Lalitpur,"Total economy at basic price
+Lalitpur,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",36179
-Lalitpur,GDP at market price,39612
-Lalitpur,Factor income,46
-Lalitpur,GNI,39658
-Lalitpur,"Per capita income, Rs. at
+Lalitpur,Bagmati,Hill,Central,GDP at market price,39612
+Lalitpur,Bagmati,Hill,Central,Factor income,46
+Lalitpur,Bagmati,Hill,Central,GNI,39658
+Lalitpur,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",84715
-Lalitpur,"Per capita income, $",1172
-Lalitpur,"Per capita income, PPP $",1894
-Bhaktapur,Agriculture and Forestry,2781
-Bhaktapur,Fishing,2
-Bhaktapur,Mining and quarrying,66
-Bhaktapur,Manufacturing,1232
-Bhaktapur,"Electricity, gas and water",318
-Bhaktapur,Construction,1267
-Bhaktapur,Wholesale and retail trade,1894
-Bhaktapur,Hotels and restaurants,117
-Bhaktapur,"Transport, storage and
+Lalitpur,Bagmati,Hill,Central,"Per capita income, $",1172
+Lalitpur,Bagmati,Hill,Central,"Per capita income, PPP $",1894
+Bhaktapur,Bagmati,Hill,Central,Agriculture and Forestry,2781
+Bhaktapur,Bagmati,Hill,Central,Fishing,2
+Bhaktapur,Bagmati,Hill,Central,Mining and quarrying,66
+Bhaktapur,Bagmati,Hill,Central,Manufacturing,1232
+Bhaktapur,Bagmati,Hill,Central,"Electricity, gas and water",318
+Bhaktapur,Bagmati,Hill,Central,Construction,1267
+Bhaktapur,Bagmati,Hill,Central,Wholesale and retail trade,1894
+Bhaktapur,Bagmati,Hill,Central,Hotels and restaurants,117
+Bhaktapur,Bagmati,Hill,Central,"Transport, storage and
 communications",1629
-Bhaktapur,Financial intermediation,1286
-Bhaktapur,"Real estate, renting and
+Bhaktapur,Bagmati,Hill,Central,Financial intermediation,1286
+Bhaktapur,Bagmati,Hill,Central,"Real estate, renting and
 business activities",3376
-Bhaktapur,"Public administration and
+Bhaktapur,Bagmati,Hill,Central,"Public administration and
 defense",250
-Bhaktapur,Education,3001
-Bhaktapur,Health and social work,193
-Bhaktapur,"Other community,
+Bhaktapur,Bagmati,Hill,Central,Education,3001
+Bhaktapur,Bagmati,Hill,Central,Health and social work,193
+Bhaktapur,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",303
-Bhaktapur,"Total economy including
+Bhaktapur,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",17714
-Bhaktapur,"Total economy at basic price
+Bhaktapur,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",17142
-Bhaktapur,GDP at market price,18769
-Bhaktapur,Factor income,24
-Bhaktapur,GNI,18793
-Bhaktapur,"Per capita income, Rs. at
+Bhaktapur,Bagmati,Hill,Central,GDP at market price,18769
+Bhaktapur,Bagmati,Hill,Central,Factor income,24
+Bhaktapur,Bagmati,Hill,Central,GNI,18793
+Bhaktapur,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",61686
-Bhaktapur,"Per capita income, $",854
-Bhaktapur,"Per capita income, PPP $",1379
-Kathmandu,Agriculture and Forestry,6010
-Kathmandu,Fishing,3
-Kathmandu,Mining and quarrying,1556
-Kathmandu,Manufacturing,8600
-Kathmandu,"Electricity, gas and water",2451
-Kathmandu,Construction,14103
-Kathmandu,Wholesale and retail trade,35686
-Kathmandu,Hotels and restaurants,4619
-Kathmandu,"Transport, storage and
+Bhaktapur,Bagmati,Hill,Central,"Per capita income, $",854
+Bhaktapur,Bagmati,Hill,Central,"Per capita income, PPP $",1379
+Kathmandu,Bagmati,Hill,Central,Agriculture and Forestry,6010
+Kathmandu,Bagmati,Hill,Central,Fishing,3
+Kathmandu,Bagmati,Hill,Central,Mining and quarrying,1556
+Kathmandu,Bagmati,Hill,Central,Manufacturing,8600
+Kathmandu,Bagmati,Hill,Central,"Electricity, gas and water",2451
+Kathmandu,Bagmati,Hill,Central,Construction,14103
+Kathmandu,Bagmati,Hill,Central,Wholesale and retail trade,35686
+Kathmandu,Bagmati,Hill,Central,Hotels and restaurants,4619
+Kathmandu,Bagmati,Hill,Central,"Transport, storage and
 communications",29426
-Kathmandu,Financial intermediation,17298
-Kathmandu,"Real estate, renting and
+Kathmandu,Bagmati,Hill,Central,Financial intermediation,17298
+Kathmandu,Bagmati,Hill,Central,"Real estate, renting and
 business activities",20616
-Kathmandu,"Public administration and
+Kathmandu,Bagmati,Hill,Central,"Public administration and
 defense",7170
-Kathmandu,Education,20436
-Kathmandu,Health and social work,"19,63"
-Kathmandu,"Other community,
+Kathmandu,Bagmati,Hill,Central,Education,20436
+Kathmandu,Bagmati,Hill,Central,Health and social work,"19,63"
+Kathmandu,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",35602
-Kathmandu,"Total economy including
+Kathmandu,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",205540
-Kathmandu,"Total economy at basic price
+Kathmandu,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",196723
-Kathmandu,GDP at market price,215391
-Kathmandu,Factor income,199
-Kathmandu,GNI,215590
-Kathmandu,"Per capita income, Rs. at
+Kathmandu,Bagmati,Hill,Central,GDP at market price,215391
+Kathmandu,Bagmati,Hill,Central,Factor income,199
+Kathmandu,Bagmati,Hill,Central,GNI,215590
+Kathmandu,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",123601
-Kathmandu,"Per capita income, $",1710
-Kathmandu,"Per capita income, PPP $",2764
-Nuwakot,Agriculture and Forestry,6335
-Nuwakot,Fishing,1
-Nuwakot,Mining and quarrying,127
-Nuwakot,Manufacturing,163
-Nuwakot,"Electricity, gas and water",118
-Nuwakot,Construction,1218
-Nuwakot,Wholesale and retail trade,1194
-Nuwakot,Hotels and restaurants,321
-Nuwakot,"Transport, storage and
+Kathmandu,Bagmati,Hill,Central,"Per capita income, $",1710
+Kathmandu,Bagmati,Hill,Central,"Per capita income, PPP $",2764
+Nuwakot,Bagmati,Hill,Central,Agriculture and Forestry,6335
+Nuwakot,Bagmati,Hill,Central,Fishing,1
+Nuwakot,Bagmati,Hill,Central,Mining and quarrying,127
+Nuwakot,Bagmati,Hill,Central,Manufacturing,163
+Nuwakot,Bagmati,Hill,Central,"Electricity, gas and water",118
+Nuwakot,Bagmati,Hill,Central,Construction,1218
+Nuwakot,Bagmati,Hill,Central,Wholesale and retail trade,1194
+Nuwakot,Bagmati,Hill,Central,Hotels and restaurants,321
+Nuwakot,Bagmati,Hill,Central,"Transport, storage and
 communications",1363
-Nuwakot,Financial intermediation,195
-Nuwakot,"Real estate, renting and
+Nuwakot,Bagmati,Hill,Central,Financial intermediation,195
+Nuwakot,Bagmati,Hill,Central,"Real estate, renting and
 business activities",891
-Nuwakot,"Public administration and
+Nuwakot,Bagmati,Hill,Central,"Public administration and
 defense",222
-Nuwakot,Education,315
-Nuwakot,Health and social work,116
-Nuwakot,"Other community,
+Nuwakot,Bagmati,Hill,Central,Education,315
+Nuwakot,Bagmati,Hill,Central,Health and social work,116
+Nuwakot,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",98
-Nuwakot,"Total economy including
+Nuwakot,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",12676
-Nuwakot,"Total economy at basic price
+Nuwakot,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",12267
-Nuwakot,GDP at market price,13431
-Nuwakot,Factor income,50
-Nuwakot,GNI,13481
-Nuwakot,"Per capita income, Rs. at
+Nuwakot,Bagmati,Hill,Central,GDP at market price,13431
+Nuwakot,Bagmati,Hill,Central,Factor income,50
+Nuwakot,Bagmati,Hill,Central,GNI,13481
+Nuwakot,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",48586
-Nuwakot,"Per capita income, $",672
-Nuwakot,"Per capita income, PPP $",1086
-Dhading,Agriculture and Forestry,6054
-Dhading,Fishing,1
-Dhading,Mining and quarrying,42
-Dhading,Manufacturing,682
-Dhading,"Electricity, gas and water",134
-Dhading,Construction,1212
-Dhading,Wholesale and retail trade,1632
-Dhading,Hotels and restaurants,132
-Dhading,"Transport, storage and
+Nuwakot,Bagmati,Hill,Central,"Per capita income, $",672
+Nuwakot,Bagmati,Hill,Central,"Per capita income, PPP $",1086
+Dhading,Bagmati,Hill,Central,Agriculture and Forestry,6054
+Dhading,Bagmati,Hill,Central,Fishing,1
+Dhading,Bagmati,Hill,Central,Mining and quarrying,42
+Dhading,Bagmati,Hill,Central,Manufacturing,682
+Dhading,Bagmati,Hill,Central,"Electricity, gas and water",134
+Dhading,Bagmati,Hill,Central,Construction,1212
+Dhading,Bagmati,Hill,Central,Wholesale and retail trade,1632
+Dhading,Bagmati,Hill,Central,Hotels and restaurants,132
+Dhading,Bagmati,Hill,Central,"Transport, storage and
 communications",2011
-Dhading,Financial intermediation,148
-Dhading,"Real estate, renting and
+Dhading,Bagmati,Hill,Central,Financial intermediation,148
+Dhading,Bagmati,Hill,Central,"Real estate, renting and
 business activities",783
-Dhading,"Public administration and
+Dhading,Bagmati,Hill,Central,"Public administration and
 defense",231
-Dhading,Education,472
-Dhading,Health and social work,182
-Dhading,"Other community,
+Dhading,Bagmati,Hill,Central,Education,472
+Dhading,Bagmati,Hill,Central,Health and social work,182
+Dhading,Bagmati,Hill,Central,"Other community,
 social and personal services
 activities",122
-Dhading,"Total economy including
+Dhading,Bagmati,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",13838
-Dhading,"Total economy at basic price
+Dhading,Bagmati,Hill,Central,"Total economy at basic price
 (total value added)",13392
-Dhading,GDP at market price,14662
-Dhading,Factor income,91
-Dhading,GNI,14753
-Dhading,"Per capita income, Rs. at
+Dhading,Bagmati,Hill,Central,GDP at market price,14662
+Dhading,Bagmati,Hill,Central,Factor income,91
+Dhading,Bagmati,Hill,Central,GNI,14753
+Dhading,Bagmati,Hill,Central,"Per capita income, Rs. at
 market price",43899
-Dhading,"Per capita income, $",607
-Dhading,"Per capita income, PPP $",982
-Makwanpur,Agriculture and Forestry,6466
-Makwanpur,Fishing,13
-Makwanpur,Mining and quarrying,127
-Makwanpur,Manufacturing,3691
-Makwanpur,"Electricity, gas and water",434
-Makwanpur,Construction,1827
-Makwanpur,Wholesale and retail trade,2083
-Makwanpur,Hotels and restaurants,159
-Makwanpur,"Transport, storage and
+Dhading,Bagmati,Hill,Central,"Per capita income, $",607
+Dhading,Bagmati,Hill,Central,"Per capita income, PPP $",982
+Makwanpur,Narayani,Hill,Central,Agriculture and Forestry,6466
+Makwanpur,Narayani,Hill,Central,Fishing,13
+Makwanpur,Narayani,Hill,Central,Mining and quarrying,127
+Makwanpur,Narayani,Hill,Central,Manufacturing,3691
+Makwanpur,Narayani,Hill,Central,"Electricity, gas and water",434
+Makwanpur,Narayani,Hill,Central,Construction,1827
+Makwanpur,Narayani,Hill,Central,Wholesale and retail trade,2083
+Makwanpur,Narayani,Hill,Central,Hotels and restaurants,159
+Makwanpur,Narayani,Hill,Central,"Transport, storage and
 communications",5657
-Makwanpur,Financial intermediation,870
-Makwanpur,"Real estate, renting and
+Makwanpur,Narayani,Hill,Central,Financial intermediation,870
+Makwanpur,Narayani,Hill,Central,"Real estate, renting and
 business activities",1855
-Makwanpur,"Public administration and
+Makwanpur,Narayani,Hill,Central,"Public administration and
 defense",468
-Makwanpur,Education,794
-Makwanpur,Health and social work,218
-Makwanpur,"Other community,
+Makwanpur,Narayani,Hill,Central,Education,794
+Makwanpur,Narayani,Hill,Central,Health and social work,218
+Makwanpur,Narayani,Hill,Central,"Other community,
 social and personal services
 activities",301
-Makwanpur,"Total economy including
+Makwanpur,Narayani,Hill,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",24963
-Makwanpur,"Total economy at basic price
+Makwanpur,Narayani,Hill,Central,"Total economy at basic price
 (total value added)",24157
-Makwanpur,GDP at market price,26449
-Makwanpur,Factor income,74
-Makwanpur,GNI,26523
-Makwanpur,"Per capita income, Rs. at
+Makwanpur,Narayani,Hill,Central,GDP at market price,26449
+Makwanpur,Narayani,Hill,Central,Factor income,74
+Makwanpur,Narayani,Hill,Central,GNI,26523
+Makwanpur,Narayani,Hill,Central,"Per capita income, Rs. at
 market price",63079
-Makwanpur,"Per capita income, $",873
-Makwanpur,"Per capita income, PPP $",1410
-Dhanusha,Agriculture and Forestry,10305
-Dhanusha,Fishing,536
-Dhanusha,Mining and quarrying,148
-Dhanusha,Manufacturing,4986
-Dhanusha,"Electricity, gas and water",213
-Dhanusha,Construction,2638
-Dhanusha,Wholesale and retail trade,4522
-Dhanusha,Hotels and restaurants,482
-Dhanusha,"Transport, storage and
+Makwanpur,Narayani,Hill,Central,"Per capita income, $",873
+Makwanpur,Narayani,Hill,Central,"Per capita income, PPP $",1410
+Dhanusa,Janakpur,Terai,Central,Agriculture and Forestry,10305
+Dhanusa,Janakpur,Terai,Central,Fishing,536
+Dhanusa,Janakpur,Terai,Central,Mining and quarrying,148
+Dhanusa,Janakpur,Terai,Central,Manufacturing,4986
+Dhanusa,Janakpur,Terai,Central,"Electricity, gas and water",213
+Dhanusa,Janakpur,Terai,Central,Construction,2638
+Dhanusa,Janakpur,Terai,Central,Wholesale and retail trade,4522
+Dhanusa,Janakpur,Terai,Central,Hotels and restaurants,482
+Dhanusa,Janakpur,Terai,Central,"Transport, storage and
 communications",1027
-Dhanusha,Financial intermediation,689
-Dhanusha,"Real estate, renting and
+Dhanusa,Janakpur,Terai,Central,Financial intermediation,689
+Dhanusa,Janakpur,Terai,Central,"Real estate, renting and
 business activities",2183
-Dhanusha,"Public administration and
+Dhanusa,Janakpur,Terai,Central,"Public administration and
 defense",342
-Dhanusha,Education,816
-Dhanusha,Health and social work,410
-Dhanusha,"Other community,
+Dhanusa,Janakpur,Terai,Central,Education,816
+Dhanusa,Janakpur,Terai,Central,Health and social work,410
+Dhanusa,Janakpur,Terai,Central,"Other community,
 social and personal services
 activities",286
-Dhanusha,"Total economy including
+Dhanusa,Janakpur,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",29584
-Dhanusha,"Total economy at basic price
+Dhanusa,Janakpur,Terai,Central,"Total economy at basic price
 (total value added)",28727
-Dhanusha,GDP at market price,31453
-Dhanusha,Factor income,211
-Dhanusha,GNI,31664
-Dhanusha,"Per capita income, Rs. at
+Dhanusa,Janakpur,Terai,Central,GDP at market price,31453
+Dhanusa,Janakpur,Terai,Central,Factor income,211
+Dhanusa,Janakpur,Terai,Central,GNI,31664
+Dhanusa,Janakpur,Terai,Central,"Per capita income, Rs. at
 market price",41951
-Dhanusha,"Per capita income, $",580
-Dhanusha,"Per capita income, PPP $",938
-Mahottari,Agriculture and Forestry,7750
-Mahottari,Fishing,362
-Mahottari,Mining and quarrying,79
-Mahottari,Manufacturing,600
-Mahottari,"Electricity, gas and water",272
-Mahottari,Construction,1909
-Mahottari,Wholesale and retail trade,3506
-Mahottari,Hotels and restaurants,384
-Mahottari,"Transport, storage and
+Dhanusa,Janakpur,Terai,Central,"Per capita income, $",580
+Dhanusa,Janakpur,Terai,Central,"Per capita income, PPP $",938
+Mahottari,Janakpur,Terai,Central,Agriculture and Forestry,7750
+Mahottari,Janakpur,Terai,Central,Fishing,362
+Mahottari,Janakpur,Terai,Central,Mining and quarrying,79
+Mahottari,Janakpur,Terai,Central,Manufacturing,600
+Mahottari,Janakpur,Terai,Central,"Electricity, gas and water",272
+Mahottari,Janakpur,Terai,Central,Construction,1909
+Mahottari,Janakpur,Terai,Central,Wholesale and retail trade,3506
+Mahottari,Janakpur,Terai,Central,Hotels and restaurants,384
+Mahottari,Janakpur,Terai,Central,"Transport, storage and
 communications",503
-Mahottari,Financial intermediation,292
-Mahottari,"Real estate, renting and
+Mahottari,Janakpur,Terai,Central,Financial intermediation,292
+Mahottari,Janakpur,Terai,Central,"Real estate, renting and
 business activities",1013
-Mahottari,"Public administration and
+Mahottari,Janakpur,Terai,Central,"Public administration and
 defense",278
-Mahottari,Education,583
-Mahottari,Health and social work,248
-Mahottari,"Other community,
+Mahottari,Janakpur,Terai,Central,Education,583
+Mahottari,Janakpur,Terai,Central,Health and social work,248
+Mahottari,Janakpur,Terai,Central,"Other community,
 social and personal services
 activities",82
-Mahottari,"Total economy including
+Mahottari,Janakpur,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",17861
-Mahottari,"Total economy at basic price
+Mahottari,Janakpur,Terai,Central,"Total economy at basic price
 (total value added)",17284
-Mahottari,GDP at market price,18924
-Mahottari,Factor income,177
-Mahottari,GNI,19101
-Mahottari,"Per capita income, Rs. at
+Mahottari,Janakpur,Terai,Central,GDP at market price,18924
+Mahottari,Janakpur,Terai,Central,Factor income,177
+Mahottari,Janakpur,Terai,Central,GNI,19101
+Mahottari,Janakpur,Terai,Central,"Per capita income, Rs. at
 market price",30436
-Mahottari,"Per capita income, $",421
-Mahottari,"Per capita income, PPP $",681
-Sarlahi,Agriculture and Forestry,12977
-Sarlahi,Fishing,183
-Sarlahi,Mining and quarrying,287
-Sarlahi,Manufacturing,735
-Sarlahi,"Electricity, gas and water",141
-Sarlahi,Construction,2227
-Sarlahi,Wholesale and retail trade,4144
-Sarlahi,Hotels and restaurants,457
-Sarlahi,"Transport, storage and
+Mahottari,Janakpur,Terai,Central,"Per capita income, $",421
+Mahottari,Janakpur,Terai,Central,"Per capita income, PPP $",681
+Sarlahi,Janakpur,Terai,Central,Agriculture and Forestry,12977
+Sarlahi,Janakpur,Terai,Central,Fishing,183
+Sarlahi,Janakpur,Terai,Central,Mining and quarrying,287
+Sarlahi,Janakpur,Terai,Central,Manufacturing,735
+Sarlahi,Janakpur,Terai,Central,"Electricity, gas and water",141
+Sarlahi,Janakpur,Terai,Central,Construction,2227
+Sarlahi,Janakpur,Terai,Central,Wholesale and retail trade,4144
+Sarlahi,Janakpur,Terai,Central,Hotels and restaurants,457
+Sarlahi,Janakpur,Terai,Central,"Transport, storage and
 communications",592
-Sarlahi,Financial intermediation,230
-Sarlahi,"Real estate, renting and
+Sarlahi,Janakpur,Terai,Central,Financial intermediation,230
+Sarlahi,Janakpur,Terai,Central,"Real estate, renting and
 business activities",2897
-Sarlahi,"Public administration and
+Sarlahi,Janakpur,Terai,Central,"Public administration and
 defense",271
-Sarlahi,Education,702
-Sarlahi,Health and social work,255
-Sarlahi,"Other community,
+Sarlahi,Janakpur,Terai,Central,Education,702
+Sarlahi,Janakpur,Terai,Central,Health and social work,255
+Sarlahi,Janakpur,Terai,Central,"Other community,
 social and personal services
 activities",89
-Sarlahi,"Total economy including
+Sarlahi,Janakpur,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",26187
-Sarlahi,"Total economy at basic price
+Sarlahi,Janakpur,Terai,Central,"Total economy at basic price
 (total value added)",25341
-Sarlahi,GDP at market price,27746
-Sarlahi,Factor income,101
-Sarlahi,GNI,27847
-Sarlahi,"Per capita income, Rs. at
+Sarlahi,Janakpur,Terai,Central,GDP at market price,27746
+Sarlahi,Janakpur,Terai,Central,Factor income,101
+Sarlahi,Janakpur,Terai,Central,GNI,27847
+Sarlahi,Janakpur,Terai,Central,"Per capita income, Rs. at
 market price",36177
-Sarlahi,"Per capita income, $",501
-Sarlahi,"Per capita income, PPP $",809
-Rautahat,Agriculture and Forestry,9960
-Rautahat,Fishing,150
-Rautahat,Mining and quarrying,55
-Rautahat,Manufacturing,578
-Rautahat,"Electricity, gas and water",108
-Rautahat,Construction,1723
-Rautahat,Wholesale and retail trade,3316
-Rautahat,Hotels and restaurants,376
-Rautahat,"Transport, storage and
+Sarlahi,Janakpur,Terai,Central,"Per capita income, $",501
+Sarlahi,Janakpur,Terai,Central,"Per capita income, PPP $",809
+Rautahat,Narayani,Terai,Central,Agriculture and Forestry,9960
+Rautahat,Narayani,Terai,Central,Fishing,150
+Rautahat,Narayani,Terai,Central,Mining and quarrying,55
+Rautahat,Narayani,Terai,Central,Manufacturing,578
+Rautahat,Narayani,Terai,Central,"Electricity, gas and water",108
+Rautahat,Narayani,Terai,Central,Construction,1723
+Rautahat,Narayani,Terai,Central,Wholesale and retail trade,3316
+Rautahat,Narayani,Terai,Central,Hotels and restaurants,376
+Rautahat,Narayani,Terai,Central,"Transport, storage and
 communications",2511
-Rautahat,Financial intermediation,189
-Rautahat,"Real estate, renting and
+Rautahat,Narayani,Terai,Central,Financial intermediation,189
+Rautahat,Narayani,Terai,Central,"Real estate, renting and
 business activities",1555
-Rautahat,"Public administration and
+Rautahat,Narayani,Terai,Central,"Public administration and
 defense",224
-Rautahat,Education,835
-Rautahat,Health and social work,204
-Rautahat,"Other community,
+Rautahat,Narayani,Terai,Central,Education,835
+Rautahat,Narayani,Terai,Central,Health and social work,204
+Rautahat,Narayani,Terai,Central,"Other community,
 social and personal services
 activities",115
-Rautahat,"Total economy including
+Rautahat,Narayani,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",21900
-Rautahat,"Total economy at basic price
+Rautahat,Narayani,Terai,Central,"Total economy at basic price
 (total value added)",21193
-Rautahat,GDP at market price,23204
-Rautahat,Factor income,34
-Rautahat,GNI,23238
-Rautahat,"Per capita income, Rs. at
+Rautahat,Narayani,Terai,Central,GDP at market price,23204
+Rautahat,Narayani,Terai,Central,Factor income,34
+Rautahat,Narayani,Terai,Central,GNI,23238
+Rautahat,Narayani,Terai,Central,"Per capita income, Rs. at
 market price",33840
-Rautahat,"Per capita income, $",468
-Rautahat,"Per capita income, PPP $",757
-Bara,Agriculture and Forestry,14611
-Bara,Fishing,353
-Bara,Mining and quarrying,88
-Bara,Manufacturing,14495
-Bara,"Electricity, gas and water",834
-Bara,Construction,1920
-Bara,Wholesale and retail trade,3982
-Bara,Hotels and restaurants,374
-Bara,"Transport, storage and
+Rautahat,Narayani,Terai,Central,"Per capita income, $",468
+Rautahat,Narayani,Terai,Central,"Per capita income, PPP $",757
+Bara,Narayani,Terai,Central,Agriculture and Forestry,14611
+Bara,Narayani,Terai,Central,Fishing,353
+Bara,Narayani,Terai,Central,Mining and quarrying,88
+Bara,Narayani,Terai,Central,Manufacturing,14495
+Bara,Narayani,Terai,Central,"Electricity, gas and water",834
+Bara,Narayani,Terai,Central,Construction,1920
+Bara,Narayani,Terai,Central,Wholesale and retail trade,3982
+Bara,Narayani,Terai,Central,Hotels and restaurants,374
+Bara,Narayani,Terai,Central,"Transport, storage and
 communications",2955
-Bara,Financial intermediation,415
-Bara,"Real estate, renting and
+Bara,Narayani,Terai,Central,Financial intermediation,415
+Bara,Narayani,Terai,Central,"Real estate, renting and
 business activities",1317
-Bara,"Public administration and
+Bara,Narayani,Terai,Central,"Public administration and
 defense",277
-Bara,Education,813
-Bara,Health and social work,258
-Bara,"Other community,
+Bara,Narayani,Terai,Central,Education,813
+Bara,Narayani,Terai,Central,Health and social work,258
+Bara,Narayani,Terai,Central,"Other community,
 social and personal services
 activities",105
-Bara,"Total economy including
+Bara,Narayani,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",42797
-Bara,"Total economy at basic price
+Bara,Narayani,Terai,Central,"Total economy at basic price
 (total value added)",41527
-Bara,GDP at market price,45468
-Bara,Factor income,42
-Bara,GNI,45509
-Bara,"Per capita income, Rs. at
+Bara,Narayani,Terai,Central,GDP at market price,45468
+Bara,Narayani,Terai,Central,Factor income,42
+Bara,Narayani,Terai,Central,GNI,45509
+Bara,Narayani,Terai,Central,"Per capita income, Rs. at
 market price",66175
-Bara,"Per capita income, $",916
-Bara,"Per capita income, PPP $",1480
-Parsa,Agriculture and Forestry,8897
-Parsa,Fishing,154
-Parsa,Mining and quarrying,83
-Parsa,Manufacturing,4789
-Parsa,"Electricity, gas and water",1128
-Parsa,Construction,1722
-Parsa,Wholesale and retail trade,4789
-Parsa,Hotels and restaurants,586
-Parsa,"Transport, storage and
+Bara,Narayani,Terai,Central,"Per capita income, $",916
+Bara,Narayani,Terai,Central,"Per capita income, PPP $",1480
+Parsa,Narayani,Terai,Central,Agriculture and Forestry,8897
+Parsa,Narayani,Terai,Central,Fishing,154
+Parsa,Narayani,Terai,Central,Mining and quarrying,83
+Parsa,Narayani,Terai,Central,Manufacturing,4789
+Parsa,Narayani,Terai,Central,"Electricity, gas and water",1128
+Parsa,Narayani,Terai,Central,Construction,1722
+Parsa,Narayani,Terai,Central,Wholesale and retail trade,4789
+Parsa,Narayani,Terai,Central,Hotels and restaurants,586
+Parsa,Narayani,Terai,Central,"Transport, storage and
 communications",3537
-Parsa,Financial intermediation,1533
-Parsa,"Real estate, renting and
+Parsa,Narayani,Terai,Central,Financial intermediation,1533
+Parsa,Narayani,Terai,Central,"Real estate, renting and
 business activities",1594
-Parsa,"Public administration and
+Parsa,Narayani,Terai,Central,"Public administration and
 defense",314
-Parsa,Education,856
-Parsa,Health and social work,622
-Parsa,"Other community,
+Parsa,Narayani,Terai,Central,Education,856
+Parsa,Narayani,Terai,Central,Health and social work,622
+Parsa,Narayani,Terai,Central,"Other community,
 social and personal services
 activities",401
-Parsa,"Total economy including
+Parsa,Narayani,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",31006
-Parsa,"Total economy at basic price
+Parsa,Narayani,Terai,Central,"Total economy at basic price
 (total value added)",30005
-Parsa,GDP at market price,32852
-Parsa,Factor income,27
-Parsa,GNI,32879
-Parsa,"Per capita income, Rs. at
+Parsa,Narayani,Terai,Central,GDP at market price,32852
+Parsa,Narayani,Terai,Central,Factor income,27
+Parsa,Narayani,Terai,Central,GNI,32879
+Parsa,Narayani,Terai,Central,"Per capita income, Rs. at
 market price",54706
-Parsa,"Per capita income, $",757
-Parsa,"Per capita income, PPP $",1223
-Chitawan,Agriculture and Forestry,11594
-Chitawan,Fishing,100
-Chitawan,Mining and quarrying,132
-Chitawan,Manufacturing,1462
-Chitawan,"Electricity, gas and water",609
-Chitawan,Construction,2477
-Chitawan,Wholesale and retail trade,4574
-Chitawan,Hotels and restaurants,467
-Chitawan,"Transport, storage and
+Parsa,Narayani,Terai,Central,"Per capita income, $",757
+Parsa,Narayani,Terai,Central,"Per capita income, PPP $",1223
+Chitawan,Narayani,Terai,Central,Agriculture and Forestry,11594
+Chitawan,Narayani,Terai,Central,Fishing,100
+Chitawan,Narayani,Terai,Central,Mining and quarrying,132
+Chitawan,Narayani,Terai,Central,Manufacturing,1462
+Chitawan,Narayani,Terai,Central,"Electricity, gas and water",609
+Chitawan,Narayani,Terai,Central,Construction,2477
+Chitawan,Narayani,Terai,Central,Wholesale and retail trade,4574
+Chitawan,Narayani,Terai,Central,Hotels and restaurants,467
+Chitawan,Narayani,Terai,Central,"Transport, storage and
 communications",5931
-Chitawan,Financial intermediation,1712
-Chitawan,"Real estate, renting and
+Chitawan,Narayani,Terai,Central,Financial intermediation,1712
+Chitawan,Narayani,Terai,Central,"Real estate, renting and
 business activities",4954
-Chitawan,"Public administration and
+Chitawan,Narayani,Terai,Central,"Public administration and
 defense",432
-Chitawan,Education,1379
-Chitawan,Health and social work,1029
-Chitawan,"Other community,
+Chitawan,Narayani,Terai,Central,Education,1379
+Chitawan,Narayani,Terai,Central,Health and social work,1029
+Chitawan,Narayani,Terai,Central,"Other community,
 social and personal services
 activities",546
-Chitawan,"Total economy including
+Chitawan,Narayani,Terai,Central,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",37398
-Chitawan,"Total economy at basic price
+Chitawan,Narayani,Terai,Central,"Total economy at basic price
 (total value added)",36271
-Chitawan,GDP at market price,39713
-Chitawan,Factor income,160
-Chitawan,GNI,39873
-Chitawan,"Per capita income, Rs. at
+Chitawan,Narayani,Terai,Central,GDP at market price,39713
+Chitawan,Narayani,Terai,Central,Factor income,160
+Chitawan,Narayani,Terai,Central,GNI,39873
+Chitawan,Narayani,Terai,Central,"Per capita income, Rs. at
 market price",68748
-Chitawan,"Per capita income, $",951
-Chitawan,"Per capita income, PPP $",1537
-Manang,Agriculture and Forestry,396
-Manang,Fishing,0
-Manang,Mining and quarrying,17
-Manang,Manufacturing,12
-Manang,"Electricity, gas and water",0
-Manang,Construction,103
-Manang,Wholesale and retail trade,28
-Manang,Hotels and restaurants,149
-Manang,"Transport, storage and
+Chitawan,Narayani,Terai,Central,"Per capita income, $",951
+Chitawan,Narayani,Terai,Central,"Per capita income, PPP $",1537
+Manang,Gandaki,Mountain,Western,Agriculture and Forestry,396
+Manang,Gandaki,Mountain,Western,Fishing,0
+Manang,Gandaki,Mountain,Western,Mining and quarrying,17
+Manang,Gandaki,Mountain,Western,Manufacturing,12
+Manang,Gandaki,Mountain,Western,"Electricity, gas and water",0
+Manang,Gandaki,Mountain,Western,Construction,103
+Manang,Gandaki,Mountain,Western,Wholesale and retail trade,28
+Manang,Gandaki,Mountain,Western,Hotels and restaurants,149
+Manang,Gandaki,Mountain,Western,"Transport, storage and
 communications",16
-Manang,Financial intermediation,8
-Manang,"Real estate, renting and
+Manang,Gandaki,Mountain,Western,Financial intermediation,8
+Manang,Gandaki,Mountain,Western,"Real estate, renting and
 business activities",28
-Manang,"Public administration and
+Manang,Gandaki,Mountain,Western,"Public administration and
 defense",62
-Manang,Education,3
-Manang,Health and social work,6
-Manang,"Other community,
+Manang,Gandaki,Mountain,Western,Education,3
+Manang,Gandaki,Mountain,Western,Health and social work,6
+Manang,Gandaki,Mountain,Western,"Other community,
 social and personal services
 activities",45
-Manang,"Total economy including
+Manang,Gandaki,Mountain,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",874
-Manang,"Total economy at basic price
+Manang,Gandaki,Mountain,Western,"Total economy at basic price
 (total value added)",845
-Manang,GDP at market price,925
-Manang,Factor income,1
-Manang,GNI,926
-Manang,"Per capita income, Rs. at
+Manang,Gandaki,Mountain,Western,GDP at market price,925
+Manang,Gandaki,Mountain,Western,Factor income,1
+Manang,Gandaki,Mountain,Western,GNI,926
+Manang,Gandaki,Mountain,Western,"Per capita income, Rs. at
 market price",141588
-Manang,"Per capita income, $",1959
-Manang,"Per capita income, PPP $",3166
-Mustang,Agriculture and Forestry,559
-Mustang,Fishing,0
-Mustang,Mining and quarrying,18
-Mustang,Manufacturing,22
-Mustang,"Electricity, gas and water",0
-Mustang,Construction,129
-Mustang,Wholesale and retail trade,61
-Mustang,Hotels and restaurants,40
-Mustang,"Transport, storage and
+Manang,Gandaki,Mountain,Western,"Per capita income, $",1959
+Manang,Gandaki,Mountain,Western,"Per capita income, PPP $",3166
+Mustang,Dhawalagiri,Mountain,Western,Agriculture and Forestry,559
+Mustang,Dhawalagiri,Mountain,Western,Fishing,0
+Mustang,Dhawalagiri,Mountain,Western,Mining and quarrying,18
+Mustang,Dhawalagiri,Mountain,Western,Manufacturing,22
+Mustang,Dhawalagiri,Mountain,Western,"Electricity, gas and water",0
+Mustang,Dhawalagiri,Mountain,Western,Construction,129
+Mustang,Dhawalagiri,Mountain,Western,Wholesale and retail trade,61
+Mustang,Dhawalagiri,Mountain,Western,Hotels and restaurants,40
+Mustang,Dhawalagiri,Mountain,Western,"Transport, storage and
 communications",316
-Mustang,Financial intermediation,37
-Mustang,"Real estate, renting and
+Mustang,Dhawalagiri,Mountain,Western,Financial intermediation,37
+Mustang,Dhawalagiri,Mountain,Western,"Real estate, renting and
 business activities",36
-Mustang,"Public administration and
+Mustang,Dhawalagiri,Mountain,Western,"Public administration and
 defense",86
-Mustang,Education,15
-Mustang,Health and social work,14
-Mustang,"Other community,
+Mustang,Dhawalagiri,Mountain,Western,Education,15
+Mustang,Dhawalagiri,Mountain,Western,Health and social work,14
+Mustang,Dhawalagiri,Mountain,Western,"Other community,
 social and personal services
 activities",55
-Mustang,"Total economy including
+Mustang,Dhawalagiri,Mountain,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",1389
-Mustang,"Total economy at basic price
+Mustang,Dhawalagiri,Mountain,Western,"Total economy at basic price
 (total value added)",1055
-Mustang,GDP at market price,1155
-Mustang,Factor income,1
-Mustang,GNI,1156
-Mustang,"Per capita income, Rs. at
+Mustang,Dhawalagiri,Mountain,Western,GDP at market price,1155
+Mustang,Dhawalagiri,Mountain,Western,Factor income,1
+Mustang,Dhawalagiri,Mountain,Western,GNI,1156
+Mustang,Dhawalagiri,Mountain,Western,"Per capita income, Rs. at
 market price",85957
-Mustang,"Per capita income, $",1189
-Mustang,"Per capita income, PPP $",1922
-Gorkha,Agriculture and Forestry,5392
-Gorkha,Fishing,2
-Gorkha,Mining and quarrying,83
-Gorkha,Manufacturing,349
-Gorkha,"Electricity, gas and water",93
-Gorkha,Construction,1060
-Gorkha,Wholesale and retail trade,1359
-Gorkha,Hotels and restaurants,156
-Gorkha,"Transport, storage and
+Mustang,Dhawalagiri,Mountain,Western,"Per capita income, $",1189
+Mustang,Dhawalagiri,Mountain,Western,"Per capita income, PPP $",1922
+Gorkha,Gandaki,Hill,Western,Agriculture and Forestry,5392
+Gorkha,Gandaki,Hill,Western,Fishing,2
+Gorkha,Gandaki,Hill,Western,Mining and quarrying,83
+Gorkha,Gandaki,Hill,Western,Manufacturing,349
+Gorkha,Gandaki,Hill,Western,"Electricity, gas and water",93
+Gorkha,Gandaki,Hill,Western,Construction,1060
+Gorkha,Gandaki,Hill,Western,Wholesale and retail trade,1359
+Gorkha,Gandaki,Hill,Western,Hotels and restaurants,156
+Gorkha,Gandaki,Hill,Western,"Transport, storage and
 communications",1305
-Gorkha,Financial intermediation,376
-Gorkha,"Real estate, renting and
+Gorkha,Gandaki,Hill,Western,Financial intermediation,376
+Gorkha,Gandaki,Hill,Western,"Real estate, renting and
 business activities",695
-Gorkha,"Public administration and
+Gorkha,Gandaki,Hill,Western,"Public administration and
 defense",230
-Gorkha,Education,398
-Gorkha,Health and social work,183
-Gorkha,"Other community,
+Gorkha,Gandaki,Hill,Western,Education,398
+Gorkha,Gandaki,Hill,Western,Health and social work,183
+Gorkha,Gandaki,Hill,Western,"Other community,
 social and personal services
 activities",119
-Gorkha,"Total economy including
+Gorkha,Gandaki,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",11801
-Gorkha,"Total economy at basic price
+Gorkha,Gandaki,Hill,Western,"Total economy at basic price
 (total value added)",11420
-Gorkha,GDP at market price,12503
-Gorkha,Factor income,98
-Gorkha,GNI,12601
-Gorkha,"Per capita income, Rs. at
+Gorkha,Gandaki,Hill,Western,GDP at market price,12503
+Gorkha,Gandaki,Hill,Western,Factor income,98
+Gorkha,Gandaki,Hill,Western,GNI,12601
+Gorkha,Gandaki,Hill,Western,"Per capita income, Rs. at
 market price",46488
-Gorkha,"Per capita income, $",643
-Gorkha,"Per capita income, PPP $",1039
-Lamjung,Agriculture and Forestry,4418
-Lamjung,Fishing,1
-Lamjung,Mining and quarrying,40
-Lamjung,Manufacturing,196
-Lamjung,"Electricity, gas and water",94
-Lamjung,Construction,606
-Lamjung,Wholesale and retail trade,839
-Lamjung,Hotels and restaurants,85
-Lamjung,"Transport, storage and
+Gorkha,Gandaki,Hill,Western,"Per capita income, $",643
+Gorkha,Gandaki,Hill,Western,"Per capita income, PPP $",1039
+Lamjung,Gandaki,Hill,Western,Agriculture and Forestry,4418
+Lamjung,Gandaki,Hill,Western,Fishing,1
+Lamjung,Gandaki,Hill,Western,Mining and quarrying,40
+Lamjung,Gandaki,Hill,Western,Manufacturing,196
+Lamjung,Gandaki,Hill,Western,"Electricity, gas and water",94
+Lamjung,Gandaki,Hill,Western,Construction,606
+Lamjung,Gandaki,Hill,Western,Wholesale and retail trade,839
+Lamjung,Gandaki,Hill,Western,Hotels and restaurants,85
+Lamjung,Gandaki,Hill,Western,"Transport, storage and
 communications",407
-Lamjung,Financial intermediation,235
-Lamjung,"Real estate, renting and
+Lamjung,Gandaki,Hill,Western,Financial intermediation,235
+Lamjung,Gandaki,Hill,Western,"Real estate, renting and
 business activities",666
-Lamjung,"Public administration and
+Lamjung,Gandaki,Hill,Western,"Public administration and
 defense",173
-Lamjung,Education,355
-Lamjung,Health and social work,117
-Lamjung,"Other community,
+Lamjung,Gandaki,Hill,Western,Education,355
+Lamjung,Gandaki,Hill,Western,Health and social work,117
+Lamjung,Gandaki,Hill,Western,"Other community,
 social and personal services
 activities",96
-Lamjung,"Total economy including
+Lamjung,Gandaki,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8327
-Lamjung,"Total economy at basic price
+Lamjung,Gandaki,Hill,Western,"Total economy at basic price
 (total value added)",8058
-Lamjung,GDP at market price,8823
-Lamjung,Factor income,75
-Lamjung,GNI,8898
-Lamjung,"Per capita income, Rs. at
+Lamjung,Gandaki,Hill,Western,GDP at market price,8823
+Lamjung,Gandaki,Hill,Western,Factor income,75
+Lamjung,Gandaki,Hill,Western,GNI,8898
+Lamjung,Gandaki,Hill,Western,"Per capita income, Rs. at
 market price",53050
-Lamjung,"Per capita income, $",734
-Lamjung,"Per capita income, PPP $",1186
-Tanahu,Agriculture and Forestry,7153
-Tanahu,Fishing,4
-Tanahu,Mining and quarrying,67
-Tanahu,Manufacturing,327
-Tanahu,"Electricity, gas and water",205
-Tanahu,Construction,1084
-Tanahu,Wholesale and retail trade,1674
-Tanahu,Hotels and restaurants,141
-Tanahu,"Transport, storage and
+Lamjung,Gandaki,Hill,Western,"Per capita income, $",734
+Lamjung,Gandaki,Hill,Western,"Per capita income, PPP $",1186
+Tanahu,Gandaki,Hill,Western,Agriculture and Forestry,7153
+Tanahu,Gandaki,Hill,Western,Fishing,4
+Tanahu,Gandaki,Hill,Western,Mining and quarrying,67
+Tanahu,Gandaki,Hill,Western,Manufacturing,327
+Tanahu,Gandaki,Hill,Western,"Electricity, gas and water",205
+Tanahu,Gandaki,Hill,Western,Construction,1084
+Tanahu,Gandaki,Hill,Western,Wholesale and retail trade,1674
+Tanahu,Gandaki,Hill,Western,Hotels and restaurants,141
+Tanahu,Gandaki,Hill,Western,"Transport, storage and
 communications",1518
-Tanahu,Financial intermediation,397
-Tanahu,"Real estate, renting and
+Tanahu,Gandaki,Hill,Western,Financial intermediation,397
+Tanahu,Gandaki,Hill,Western,"Real estate, renting and
 business activities",628
-Tanahu,"Public administration and
+Tanahu,Gandaki,Hill,Western,"Public administration and
 defense",276
-Tanahu,Education,697
-Tanahu,Health and social work,178
-Tanahu,"Other community,
+Tanahu,Gandaki,Hill,Western,Education,697
+Tanahu,Gandaki,Hill,Western,Health and social work,178
+Tanahu,Gandaki,Hill,Western,"Other community,
 social and personal services
 activities",124
-Tanahu,"Total economy including
+Tanahu,Gandaki,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",14474
-Tanahu,"Total economy at basic price
+Tanahu,Gandaki,Hill,Western,"Total economy at basic price
 (total value added)",14006
-Tanahu,GDP at market price,15336
-Tanahu,Factor income,158
-Tanahu,GNI,15494
-Tanahu,"Per capita income, Rs. at
+Tanahu,Gandaki,Hill,Western,GDP at market price,15336
+Tanahu,Gandaki,Hill,Western,Factor income,158
+Tanahu,Gandaki,Hill,Western,GNI,15494
+Tanahu,Gandaki,Hill,Western,"Per capita income, Rs. at
 market price",47925
-Tanahu,"Per capita income, $",663
-Tanahu,"Per capita income, PPP $",1072
-Syangja,Agriculture and Forestry,8245
-Syangja,Fishing,2
-Syangja,Mining and quarrying,48
-Syangja,Manufacturing,260
-Syangja,"Electricity, gas and water",89
-Syangja,Construction,897
-Syangja,Wholesale and retail trade,1409
-Syangja,Hotels and restaurants,122
-Syangja,"Transport, storage and
+Tanahu,Gandaki,Hill,Western,"Per capita income, $",663
+Tanahu,Gandaki,Hill,Western,"Per capita income, PPP $",1072
+Syangja,Gandaki,Hill,Western,Agriculture and Forestry,8245
+Syangja,Gandaki,Hill,Western,Fishing,2
+Syangja,Gandaki,Hill,Western,Mining and quarrying,48
+Syangja,Gandaki,Hill,Western,Manufacturing,260
+Syangja,Gandaki,Hill,Western,"Electricity, gas and water",89
+Syangja,Gandaki,Hill,Western,Construction,897
+Syangja,Gandaki,Hill,Western,Wholesale and retail trade,1409
+Syangja,Gandaki,Hill,Western,Hotels and restaurants,122
+Syangja,Gandaki,Hill,Western,"Transport, storage and
 communications",1297
-Syangja,Financial intermediation,248
-Syangja,"Real estate, renting and
+Syangja,Gandaki,Hill,Western,Financial intermediation,248
+Syangja,Gandaki,Hill,Western,"Real estate, renting and
 business activities",724
-Syangja,"Public administration and
+Syangja,Gandaki,Hill,Western,"Public administration and
 defense",217
-Syangja,Education,688
-Syangja,Health and social work,143
-Syangja,"Other community,
+Syangja,Gandaki,Hill,Western,Education,688
+Syangja,Gandaki,Hill,Western,Health and social work,143
+Syangja,Gandaki,Hill,Western,"Other community,
 social and personal services
 activities",265
-Syangja,"Total economy including
+Syangja,Gandaki,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",14653
-Syangja,"Total economy at basic price
+Syangja,Gandaki,Hill,Western,"Total economy at basic price
 (total value added)",14180
-Syangja,GDP at market price,15526
-Syangja,Factor income,185
-Syangja,GNI,15710
-Syangja,"Per capita income, Rs. at
+Syangja,Gandaki,Hill,Western,GDP at market price,15526
+Syangja,Gandaki,Hill,Western,Factor income,185
+Syangja,Gandaki,Hill,Western,GNI,15710
+Syangja,Gandaki,Hill,Western,"Per capita income, Rs. at
 market price",54333
-Syangja,"Per capita income, $",752
-Syangja,"Per capita income, PPP $",1215
-Kaski,Agriculture and Forestry,7175
-Kaski,Fishing,9
-Kaski,Mining and quarrying,133
-Kaski,Manufacturing,1444
-Kaski,"Electricity, gas and water",624
-Kaski,Construction,1876
-Kaski,Wholesale and retail trade,3687
-Kaski,Hotels and restaurants,1089
-Kaski,"Transport, storage and
+Syangja,Gandaki,Hill,Western,"Per capita income, $",752
+Syangja,Gandaki,Hill,Western,"Per capita income, PPP $",1215
+Kaski,Gandaki,Hill,Western,Agriculture and Forestry,7175
+Kaski,Gandaki,Hill,Western,Fishing,9
+Kaski,Gandaki,Hill,Western,Mining and quarrying,133
+Kaski,Gandaki,Hill,Western,Manufacturing,1444
+Kaski,Gandaki,Hill,Western,"Electricity, gas and water",624
+Kaski,Gandaki,Hill,Western,Construction,1876
+Kaski,Gandaki,Hill,Western,Wholesale and retail trade,3687
+Kaski,Gandaki,Hill,Western,Hotels and restaurants,1089
+Kaski,Gandaki,Hill,Western,"Transport, storage and
 communications",3723
-Kaski,Financial intermediation,2197
-Kaski,"Real estate, renting and
+Kaski,Gandaki,Hill,Western,Financial intermediation,2197
+Kaski,Gandaki,Hill,Western,"Real estate, renting and
 business activities",4262
-Kaski,"Public administration and
+Kaski,Gandaki,Hill,Western,"Public administration and
 defense",508
-Kaski,Education,3865
-Kaski,Health and social work,836
-Kaski,"Other community,
+Kaski,Gandaki,Hill,Western,Education,3865
+Kaski,Gandaki,Hill,Western,Health and social work,836
+Kaski,Gandaki,Hill,Western,"Other community,
 social and personal services
 activities",253
-Kaski,"Total economy including
+Kaski,Gandaki,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",31683
-Kaski,"Total economy at basic price
+Kaski,Gandaki,Hill,Western,"Total economy at basic price
 (total value added)",31245
-Kaski,GDP at market price,34210
-Kaski,Factor income,141
-Kaski,GNI,34351
-Kaski,"Per capita income, Rs. at
+Kaski,Gandaki,Hill,Western,GDP at market price,34210
+Kaski,Gandaki,Hill,Western,Factor income,141
+Kaski,Gandaki,Hill,Western,GNI,34351
+Kaski,Gandaki,Hill,Western,"Per capita income, Rs. at
 market price",69805
-Kaski,"Per capita income, $",966
-Kaski,"Per capita income, PPP $",1561
-Myagdi,Agriculture and Forestry,2710
-Myagdi,Fishing,0
-Myagdi,Mining and quarrying,15
-Myagdi,Manufacturing,91
-Myagdi,"Electricity, gas and water",35
-Myagdi,Construction,340
-Myagdi,Wholesale and retail trade,574
-Myagdi,Hotels and restaurants,90
-Myagdi,"Transport, storage and
+Kaski,Gandaki,Hill,Western,"Per capita income, $",966
+Kaski,Gandaki,Hill,Western,"Per capita income, PPP $",1561
+Myagdi,Dhawalagiri,Hill,Western,Agriculture and Forestry,2710
+Myagdi,Dhawalagiri,Hill,Western,Fishing,0
+Myagdi,Dhawalagiri,Hill,Western,Mining and quarrying,15
+Myagdi,Dhawalagiri,Hill,Western,Manufacturing,91
+Myagdi,Dhawalagiri,Hill,Western,"Electricity, gas and water",35
+Myagdi,Dhawalagiri,Hill,Western,Construction,340
+Myagdi,Dhawalagiri,Hill,Western,Wholesale and retail trade,574
+Myagdi,Dhawalagiri,Hill,Western,Hotels and restaurants,90
+Myagdi,Dhawalagiri,Hill,Western,"Transport, storage and
 communications",81
-Myagdi,Financial intermediation,84
-Myagdi,"Real estate, renting and
+Myagdi,Dhawalagiri,Hill,Western,Financial intermediation,84
+Myagdi,Dhawalagiri,Hill,Western,"Real estate, renting and
 business activities",399
-Myagdi,"Public administration and
+Myagdi,Dhawalagiri,Hill,Western,"Public administration and
 defense",130
-Myagdi,Education,205
-Myagdi,Health and social work,73
-Myagdi,"Other community,
+Myagdi,Dhawalagiri,Hill,Western,Education,205
+Myagdi,Dhawalagiri,Hill,Western,Health and social work,73
+Myagdi,Dhawalagiri,Hill,Western,"Other community,
 social and personal services
 activities",53
-Myagdi,"Total economy including
+Myagdi,Dhawalagiri,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",4879
-Myagdi,"Total economy at basic price
+Myagdi,Dhawalagiri,Hill,Western,"Total economy at basic price
 (total value added)",4722
-Myagdi,GDP at market price,5170
-Myagdi,Factor income,56
-Myagdi,GNI,5226
-Myagdi,"Per capita income, Rs. at
+Myagdi,Dhawalagiri,Hill,Western,GDP at market price,5170
+Myagdi,Dhawalagiri,Hill,Western,Factor income,56
+Myagdi,Dhawalagiri,Hill,Western,GNI,5226
+Myagdi,Dhawalagiri,Hill,Western,"Per capita income, Rs. at
 market price",45986
-Myagdi,"Per capita income, $",636
-Myagdi,"Per capita income, PPP $",1028
-Parbat,Agriculture and Forestry,3128
-Parbat,Fishing,1
-Parbat,Mining and quarrying,45
-Parbat,Manufacturing,156
-Parbat,"Electricity, gas and water",46
-Parbat,Construction,573
-Parbat,Wholesale and retail trade,734
-Parbat,Hotels and restaurants,68
-Parbat,"Transport, storage and
+Myagdi,Dhawalagiri,Hill,Western,"Per capita income, $",636
+Myagdi,Dhawalagiri,Hill,Western,"Per capita income, PPP $",1028
+Parbat,Dhawalagiri,Hill,Western,Agriculture and Forestry,3128
+Parbat,Dhawalagiri,Hill,Western,Fishing,1
+Parbat,Dhawalagiri,Hill,Western,Mining and quarrying,45
+Parbat,Dhawalagiri,Hill,Western,Manufacturing,156
+Parbat,Dhawalagiri,Hill,Western,"Electricity, gas and water",46
+Parbat,Dhawalagiri,Hill,Western,Construction,573
+Parbat,Dhawalagiri,Hill,Western,Wholesale and retail trade,734
+Parbat,Dhawalagiri,Hill,Western,Hotels and restaurants,68
+Parbat,Dhawalagiri,Hill,Western,"Transport, storage and
 communications",143
-Parbat,Financial intermediation,130
-Parbat,"Real estate, renting and
+Parbat,Dhawalagiri,Hill,Western,Financial intermediation,130
+Parbat,Dhawalagiri,Hill,Western,"Real estate, renting and
 business activities",546
-Parbat,"Public administration and
+Parbat,Dhawalagiri,Hill,Western,"Public administration and
 defense",188
-Parbat,Education,254
-Parbat,Health and social work,95
-Parbat,"Other community,
+Parbat,Dhawalagiri,Hill,Western,Education,254
+Parbat,Dhawalagiri,Hill,Western,Health and social work,95
+Parbat,Dhawalagiri,Hill,Western,"Other community,
 social and personal services
 activities",98
-Parbat,"Total economy including
+Parbat,Dhawalagiri,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6205
-Parbat,"Total economy at basic price
+Parbat,Dhawalagiri,Hill,Western,"Total economy at basic price
 (total value added)",6004
-Parbat,GDP at market price,6574
-Parbat,Factor income,65
-Parbat,GNI,6639
-Parbat,"Per capita income, Rs. at
+Parbat,Dhawalagiri,Hill,Western,GDP at market price,6574
+Parbat,Dhawalagiri,Hill,Western,Factor income,65
+Parbat,Dhawalagiri,Hill,Western,GNI,6639
+Parbat,Dhawalagiri,Hill,Western,"Per capita income, Rs. at
 market price",45289
-Parbat,"Per capita income, $",627
-Parbat,"Per capita income, PPP $",1013
-Baglung,Agriculture and Forestry,4762
-Baglung,Fishing,0
-Baglung,Mining and quarrying,65
-Baglung,Manufacturing,183
-Baglung,"Electricity, gas and water",80
-Baglung,Construction,916
-Baglung,Wholesale and retail trade,1241
-Baglung,Hotels and restaurants,105
-Baglung,"Transport, storage and
+Parbat,Dhawalagiri,Hill,Western,"Per capita income, $",627
+Parbat,Dhawalagiri,Hill,Western,"Per capita income, PPP $",1013
+Baglung,Dhawalagiri,Hill,Western,Agriculture and Forestry,4762
+Baglung,Dhawalagiri,Hill,Western,Fishing,0
+Baglung,Dhawalagiri,Hill,Western,Mining and quarrying,65
+Baglung,Dhawalagiri,Hill,Western,Manufacturing,183
+Baglung,Dhawalagiri,Hill,Western,"Electricity, gas and water",80
+Baglung,Dhawalagiri,Hill,Western,Construction,916
+Baglung,Dhawalagiri,Hill,Western,Wholesale and retail trade,1241
+Baglung,Dhawalagiri,Hill,Western,Hotels and restaurants,105
+Baglung,Dhawalagiri,Hill,Western,"Transport, storage and
 communications",280
-Baglung,Financial intermediation,421
-Baglung,"Real estate, renting and
+Baglung,Dhawalagiri,Hill,Western,Financial intermediation,421
+Baglung,Dhawalagiri,Hill,Western,"Real estate, renting and
 business activities",640
-Baglung,"Public administration and
+Baglung,Dhawalagiri,Hill,Western,"Public administration and
 defense",230
-Baglung,Education,542
-Baglung,Health and social work,133
-Baglung,"Other community,
+Baglung,Dhawalagiri,Hill,Western,Education,542
+Baglung,Dhawalagiri,Hill,Western,Health and social work,133
+Baglung,Dhawalagiri,Hill,Western,"Other community,
 social and personal services
 activities",114
-Baglung,"Total economy including
+Baglung,Dhawalagiri,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",9711
-Baglung,"Total economy at basic price
+Baglung,Dhawalagiri,Hill,Western,"Total economy at basic price
 (total value added)",9397
-Baglung,GDP at market price,10289
-Baglung,Factor income,138
-Baglung,GNI,10427
-Baglung,"Per capita income, Rs. at
+Baglung,Dhawalagiri,Hill,Western,GDP at market price,10289
+Baglung,Dhawalagiri,Hill,Western,Factor income,138
+Baglung,Dhawalagiri,Hill,Western,GNI,10427
+Baglung,Dhawalagiri,Hill,Western,"Per capita income, Rs. at
 market price",38819
-Baglung,"Per capita income, $",537
-Baglung,"Per capita income, PPP $",868
-Gulmi,Agriculture and Forestry,3696
-Gulmi,Fishing,1
-Gulmi,Mining and quarrying,46
-Gulmi,Manufacturing,200
-Gulmi,"Electricity, gas and water",54
-Gulmi,Construction,850
-Gulmi,Wholesale and retail trade,1309
-Gulmi,Hotels and restaurants,136
-Gulmi,"Transport, storage and
+Baglung,Dhawalagiri,Hill,Western,"Per capita income, $",537
+Baglung,Dhawalagiri,Hill,Western,"Per capita income, PPP $",868
+Gulmi,Lumbini,Hill,Western,Agriculture and Forestry,3696
+Gulmi,Lumbini,Hill,Western,Fishing,1
+Gulmi,Lumbini,Hill,Western,Mining and quarrying,46
+Gulmi,Lumbini,Hill,Western,Manufacturing,200
+Gulmi,Lumbini,Hill,Western,"Electricity, gas and water",54
+Gulmi,Lumbini,Hill,Western,Construction,850
+Gulmi,Lumbini,Hill,Western,Wholesale and retail trade,1309
+Gulmi,Lumbini,Hill,Western,Hotels and restaurants,136
+Gulmi,Lumbini,Hill,Western,"Transport, storage and
 communications",631
-Gulmi,Financial intermediation,216
-Gulmi,"Real estate, renting and
+Gulmi,Lumbini,Hill,Western,Financial intermediation,216
+Gulmi,Lumbini,Hill,Western,"Real estate, renting and
 business activities",595
-Gulmi,"Public administration and
+Gulmi,Lumbini,Hill,Western,"Public administration and
 defense",192
-Gulmi,Education,491
-Gulmi,Health and social work,178
-Gulmi,"Other community,
+Gulmi,Lumbini,Hill,Western,Education,491
+Gulmi,Lumbini,Hill,Western,Health and social work,178
+Gulmi,Lumbini,Hill,Western,"Other community,
 social and personal services
 activities",103
-Gulmi,"Total economy including
+Gulmi,Lumbini,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",8699
-Gulmi,"Total economy at basic price
+Gulmi,Lumbini,Hill,Western,"Total economy at basic price
 (total value added)",8418
-Gulmi,GDP at market price,9217
-Gulmi,Factor income,203
-Gulmi,GNI,9420
-Gulmi,"Per capita income, Rs. at
+Gulmi,Lumbini,Hill,Western,GDP at market price,9217
+Gulmi,Lumbini,Hill,Western,Factor income,203
+Gulmi,Lumbini,Hill,Western,GNI,9420
+Gulmi,Lumbini,Hill,Western,"Per capita income, Rs. at
 market price",33625
-Gulmi,"Per capita income, $",465
-Gulmi,"Per capita income, PPP $",752
-Palpa,Agriculture and Forestry,4994
-Palpa,Fishing,2
-Palpa,Mining and quarrying,62
-Palpa,Manufacturing,225
-Palpa,"Electricity, gas and water",102
-Palpa,Construction,883
-Palpa,Wholesale and retail trade,1202
-Palpa,Hotels and restaurants,104
-Palpa,"Transport, storage and
+Gulmi,Lumbini,Hill,Western,"Per capita income, $",465
+Gulmi,Lumbini,Hill,Western,"Per capita income, PPP $",752
+Palpa,Lumbini,Hill,Western,Agriculture and Forestry,4994
+Palpa,Lumbini,Hill,Western,Fishing,2
+Palpa,Lumbini,Hill,Western,Mining and quarrying,62
+Palpa,Lumbini,Hill,Western,Manufacturing,225
+Palpa,Lumbini,Hill,Western,"Electricity, gas and water",102
+Palpa,Lumbini,Hill,Western,Construction,883
+Palpa,Lumbini,Hill,Western,Wholesale and retail trade,1202
+Palpa,Lumbini,Hill,Western,Hotels and restaurants,104
+Palpa,Lumbini,Hill,Western,"Transport, storage and
 communications",848
-Palpa,Financial intermediation,236
-Palpa,"Real estate, renting and
+Palpa,Lumbini,Hill,Western,Financial intermediation,236
+Palpa,Lumbini,Hill,Western,"Real estate, renting and
 business activities",823
-Palpa,"Public administration and
+Palpa,Lumbini,Hill,Western,"Public administration and
 defense",112
-Palpa,Education,570
-Palpa,Health and social work,207
-Palpa,"Other community,
+Palpa,Lumbini,Hill,Western,Education,570
+Palpa,Lumbini,Hill,Western,Health and social work,207
+Palpa,Lumbini,Hill,Western,"Other community,
 social and personal services
 activities",350
-Palpa,"Total economy including
+Palpa,Lumbini,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",10720
-Palpa,"Total economy at basic price
+Palpa,Lumbini,Hill,Western,"Total economy at basic price
 (total value added)",10374
-Palpa,GDP at market price,11358
-Palpa,Factor income,142
-Palpa,GNI,11500
-Palpa,"Per capita income, Rs. at
+Palpa,Lumbini,Hill,Western,GDP at market price,11358
+Palpa,Lumbini,Hill,Western,Factor income,142
+Palpa,Lumbini,Hill,Western,GNI,11500
+Palpa,Lumbini,Hill,Western,"Per capita income, Rs. at
 market price",44031
-Palpa,"Per capita income, $",609
-Palpa,"Per capita income, PPP $",985
-Arghakhanchi,Agriculture and Forestry,4121
-Arghakhanchi,Fishing,1
-Arghakhanchi,Mining and quarrying,29
-Arghakhanchi,Manufacturing,121
-Arghakhanchi,"Electricity, gas and water",36
-Arghakhanchi,Construction,339
-Arghakhanchi,Wholesale and retail trade,946
-Arghakhanchi,Hotels and restaurants,84
-Arghakhanchi,"Transport, storage and
+Palpa,Lumbini,Hill,Western,"Per capita income, $",609
+Palpa,Lumbini,Hill,Western,"Per capita income, PPP $",985
+Arghakhanchi,Lumbini,Hill,Western,Agriculture and Forestry,4121
+Arghakhanchi,Lumbini,Hill,Western,Fishing,1
+Arghakhanchi,Lumbini,Hill,Western,Mining and quarrying,29
+Arghakhanchi,Lumbini,Hill,Western,Manufacturing,121
+Arghakhanchi,Lumbini,Hill,Western,"Electricity, gas and water",36
+Arghakhanchi,Lumbini,Hill,Western,Construction,339
+Arghakhanchi,Lumbini,Hill,Western,Wholesale and retail trade,946
+Arghakhanchi,Lumbini,Hill,Western,Hotels and restaurants,84
+Arghakhanchi,Lumbini,Hill,Western,"Transport, storage and
 communications",556
-Arghakhanchi,Financial intermediation,221
-Arghakhanchi,"Real estate, renting and
+Arghakhanchi,Lumbini,Hill,Western,Financial intermediation,221
+Arghakhanchi,Lumbini,Hill,Western,"Real estate, renting and
 business activities",362
-Arghakhanchi,"Public administration and
+Arghakhanchi,Lumbini,Hill,Western,"Public administration and
 defense",165
-Arghakhanchi,Education,307
-Arghakhanchi,Health and social work,61
-Arghakhanchi,"Other community,
+Arghakhanchi,Lumbini,Hill,Western,Education,307
+Arghakhanchi,Lumbini,Hill,Western,Health and social work,61
+Arghakhanchi,Lumbini,Hill,Western,"Other community,
 social and personal services
 activities",88
-Arghakhanchi,"Total economy including
+Arghakhanchi,Lumbini,Hill,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7438
-Arghakhanchi,"Total economy at basic price
+Arghakhanchi,Lumbini,Hill,Western,"Total economy at basic price
 (total value added)",7198
-Arghakhanchi,GDP at market price,7881
-Arghakhanchi,Factor income,150
-Arghakhanchi,GNI,8031
-Arghakhanchi,"Per capita income, Rs. at
+Arghakhanchi,Lumbini,Hill,Western,GDP at market price,7881
+Arghakhanchi,Lumbini,Hill,Western,Factor income,150
+Arghakhanchi,Lumbini,Hill,Western,GNI,8031
+Arghakhanchi,Lumbini,Hill,Western,"Per capita income, Rs. at
 market price",40635
-Arghakhanchi,"Per capita income, $",562
-Arghakhanchi,"Per capita income, PPP $",909
-Nawalparasi,Agriculture and Forestry,12209
-Nawalparasi,Fishing,163
-Nawalparasi,Mining and quarrying,44
-Nawalparasi,Manufacturing,6112
-Nawalparasi,"Electricity, gas and water",485
-Nawalparasi,Construction,1431
-Nawalparasi,Wholesale and retail trade,4149
-Nawalparasi,Hotels and restaurants,452
-Nawalparasi,"Transport, storage and
+Arghakhanchi,Lumbini,Hill,Western,"Per capita income, $",562
+Arghakhanchi,Lumbini,Hill,Western,"Per capita income, PPP $",909
+Nawalparasi,Lumbini,Terai,Western,Agriculture and Forestry,12209
+Nawalparasi,Lumbini,Terai,Western,Fishing,163
+Nawalparasi,Lumbini,Terai,Western,Mining and quarrying,44
+Nawalparasi,Lumbini,Terai,Western,Manufacturing,6112
+Nawalparasi,Lumbini,Terai,Western,"Electricity, gas and water",485
+Nawalparasi,Lumbini,Terai,Western,Construction,1431
+Nawalparasi,Lumbini,Terai,Western,Wholesale and retail trade,4149
+Nawalparasi,Lumbini,Terai,Western,Hotels and restaurants,452
+Nawalparasi,Lumbini,Terai,Western,"Transport, storage and
 communications",2085
-Nawalparasi,Financial intermediation,521
-Nawalparasi,"Real estate, renting and
+Nawalparasi,Lumbini,Terai,Western,Financial intermediation,521
+Nawalparasi,Lumbini,Terai,Western,"Real estate, renting and
 business activities",1573
-Nawalparasi,"Public administration and
+Nawalparasi,Lumbini,Terai,Western,"Public administration and
 defense",330
-Nawalparasi,Education,1351
-Nawalparasi,Health and social work,137
-Nawalparasi,"Other community,
+Nawalparasi,Lumbini,Terai,Western,Education,1351
+Nawalparasi,Lumbini,Terai,Western,Health and social work,137
+Nawalparasi,Lumbini,Terai,Western,"Other community,
 social and personal services
 activities",103
-Nawalparasi,"Total economy including
+Nawalparasi,Lumbini,Terai,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",31146
-Nawalparasi,"Total economy at basic price
+Nawalparasi,Lumbini,Terai,Western,"Total economy at basic price
 (total value added)",30140
-Nawalparasi,GDP at market price,33000
-Nawalparasi,Factor income,296
-Nawalparasi,GNI,33296
-Nawalparasi,"Per capita income, Rs. at
+Nawalparasi,Lumbini,Terai,Western,GDP at market price,33000
+Nawalparasi,Lumbini,Terai,Western,Factor income,296
+Nawalparasi,Lumbini,Terai,Western,GNI,33296
+Nawalparasi,Lumbini,Terai,Western,"Per capita income, Rs. at
 market price",51742
-Nawalparasi,"Per capita income, $",716
-Nawalparasi,"Per capita income, PPP $",1157
-Rupandehi,Agriculture and Forestry,14003
-Rupandehi,Fishing,505
-Rupandehi,Mining and quarrying,151
-Rupandehi,Manufacturing,3421
-Rupandehi,"Electricity, gas and water",1267
-Rupandehi,Construction,2325
-Rupandehi,Wholesale and retail trade,6424
-Rupandehi,Hotels and restaurants,816
-Rupandehi,"Transport, storage and
+Nawalparasi,Lumbini,Terai,Western,"Per capita income, $",716
+Nawalparasi,Lumbini,Terai,Western,"Per capita income, PPP $",1157
+Rupandehi,Lumbini,Terai,Western,Agriculture and Forestry,14003
+Rupandehi,Lumbini,Terai,Western,Fishing,505
+Rupandehi,Lumbini,Terai,Western,Mining and quarrying,151
+Rupandehi,Lumbini,Terai,Western,Manufacturing,3421
+Rupandehi,Lumbini,Terai,Western,"Electricity, gas and water",1267
+Rupandehi,Lumbini,Terai,Western,Construction,2325
+Rupandehi,Lumbini,Terai,Western,Wholesale and retail trade,6424
+Rupandehi,Lumbini,Terai,Western,Hotels and restaurants,816
+Rupandehi,Lumbini,Terai,Western,"Transport, storage and
 communications",3039
-Rupandehi,Financial intermediation,2692
-Rupandehi,"Real estate, renting and
+Rupandehi,Lumbini,Terai,Western,Financial intermediation,2692
+Rupandehi,Lumbini,Terai,Western,"Real estate, renting and
 business activities",3872
-Rupandehi,"Public administration and
+Rupandehi,Lumbini,Terai,Western,"Public administration and
 defense",445
-Rupandehi,Education,1875
-Rupandehi,Health and social work,296
-Rupandehi,"Other community,
+Rupandehi,Lumbini,Terai,Western,Education,1875
+Rupandehi,Lumbini,Terai,Western,Health and social work,296
+Rupandehi,Lumbini,Terai,Western,"Other community,
 social and personal services
 activities",154
-Rupandehi,"Total economy including
+Rupandehi,Lumbini,Terai,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",41283
-Rupandehi,"Total economy at basic price
+Rupandehi,Lumbini,Terai,Western,"Total economy at basic price
 (total value added)",40139
-Rupandehi,GDP at market price,43948
-Rupandehi,Factor income,247
-Rupandehi,GNI,44195
-Rupandehi,"Per capita income, Rs. at
+Rupandehi,Lumbini,Terai,Western,GDP at market price,43948
+Rupandehi,Lumbini,Terai,Western,Factor income,247
+Rupandehi,Lumbini,Terai,Western,GNI,44195
+Rupandehi,Lumbini,Terai,Western,"Per capita income, Rs. at
 market price",50210
-Rupandehi,"Per capita income, $",695
-Rupandehi,"Per capita income, PPP $",1123
-Kapilbastu,Agriculture and Forestry,12677
-Kapilbastu,Fishing,208
-Kapilbastu,Mining and quarrying,63
-Kapilbastu,Manufacturing,901
-Kapilbastu,"Electricity, gas and water",228
-Kapilbastu,Construction,1183
-Kapilbastu,Wholesale and retail trade,3258
-Kapilbastu,Hotels and restaurants,356
-Kapilbastu,"Transport, storage and
+Rupandehi,Lumbini,Terai,Western,"Per capita income, $",695
+Rupandehi,Lumbini,Terai,Western,"Per capita income, PPP $",1123
+Kapilbastu,Lumbini,Terai,Western,Agriculture and Forestry,12677
+Kapilbastu,Lumbini,Terai,Western,Fishing,208
+Kapilbastu,Lumbini,Terai,Western,Mining and quarrying,63
+Kapilbastu,Lumbini,Terai,Western,Manufacturing,901
+Kapilbastu,Lumbini,Terai,Western,"Electricity, gas and water",228
+Kapilbastu,Lumbini,Terai,Western,Construction,1183
+Kapilbastu,Lumbini,Terai,Western,Wholesale and retail trade,3258
+Kapilbastu,Lumbini,Terai,Western,Hotels and restaurants,356
+Kapilbastu,Lumbini,Terai,Western,"Transport, storage and
 communications",1832
-Kapilbastu,Financial intermediation,345
-Kapilbastu,"Real estate, renting and
+Kapilbastu,Lumbini,Terai,Western,Financial intermediation,345
+Kapilbastu,Lumbini,Terai,Western,"Real estate, renting and
 business activities",1115
-Kapilbastu,"Public administration and
+Kapilbastu,Lumbini,Terai,Western,"Public administration and
 defense",262
-Kapilbastu,Education,634
-Kapilbastu,Health and social work,200
-Kapilbastu,"Other community,
+Kapilbastu,Lumbini,Terai,Western,Education,634
+Kapilbastu,Lumbini,Terai,Western,Health and social work,200
+Kapilbastu,Lumbini,Terai,Western,"Other community,
 social and personal services
 activities",507
-Kapilbastu,"Total economy including
+Kapilbastu,Lumbini,Terai,Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",23770
-Kapilbastu,"Total economy at basic price
+Kapilbastu,Lumbini,Terai,Western,"Total economy at basic price
 (total value added)",23003
-Kapilbastu,GDP at market price,25186
-Kapilbastu,Factor income,141
-Kapilbastu,GNI,25327
-Kapilbastu,"Per capita income, Rs. at
+Kapilbastu,Lumbini,Terai,Western,GDP at market price,25186
+Kapilbastu,Lumbini,Terai,Western,Factor income,141
+Kapilbastu,Lumbini,Terai,Western,GNI,25327
+Kapilbastu,Lumbini,Terai,Western,"Per capita income, Rs. at
 market price",44283
-Kapilbastu,"Per capita income, $",613
-Kapilbastu,"Per capita income, PPP $",990
-Dolpa,Agriculture and Forestry,757
-Dolpa,Fishing,0
-Dolpa,Mining and quarrying,25
-Dolpa,Manufacturing,47
-Dolpa,"Electricity, gas and water",2
-Dolpa,Construction,185
-Dolpa,Wholesale and retail trade,137
-Dolpa,Hotels and restaurants,19
-Dolpa,"Transport, storage and
+Kapilbastu,Lumbini,Terai,Western,"Per capita income, $",613
+Kapilbastu,Lumbini,Terai,Western,"Per capita income, PPP $",990
+Dolpa,Karnali,Mountain,Mid-Western,Agriculture and Forestry,757
+Dolpa,Karnali,Mountain,Mid-Western,Fishing,0
+Dolpa,Karnali,Mountain,Mid-Western,Mining and quarrying,25
+Dolpa,Karnali,Mountain,Mid-Western,Manufacturing,47
+Dolpa,Karnali,Mountain,Mid-Western,"Electricity, gas and water",2
+Dolpa,Karnali,Mountain,Mid-Western,Construction,185
+Dolpa,Karnali,Mountain,Mid-Western,Wholesale and retail trade,137
+Dolpa,Karnali,Mountain,Mid-Western,Hotels and restaurants,19
+Dolpa,Karnali,Mountain,Mid-Western,"Transport, storage and
 communications",37
-Dolpa,Financial intermediation,20
-Dolpa,"Real estate, renting and
+Dolpa,Karnali,Mountain,Mid-Western,Financial intermediation,20
+Dolpa,Karnali,Mountain,Mid-Western,"Real estate, renting and
 business activities",87
-Dolpa,"Public administration and
+Dolpa,Karnali,Mountain,Mid-Western,"Public administration and
 defense",107
-Dolpa,Education,29
-Dolpa,Health and social work,18
-Dolpa,"Other community,
+Dolpa,Karnali,Mountain,Mid-Western,Education,29
+Dolpa,Karnali,Mountain,Mid-Western,Health and social work,18
+Dolpa,Karnali,Mountain,Mid-Western,"Other community,
 social and personal services
 activities",72
-Dolpa,"Total economy including
+Dolpa,Karnali,Mountain,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",1540
-Dolpa,"Total economy at basic price
+Dolpa,Karnali,Mountain,Mid-Western,"Total economy at basic price
 (total value added)",1558
-Dolpa,GDP at market price,1706
-Dolpa,Factor income,0
-Dolpa,GNI,1707
-Dolpa,"Per capita income, Rs. at
+Dolpa,Karnali,Mountain,Mid-Western,GDP at market price,1706
+Dolpa,Karnali,Mountain,Mid-Western,Factor income,0
+Dolpa,Karnali,Mountain,Mid-Western,GNI,1707
+Dolpa,Karnali,Mountain,Mid-Western,"Per capita income, Rs. at
 market price",46502
-Dolpa,"Per capita income, $",643
-Dolpa,"Per capita income, PPP $",1040
-Jumla,Agriculture and Forestry,2316
-Jumla,Fishing,0
-Jumla,Mining and quarrying,68
-Jumla,Manufacturing,100
-Jumla,"Electricity, gas and water",6
-Jumla,Construction,491
-Jumla,Wholesale and retail trade,359
-Jumla,Hotels and restaurants,52
-Jumla,"Transport, storage and
+Dolpa,Karnali,Mountain,Mid-Western,"Per capita income, $",643
+Dolpa,Karnali,Mountain,Mid-Western,"Per capita income, PPP $",1040
+Jumla,Karnali,Mountain,Mid-Western,Agriculture and Forestry,2316
+Jumla,Karnali,Mountain,Mid-Western,Fishing,0
+Jumla,Karnali,Mountain,Mid-Western,Mining and quarrying,68
+Jumla,Karnali,Mountain,Mid-Western,Manufacturing,100
+Jumla,Karnali,Mountain,Mid-Western,"Electricity, gas and water",6
+Jumla,Karnali,Mountain,Mid-Western,Construction,491
+Jumla,Karnali,Mountain,Mid-Western,Wholesale and retail trade,359
+Jumla,Karnali,Mountain,Mid-Western,Hotels and restaurants,52
+Jumla,Karnali,Mountain,Mid-Western,"Transport, storage and
 communications",202
-Jumla,Financial intermediation,148
-Jumla,"Real estate, renting and
+Jumla,Karnali,Mountain,Mid-Western,Financial intermediation,148
+Jumla,Karnali,Mountain,Mid-Western,"Real estate, renting and
 business activities",409
-Jumla,"Public administration and
+Jumla,Karnali,Mountain,Mid-Western,"Public administration and
 defense",165
-Jumla,Education,116
-Jumla,Health and social work,50
-Jumla,"Other community,
+Jumla,Karnali,Mountain,Mid-Western,Education,116
+Jumla,Karnali,Mountain,Mid-Western,Health and social work,50
+Jumla,Karnali,Mountain,Mid-Western,"Other community,
 social and personal services
 activities",95
-Jumla,"Total economy including
+Jumla,Karnali,Mountain,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",4579
-Jumla,"Total economy at basic price
+Jumla,Karnali,Mountain,Mid-Western,"Total economy at basic price
 (total value added)",4475
-Jumla,GDP at market price,4900
-Jumla,Factor income,4
-Jumla,GNI,4904
-Jumla,"Per capita income, Rs. at
+Jumla,Karnali,Mountain,Mid-Western,GDP at market price,4900
+Jumla,Karnali,Mountain,Mid-Western,Factor income,4
+Jumla,Karnali,Mountain,Mid-Western,GNI,4904
+Jumla,Karnali,Mountain,Mid-Western,"Per capita income, Rs. at
 market price",45022
-Jumla,"Per capita income, $",623
-Jumla,"Per capita income, PPP $",1007
-Kalikot,Agriculture and Forestry,1766
-Kalikot,Fishing,0
-Kalikot,Mining and quarrying,37
-Kalikot,Manufacturing,97
-Kalikot,"Electricity, gas and water",4
-Kalikot,Construction,351
-Kalikot,Wholesale and retail trade,422
-Kalikot,Hotels and restaurants,58
-Kalikot,"Transport, storage and
+Jumla,Karnali,Mountain,Mid-Western,"Per capita income, $",623
+Jumla,Karnali,Mountain,Mid-Western,"Per capita income, PPP $",1007
+Kalikot,Karnali,Mountain,Mid-Western,Agriculture and Forestry,1766
+Kalikot,Karnali,Mountain,Mid-Western,Fishing,0
+Kalikot,Karnali,Mountain,Mid-Western,Mining and quarrying,37
+Kalikot,Karnali,Mountain,Mid-Western,Manufacturing,97
+Kalikot,Karnali,Mountain,Mid-Western,"Electricity, gas and water",4
+Kalikot,Karnali,Mountain,Mid-Western,Construction,351
+Kalikot,Karnali,Mountain,Mid-Western,Wholesale and retail trade,422
+Kalikot,Karnali,Mountain,Mid-Western,Hotels and restaurants,58
+Kalikot,Karnali,Mountain,Mid-Western,"Transport, storage and
 communications",70
-Kalikot,Financial intermediation,15
-Kalikot,"Real estate, renting and
+Kalikot,Karnali,Mountain,Mid-Western,Financial intermediation,15
+Kalikot,Karnali,Mountain,Mid-Western,"Real estate, renting and
 business activities",100
-Kalikot,"Public administration and
+Kalikot,Karnali,Mountain,Mid-Western,"Public administration and
 defense",118
-Kalikot,Education,152
-Kalikot,Health and social work,48
-Kalikot,"Other community,
+Kalikot,Karnali,Mountain,Mid-Western,Education,152
+Kalikot,Karnali,Mountain,Mid-Western,Health and social work,48
+Kalikot,Karnali,Mountain,Mid-Western,"Other community,
 social and personal services
 activities",98
-Kalikot,"Total economy including
+Kalikot,Karnali,Mountain,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",3336
-Kalikot,"Total economy at basic price
+Kalikot,Karnali,Mountain,Mid-Western,"Total economy at basic price
 (total value added)",3228
-Kalikot,GDP at market price,3534
-Kalikot,Factor income,7
-Kalikot,GNI,3541
-Kalikot,"Per capita income, Rs. at
+Kalikot,Karnali,Mountain,Mid-Western,GDP at market price,3534
+Kalikot,Karnali,Mountain,Mid-Western,Factor income,7
+Kalikot,Karnali,Mountain,Mid-Western,GNI,3541
+Kalikot,Karnali,Mountain,Mid-Western,"Per capita income, Rs. at
 market price",25860
-Kalikot,"Per capita income, $",358
-Kalikot,"Per capita income, PPP $",578
-Mugu,Agriculture and Forestry,1017
-Mugu,Fishing,0
-Mugu,Mining and quarrying,29
-Mugu,Manufacturing,47
-Mugu,"Electricity, gas and water",2
-Mugu,Construction,219
-Mugu,Wholesale and retail trade,186
-Mugu,Hotels and restaurants,25
-Mugu,"Transport, storage and
+Kalikot,Karnali,Mountain,Mid-Western,"Per capita income, $",358
+Kalikot,Karnali,Mountain,Mid-Western,"Per capita income, PPP $",578
+Mugu,Karnali,Mountain,Mid-Western,Agriculture and Forestry,1017
+Mugu,Karnali,Mountain,Mid-Western,Fishing,0
+Mugu,Karnali,Mountain,Mid-Western,Mining and quarrying,29
+Mugu,Karnali,Mountain,Mid-Western,Manufacturing,47
+Mugu,Karnali,Mountain,Mid-Western,"Electricity, gas and water",2
+Mugu,Karnali,Mountain,Mid-Western,Construction,219
+Mugu,Karnali,Mountain,Mid-Western,Wholesale and retail trade,186
+Mugu,Karnali,Mountain,Mid-Western,Hotels and restaurants,25
+Mugu,Karnali,Mountain,Mid-Western,"Transport, storage and
 communications",84
-Mugu,Financial intermediation,11
-Mugu,"Real estate, renting and
+Mugu,Karnali,Mountain,Mid-Western,Financial intermediation,11
+Mugu,Karnali,Mountain,Mid-Western,"Real estate, renting and
 business activities",124
-Mugu,"Public administration and
+Mugu,Karnali,Mountain,Mid-Western,"Public administration and
 defense",101
-Mugu,Education,64
-Mugu,Health and social work,31
-Mugu,"Other community,
+Mugu,Karnali,Mountain,Mid-Western,Education,64
+Mugu,Karnali,Mountain,Mid-Western,Health and social work,31
+Mugu,Karnali,Mountain,Mid-Western,"Other community,
 social and personal services
 activities",57
-Mugu,"Total economy including
+Mugu,Karnali,Mountain,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",1996
-Mugu,"Total economy at basic price
+Mugu,Karnali,Mountain,Mid-Western,"Total economy at basic price
 (total value added)",1955
-Mugu,GDP at market price,2141
-Mugu,Factor income,1
-Mugu,GNI,2142
-Mugu,"Per capita income, Rs. at
+Mugu,Karnali,Mountain,Mid-Western,GDP at market price,2141
+Mugu,Karnali,Mountain,Mid-Western,Factor income,1
+Mugu,Karnali,Mountain,Mid-Western,GNI,2142
+Mugu,Karnali,Mountain,Mid-Western,"Per capita income, Rs. at
 market price",38743
-Mugu,"Per capita income, $",536
-Mugu,"Per capita income, PPP $",866
-Humla,Agriculture and Forestry,636
-Humla,Fishing,0
-Humla,Mining and quarrying,32
-Humla,Manufacturing,34
-Humla,"Electricity, gas and water",4
-Humla,Construction,235
-Humla,Wholesale and retail trade,176
-Humla,Hotels and restaurants,27
-Humla,"Transport, storage and
+Mugu,Karnali,Mountain,Mid-Western,"Per capita income, $",536
+Mugu,Karnali,Mountain,Mid-Western,"Per capita income, PPP $",866
+Humla,Karnali,Mountain,Mid-Western,Agriculture and Forestry,636
+Humla,Karnali,Mountain,Mid-Western,Fishing,0
+Humla,Karnali,Mountain,Mid-Western,Mining and quarrying,32
+Humla,Karnali,Mountain,Mid-Western,Manufacturing,34
+Humla,Karnali,Mountain,Mid-Western,"Electricity, gas and water",4
+Humla,Karnali,Mountain,Mid-Western,Construction,235
+Humla,Karnali,Mountain,Mid-Western,Wholesale and retail trade,176
+Humla,Karnali,Mountain,Mid-Western,Hotels and restaurants,27
+Humla,Karnali,Mountain,Mid-Western,"Transport, storage and
 communications",96
-Humla,Financial intermediation,42
-Humla,"Real estate, renting and
+Humla,Karnali,Mountain,Mid-Western,Financial intermediation,42
+Humla,Karnali,Mountain,Mid-Western,"Real estate, renting and
 business activities",83
-Humla,"Public administration and
+Humla,Karnali,Mountain,Mid-Western,"Public administration and
 defense",101
-Humla,Education,50
-Humla,Health and social work,66
-Humla,"Other community,
+Humla,Karnali,Mountain,Mid-Western,Education,50
+Humla,Karnali,Mountain,Mid-Western,Health and social work,66
+Humla,Karnali,Mountain,Mid-Western,"Other community,
 social and personal services
 activities",94
-Humla,"Total economy including
+Humla,Karnali,Mountain,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",1675
-Humla,"Total economy at basic price
+Humla,Karnali,Mountain,Mid-Western,"Total economy at basic price
 (total value added)",1649
-Humla,GDP at market price,1806
-Humla,Factor income,1
-Humla,GNI,1806
-Humla,"Per capita income, Rs. at
+Humla,Karnali,Mountain,Mid-Western,GDP at market price,1806
+Humla,Karnali,Mountain,Mid-Western,Factor income,1
+Humla,Karnali,Mountain,Mid-Western,GNI,1806
+Humla,Karnali,Mountain,Mid-Western,"Per capita income, Rs. at
 market price",35515
-Humla,"Per capita income, $",491
-Humla,"Per capita income, PPP $",794
-Pyuthan,Agriculture and Forestry,3353
-Pyuthan,Fishing,0
-Pyuthan,Mining and quarrying,37
-Pyuthan,Manufacturing,126
-Pyuthan,"Electricity, gas and water",27
-Pyuthan,Construction,515
-Pyuthan,Wholesale and retail trade,967
-Pyuthan,Hotels and restaurants,82
-Pyuthan,"Transport, storage and
+Humla,Karnali,Mountain,Mid-Western,"Per capita income, $",491
+Humla,Karnali,Mountain,Mid-Western,"Per capita income, PPP $",794
+Pyuthan,Rapti,Hill,Mid-Western,Agriculture and Forestry,3353
+Pyuthan,Rapti,Hill,Mid-Western,Fishing,0
+Pyuthan,Rapti,Hill,Mid-Western,Mining and quarrying,37
+Pyuthan,Rapti,Hill,Mid-Western,Manufacturing,126
+Pyuthan,Rapti,Hill,Mid-Western,"Electricity, gas and water",27
+Pyuthan,Rapti,Hill,Mid-Western,Construction,515
+Pyuthan,Rapti,Hill,Mid-Western,Wholesale and retail trade,967
+Pyuthan,Rapti,Hill,Mid-Western,Hotels and restaurants,82
+Pyuthan,Rapti,Hill,Mid-Western,"Transport, storage and
 communications",161
-Pyuthan,Financial intermediation,74
-Pyuthan,"Real estate, renting and
+Pyuthan,Rapti,Hill,Mid-Western,Financial intermediation,74
+Pyuthan,Rapti,Hill,Mid-Western,"Real estate, renting and
 business activities",494
-Pyuthan,"Public administration and
+Pyuthan,Rapti,Hill,Mid-Western,"Public administration and
 defense",159
-Pyuthan,Education,191
-Pyuthan,Health and social work,112
-Pyuthan,"Other community,
+Pyuthan,Rapti,Hill,Mid-Western,Education,191
+Pyuthan,Rapti,Hill,Mid-Western,Health and social work,112
+Pyuthan,Rapti,Hill,Mid-Western,"Other community,
 social and personal services
 activities",102
-Pyuthan,"Total economy including
+Pyuthan,Rapti,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6398
-Pyuthan,"Total economy at basic price
+Pyuthan,Rapti,Hill,Mid-Western,"Total economy at basic price
 (total value added)",6192
-Pyuthan,GDP at market price,6779
-Pyuthan,Factor income,167
-Pyuthan,GNI,6946
-Pyuthan,"Per capita income, Rs. at
+Pyuthan,Rapti,Hill,Mid-Western,GDP at market price,6779
+Pyuthan,Rapti,Hill,Mid-Western,Factor income,167
+Pyuthan,Rapti,Hill,Mid-Western,GNI,6946
+Pyuthan,Rapti,Hill,Mid-Western,"Per capita income, Rs. at
 market price",30452
-Pyuthan,"Per capita income, $",421
-Pyuthan,"Per capita income, PPP $",681
-Rolpa,Agriculture and Forestry,3114
-Rolpa,Fishing,0
-Rolpa,Mining and quarrying,50
-Rolpa,Manufacturing,114
-Rolpa,"Electricity, gas and water",17
-Rolpa,Construction,558
-Rolpa,Wholesale and retail trade,876
-Rolpa,Hotels and restaurants,83
-Rolpa,"Transport, storage and
+Pyuthan,Rapti,Hill,Mid-Western,"Per capita income, $",421
+Pyuthan,Rapti,Hill,Mid-Western,"Per capita income, PPP $",681
+Rolpa,Rapti,Hill,Mid-Western,Agriculture and Forestry,3114
+Rolpa,Rapti,Hill,Mid-Western,Fishing,0
+Rolpa,Rapti,Hill,Mid-Western,Mining and quarrying,50
+Rolpa,Rapti,Hill,Mid-Western,Manufacturing,114
+Rolpa,Rapti,Hill,Mid-Western,"Electricity, gas and water",17
+Rolpa,Rapti,Hill,Mid-Western,Construction,558
+Rolpa,Rapti,Hill,Mid-Western,Wholesale and retail trade,876
+Rolpa,Rapti,Hill,Mid-Western,Hotels and restaurants,83
+Rolpa,Rapti,Hill,Mid-Western,"Transport, storage and
 communications",136
-Rolpa,Financial intermediation,37
-Rolpa,"Real estate, renting and
+Rolpa,Rapti,Hill,Mid-Western,Financial intermediation,37
+Rolpa,Rapti,Hill,Mid-Western,"Real estate, renting and
 business activities",429
-Rolpa,"Public administration and
+Rolpa,Rapti,Hill,Mid-Western,"Public administration and
 defense",161
-Rolpa,Education,214
-Rolpa,Health and social work,98
-Rolpa,"Other community,
+Rolpa,Rapti,Hill,Mid-Western,Education,214
+Rolpa,Rapti,Hill,Mid-Western,Health and social work,98
+Rolpa,Rapti,Hill,Mid-Western,"Other community,
 social and personal services
 activities",85
-Rolpa,"Total economy including
+Rolpa,Rapti,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",5972
-Rolpa,"Total economy at basic price
+Rolpa,Rapti,Hill,Mid-Western,"Total economy at basic price
 (total value added)",5779
-Rolpa,GDP at market price,6327
-Rolpa,Factor income,131
-Rolpa,GNI,6459
-Rolpa,"Per capita income, Rs. at
+Rolpa,Rapti,Hill,Mid-Western,GDP at market price,6327
+Rolpa,Rapti,Hill,Mid-Western,Factor income,131
+Rolpa,Rapti,Hill,Mid-Western,GNI,6459
+Rolpa,Rapti,Hill,Mid-Western,"Per capita income, Rs. at
 market price",28768
-Rolpa,"Per capita income, $",398
-Rolpa,"Per capita income, PPP $",643
-Rukum,Agriculture and Forestry,3744
-Rukum,Fishing,0
-Rukum,Mining and quarrying,45
-Rukum,Manufacturing,268
-Rukum,"Electricity, gas and water",11
-Rukum,Construction,522
-Rukum,Wholesale and retail trade,833
-Rukum,Hotels and restaurants,69
-Rukum,"Transport, storage and
+Rolpa,Rapti,Hill,Mid-Western,"Per capita income, $",398
+Rolpa,Rapti,Hill,Mid-Western,"Per capita income, PPP $",643
+Rukum,Rapti,Hill,Mid-Western,Agriculture and Forestry,3744
+Rukum,Rapti,Hill,Mid-Western,Fishing,0
+Rukum,Rapti,Hill,Mid-Western,Mining and quarrying,45
+Rukum,Rapti,Hill,Mid-Western,Manufacturing,268
+Rukum,Rapti,Hill,Mid-Western,"Electricity, gas and water",11
+Rukum,Rapti,Hill,Mid-Western,Construction,522
+Rukum,Rapti,Hill,Mid-Western,Wholesale and retail trade,833
+Rukum,Rapti,Hill,Mid-Western,Hotels and restaurants,69
+Rukum,Rapti,Hill,Mid-Western,"Transport, storage and
 communications",126
-Rukum,Financial intermediation,57
-Rukum,"Real estate, renting and
+Rukum,Rapti,Hill,Mid-Western,Financial intermediation,57
+Rukum,Rapti,Hill,Mid-Western,"Real estate, renting and
 business activities",472
-Rukum,"Public administration and
+Rukum,Rapti,Hill,Mid-Western,"Public administration and
 defense",179
-Rukum,Education,241
-Rukum,Health and social work,148
-Rukum,"Other community,
+Rukum,Rapti,Hill,Mid-Western,Education,241
+Rukum,Rapti,Hill,Mid-Western,Health and social work,148
+Rukum,Rapti,Hill,Mid-Western,"Other community,
 social and personal services
 activities",92
-Rukum,"Total economy including
+Rukum,Rapti,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6807
-Rukum,"Total economy at basic price
+Rukum,Rapti,Hill,Mid-Western,"Total economy at basic price
 (total value added)",6595
-Rukum,GDP at market price,7220
-Rukum,Factor income,73
-Rukum,GNI,7294
-Rukum,"Per capita income, Rs. at
+Rukum,Rapti,Hill,Mid-Western,GDP at market price,7220
+Rukum,Rapti,Hill,Mid-Western,Factor income,73
+Rukum,Rapti,Hill,Mid-Western,GNI,7294
+Rukum,Rapti,Hill,Mid-Western,"Per capita income, Rs. at
 market price",34970
-Rukum,"Per capita income, $",484
-Rukum,"Per capita income, PPP $",782
-Salyan,Agriculture and Forestry,5183
-Salyan,Fishing,0
-Salyan,Mining and quarrying,29
-Salyan,Manufacturing,114
-Salyan,"Electricity, gas and water",12
-Salyan,Construction,467
-Salyan,Wholesale and retail trade,927
-Salyan,Hotels and restaurants,78
-Salyan,"Transport, storage and
+Rukum,Rapti,Hill,Mid-Western,"Per capita income, $",484
+Rukum,Rapti,Hill,Mid-Western,"Per capita income, PPP $",782
+Salyan,Rapti,Hill,Mid-Western,Agriculture and Forestry,5183
+Salyan,Rapti,Hill,Mid-Western,Fishing,0
+Salyan,Rapti,Hill,Mid-Western,Mining and quarrying,29
+Salyan,Rapti,Hill,Mid-Western,Manufacturing,114
+Salyan,Rapti,Hill,Mid-Western,"Electricity, gas and water",12
+Salyan,Rapti,Hill,Mid-Western,Construction,467
+Salyan,Rapti,Hill,Mid-Western,Wholesale and retail trade,927
+Salyan,Rapti,Hill,Mid-Western,Hotels and restaurants,78
+Salyan,Rapti,Hill,Mid-Western,"Transport, storage and
 communications",149
-Salyan,Financial intermediation,63
-Salyan,"Real estate, renting and
+Salyan,Rapti,Hill,Mid-Western,Financial intermediation,63
+Salyan,Rapti,Hill,Mid-Western,"Real estate, renting and
 business activities",336
-Salyan,"Public administration and
+Salyan,Rapti,Hill,Mid-Western,"Public administration and
 defense",156
-Salyan,Education,217
-Salyan,Health and social work,128
-Salyan,"Other community,
+Salyan,Rapti,Hill,Mid-Western,Education,217
+Salyan,Rapti,Hill,Mid-Western,Health and social work,128
+Salyan,Rapti,Hill,Mid-Western,"Other community,
 social and personal services
 activities",102
-Salyan,"Total economy including
+Salyan,Rapti,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7961
-Salyan,"Total economy at basic price
+Salyan,Rapti,Hill,Mid-Western,"Total economy at basic price
 (total value added)",7704
-Salyan,GDP at market price,8435
-Salyan,Factor income,82
-Salyan,GNI,8517
-Salyan,"Per capita income, Rs. at
+Salyan,Rapti,Hill,Mid-Western,GDP at market price,8435
+Salyan,Rapti,Hill,Mid-Western,Factor income,82
+Salyan,Rapti,Hill,Mid-Western,GNI,8517
+Salyan,Rapti,Hill,Mid-Western,"Per capita income, Rs. at
 market price",35131
-Salyan,"Per capita income, $",486
-Salyan,"Per capita income, PPP $",786
-Surkhet,Agriculture and Forestry,6536
-Surkhet,Fishing,2
-Surkhet,Mining and quarrying,95
-Surkhet,Manufacturing,469
-Surkhet,"Electricity, gas and water",25
-Surkhet,Construction,991
-Surkhet,Wholesale and retail trade,1464
-Surkhet,Hotels and restaurants,125
-Surkhet,"Transport, storage and
+Salyan,Rapti,Hill,Mid-Western,"Per capita income, $",486
+Salyan,Rapti,Hill,Mid-Western,"Per capita income, PPP $",786
+Surkhet,Bheri,Hill,Mid-Western,Agriculture and Forestry,6536
+Surkhet,Bheri,Hill,Mid-Western,Fishing,2
+Surkhet,Bheri,Hill,Mid-Western,Mining and quarrying,95
+Surkhet,Bheri,Hill,Mid-Western,Manufacturing,469
+Surkhet,Bheri,Hill,Mid-Western,"Electricity, gas and water",25
+Surkhet,Bheri,Hill,Mid-Western,Construction,991
+Surkhet,Bheri,Hill,Mid-Western,Wholesale and retail trade,1464
+Surkhet,Bheri,Hill,Mid-Western,Hotels and restaurants,125
+Surkhet,Bheri,Hill,Mid-Western,"Transport, storage and
 communications",551
-Surkhet,Financial intermediation,340
-Surkhet,"Real estate, renting and
+Surkhet,Bheri,Hill,Mid-Western,Financial intermediation,340
+Surkhet,Bheri,Hill,Mid-Western,"Real estate, renting and
 business activities",1537
-Surkhet,"Public administration and
+Surkhet,Bheri,Hill,Mid-Western,"Public administration and
 defense",468
-Surkhet,Education,456
-Surkhet,Health and social work,177
-Surkhet,"Other community,
+Surkhet,Bheri,Hill,Mid-Western,Education,456
+Surkhet,Bheri,Hill,Mid-Western,Health and social work,177
+Surkhet,Bheri,Hill,Mid-Western,"Other community,
 social and personal services
 activities",115
-Surkhet,"Total economy including
+Surkhet,Bheri,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",13350
-Surkhet,"Total economy at basic price
+Surkhet,Bheri,Hill,Mid-Western,"Total economy at basic price
 (total value added)",12925
-Surkhet,GDP at market price,14151
-Surkhet,Factor income,135
-Surkhet,GNI,14286
-Surkhet,"Per capita income, Rs. at
+Surkhet,Bheri,Hill,Mid-Western,GDP at market price,14151
+Surkhet,Bheri,Hill,Mid-Western,Factor income,135
+Surkhet,Bheri,Hill,Mid-Western,GNI,14286
+Surkhet,Bheri,Hill,Mid-Western,"Per capita income, Rs. at
 market price",40724
-Surkhet,"Per capita income, $",563
-Surkhet,"Per capita income, PPP $",911
-Dailekh,Agriculture and Forestry,4223
-Dailekh,Fishing,0
-Dailekh,Mining and quarrying,38
-Dailekh,Manufacturing,130
-Dailekh,"Electricity, gas and water",10
-Dailekh,Construction,531
-Dailekh,Wholesale and retail trade,990
-Dailekh,Hotels and restaurants,93
-Dailekh,"Transport, storage and
+Surkhet,Bheri,Hill,Mid-Western,"Per capita income, $",563
+Surkhet,Bheri,Hill,Mid-Western,"Per capita income, PPP $",911
+Dailekh,Bheri,Hill,Mid-Western,Agriculture and Forestry,4223
+Dailekh,Bheri,Hill,Mid-Western,Fishing,0
+Dailekh,Bheri,Hill,Mid-Western,Mining and quarrying,38
+Dailekh,Bheri,Hill,Mid-Western,Manufacturing,130
+Dailekh,Bheri,Hill,Mid-Western,"Electricity, gas and water",10
+Dailekh,Bheri,Hill,Mid-Western,Construction,531
+Dailekh,Bheri,Hill,Mid-Western,Wholesale and retail trade,990
+Dailekh,Bheri,Hill,Mid-Western,Hotels and restaurants,93
+Dailekh,Bheri,Hill,Mid-Western,"Transport, storage and
 communications",358
-Dailekh,Financial intermediation,17
-Dailekh,"Real estate, renting and
+Dailekh,Bheri,Hill,Mid-Western,Financial intermediation,17
+Dailekh,Bheri,Hill,Mid-Western,"Real estate, renting and
 business activities",431
-Dailekh,"Public administration and
+Dailekh,Bheri,Hill,Mid-Western,"Public administration and
 defense",170
-Dailekh,Education,288
-Dailekh,Health and social work,139
-Dailekh,"Other community,
+Dailekh,Bheri,Hill,Mid-Western,Education,288
+Dailekh,Bheri,Hill,Mid-Western,Health and social work,139
+Dailekh,Bheri,Hill,Mid-Western,"Other community,
 social and personal services
 activities",94
-Dailekh,"Total economy including
+Dailekh,Bheri,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",7509
-Dailekh,"Total economy at basic price
+Dailekh,Bheri,Hill,Mid-Western,"Total economy at basic price
 (total value added)",7267
-Dailekh,GDP at market price,7956
-Dailekh,Factor income,56
-Dailekh,GNI,8012
-Dailekh,"Per capita income, Rs. at
+Dailekh,Bheri,Hill,Mid-Western,GDP at market price,7956
+Dailekh,Bheri,Hill,Mid-Western,Factor income,56
+Dailekh,Bheri,Hill,Mid-Western,GNI,8012
+Dailekh,Bheri,Hill,Mid-Western,"Per capita income, Rs. at
 market price",30609
-Dailekh,"Per capita income, $",424
-Dailekh,"Per capita income, PPP $",684
-Jajarkot,Agriculture and Forestry,2305
-Jajarkot,Fishing,0
-Jajarkot,Mining and quarrying,30
-Jajarkot,Manufacturing,101
-Jajarkot,"Electricity, gas and water",2
-Jajarkot,Construction,363
-Jajarkot,Wholesale and retail trade,605
-Jajarkot,Hotels and restaurants,53
-Jajarkot,"Transport, storage and
+Dailekh,Bheri,Hill,Mid-Western,"Per capita income, $",424
+Dailekh,Bheri,Hill,Mid-Western,"Per capita income, PPP $",684
+Jajarkot,Bheri,Hill,Mid-Western,Agriculture and Forestry,2305
+Jajarkot,Bheri,Hill,Mid-Western,Fishing,0
+Jajarkot,Bheri,Hill,Mid-Western,Mining and quarrying,30
+Jajarkot,Bheri,Hill,Mid-Western,Manufacturing,101
+Jajarkot,Bheri,Hill,Mid-Western,"Electricity, gas and water",2
+Jajarkot,Bheri,Hill,Mid-Western,Construction,363
+Jajarkot,Bheri,Hill,Mid-Western,Wholesale and retail trade,605
+Jajarkot,Bheri,Hill,Mid-Western,Hotels and restaurants,53
+Jajarkot,Bheri,Hill,Mid-Western,"Transport, storage and
 communications",111
-Jajarkot,Financial intermediation,101
-Jajarkot,"Real estate, renting and
+Jajarkot,Bheri,Hill,Mid-Western,Financial intermediation,101
+Jajarkot,Bheri,Hill,Mid-Western,"Real estate, renting and
 business activities",169
-Jajarkot,"Public administration and
+Jajarkot,Bheri,Hill,Mid-Western,"Public administration and
 defense",150
-Jajarkot,Education,219
-Jajarkot,Health and social work,90
-Jajarkot,"Other community,
+Jajarkot,Bheri,Hill,Mid-Western,Education,219
+Jajarkot,Bheri,Hill,Mid-Western,Health and social work,90
+Jajarkot,Bheri,Hill,Mid-Western,"Other community,
 social and personal services
 activities",99
-Jajarkot,"Total economy including
+Jajarkot,Bheri,Hill,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",4397
-Jajarkot,"Total economy at basic price
+Jajarkot,Bheri,Hill,Mid-Western,"Total economy at basic price
 (total value added)",4255
-Jajarkot,GDP at market price,4659
-Jajarkot,Factor income,23
-Jajarkot,GNI,4682
-Jajarkot,"Per capita income, Rs. at
+Jajarkot,Bheri,Hill,Mid-Western,GDP at market price,4659
+Jajarkot,Bheri,Hill,Mid-Western,Factor income,23
+Jajarkot,Bheri,Hill,Mid-Western,GNI,4682
+Jajarkot,Bheri,Hill,Mid-Western,"Per capita income, Rs. at
 market price",27330
-Jajarkot,"Per capita income, $",378
-Jajarkot,"Per capita income, PPP $",611
-Dang,Agriculture and Forestry,12914
-Dang,Fishing,62
-Dang,Mining and quarrying,135
-Dang,Manufacturing,409
-Dang,"Electricity, gas and water",212
-Dang,Construction,1499
-Dang,Wholesale and retail trade,3832
-Dang,Hotels and restaurants,406
-Dang,"Transport, storage and
+Jajarkot,Bheri,Hill,Mid-Western,"Per capita income, $",378
+Jajarkot,Bheri,Hill,Mid-Western,"Per capita income, PPP $",611
+Dang,Rapti,Terai,Mid-Western,Agriculture and Forestry,12914
+Dang,Rapti,Terai,Mid-Western,Fishing,62
+Dang,Rapti,Terai,Mid-Western,Mining and quarrying,135
+Dang,Rapti,Terai,Mid-Western,Manufacturing,409
+Dang,Rapti,Terai,Mid-Western,"Electricity, gas and water",212
+Dang,Rapti,Terai,Mid-Western,Construction,1499
+Dang,Rapti,Terai,Mid-Western,Wholesale and retail trade,3832
+Dang,Rapti,Terai,Mid-Western,Hotels and restaurants,406
+Dang,Rapti,Terai,Mid-Western,"Transport, storage and
 communications",696
-Dang,Financial intermediation,927
-Dang,"Real estate, renting and
+Dang,Rapti,Terai,Mid-Western,Financial intermediation,927
+Dang,Rapti,Terai,Mid-Western,"Real estate, renting and
 business activities",3099
-Dang,"Public administration and
+Dang,Rapti,Terai,Mid-Western,"Public administration and
 defense",353
-Dang,Education,1151
-Dang,Health and social work,238
-Dang,"Other community,
+Dang,Rapti,Terai,Mid-Western,Education,1151
+Dang,Rapti,Terai,Mid-Western,Health and social work,238
+Dang,Rapti,Terai,Mid-Western,"Other community,
 social and personal services
 activities",146
-Dang,"Total economy including
+Dang,Rapti,Terai,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",26079
-Dang,"Total economy at basic price
+Dang,Rapti,Terai,Mid-Western,"Total economy at basic price
 (total value added)",25240
-Dang,GDP at market price,27635
-Dang,Factor income,223
-Dang,GNI,27858
-Dang,"Per capita income, Rs. at
+Dang,Rapti,Terai,Mid-Western,GDP at market price,27635
+Dang,Rapti,Terai,Mid-Western,Factor income,223
+Dang,Rapti,Terai,Mid-Western,GNI,27858
+Dang,Rapti,Terai,Mid-Western,"Per capita income, Rs. at
 market price",50415
-Dang,"Per capita income, $",698
-Dang,"Per capita income, PPP $",1127
-Banke,Agriculture and Forestry,9208
-Banke,Fishing,127
-Banke,Mining and quarrying,89
-Banke,Manufacturing,934
-Banke,"Electricity, gas and water",386
-Banke,Construction,1109
-Banke,Wholesale and retail trade,3549
-Banke,Hotels and restaurants,359
-Banke,"Transport, storage and
+Dang,Rapti,Terai,Mid-Western,"Per capita income, $",698
+Dang,Rapti,Terai,Mid-Western,"Per capita income, PPP $",1127
+Banke,Bheri,Terai,Mid-Western,Agriculture and Forestry,9208
+Banke,Bheri,Terai,Mid-Western,Fishing,127
+Banke,Bheri,Terai,Mid-Western,Mining and quarrying,89
+Banke,Bheri,Terai,Mid-Western,Manufacturing,934
+Banke,Bheri,Terai,Mid-Western,"Electricity, gas and water",386
+Banke,Bheri,Terai,Mid-Western,Construction,1109
+Banke,Bheri,Terai,Mid-Western,Wholesale and retail trade,3549
+Banke,Bheri,Terai,Mid-Western,Hotels and restaurants,359
+Banke,Bheri,Terai,Mid-Western,"Transport, storage and
 communications",1389
-Banke,Financial intermediation,1291
-Banke,"Real estate, renting and
+Banke,Bheri,Terai,Mid-Western,Financial intermediation,1291
+Banke,Bheri,Terai,Mid-Western,"Real estate, renting and
 business activities",2118
-Banke,"Public administration and
+Banke,Bheri,Terai,Mid-Western,"Public administration and
 defense",403
-Banke,Education,1057
-Banke,Health and social work,908
-Banke,"Other community,
+Banke,Bheri,Terai,Mid-Western,Education,1057
+Banke,Bheri,Terai,Mid-Western,Health and social work,908
+Banke,Bheri,Terai,Mid-Western,"Other community,
 social and personal services
 activities",215
-Banke,"Total economy including
+Banke,Bheri,Terai,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",23141
-Banke,"Total economy at basic price
+Banke,Bheri,Terai,Mid-Western,"Total economy at basic price
 (total value added)",22620
-Banke,GDP at market price,24766
-Banke,Factor income,123
-Banke,GNI,24889
-Banke,"Per capita income, Rs. at
+Banke,Bheri,Terai,Mid-Western,GDP at market price,24766
+Banke,Bheri,Terai,Mid-Western,Factor income,123
+Banke,Bheri,Terai,Mid-Western,GNI,24889
+Banke,Bheri,Terai,Mid-Western,"Per capita income, Rs. at
 market price",50659
-Banke,"Per capita income, $",701
-Banke,"Per capita income, PPP $",1133
-Bardiya,Agriculture and Forestry,11472
-Bardiya,Fishing,192
-Bardiya,Mining and quarrying,67
-Bardiya,Manufacturing,302
-Bardiya,"Electricity, gas and water",133
-Bardiya,Construction,916
-Bardiya,Wholesale and retail trade,2612
-Bardiya,Hotels and restaurants,304
-Bardiya,"Transport, storage and
+Banke,Bheri,Terai,Mid-Western,"Per capita income, $",701
+Banke,Bheri,Terai,Mid-Western,"Per capita income, PPP $",1133
+Bardiya,Bheri,Terai,Mid-Western,Agriculture and Forestry,11472
+Bardiya,Bheri,Terai,Mid-Western,Fishing,192
+Bardiya,Bheri,Terai,Mid-Western,Mining and quarrying,67
+Bardiya,Bheri,Terai,Mid-Western,Manufacturing,302
+Bardiya,Bheri,Terai,Mid-Western,"Electricity, gas and water",133
+Bardiya,Bheri,Terai,Mid-Western,Construction,916
+Bardiya,Bheri,Terai,Mid-Western,Wholesale and retail trade,2612
+Bardiya,Bheri,Terai,Mid-Western,Hotels and restaurants,304
+Bardiya,Bheri,Terai,Mid-Western,"Transport, storage and
 communications",587
-Bardiya,Financial intermediation,116
-Bardiya,"Real estate, renting and
+Bardiya,Bheri,Terai,Mid-Western,Financial intermediation,116
+Bardiya,Bheri,Terai,Mid-Western,"Real estate, renting and
 business activities",1397
-Bardiya,"Public administration and
+Bardiya,Bheri,Terai,Mid-Western,"Public administration and
 defense",239
-Bardiya,Education,773
-Bardiya,Health and social work,197
-Bardiya,"Other community,
+Bardiya,Bheri,Terai,Mid-Western,Education,773
+Bardiya,Bheri,Terai,Mid-Western,Health and social work,197
+Bardiya,Bheri,Terai,Mid-Western,"Other community,
 social and personal services
 activities",107
-Bardiya,"Total economy including
+Bardiya,Bheri,Terai,Mid-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",19414
-Bardiya,"Total economy at basic price
+Bardiya,Bheri,Terai,Mid-Western,"Total economy at basic price
 (total value added)",18787
-Bardiya,GDP at market price,20570
-Bardiya,Factor income,146
-Bardiya,GNI,20716
-Bardiya,"Per capita income, Rs. at
+Bardiya,Bheri,Terai,Mid-Western,GDP at market price,20570
+Bardiya,Bheri,Terai,Mid-Western,Factor income,146
+Bardiya,Bheri,Terai,Mid-Western,GNI,20716
+Bardiya,Bheri,Terai,Mid-Western,"Per capita income, Rs. at
 market price",48564
-Bardiya,"Per capita income, $",672
-Bardiya,"Per capita income, PPP $",1086
-Bajura,Agriculture and Forestry,1552
-Bajura,Fishing,0
-Bajura,Mining and quarrying,22
-Bajura,Manufacturing,89
-Bajura,"Electricity, gas and water",5
-Bajura,Construction,209
-Bajura,Wholesale and retail trade,474
-Bajura,Hotels and restaurants,65
-Bajura,"Transport, storage and
+Bardiya,Bheri,Terai,Mid-Western,"Per capita income, $",672
+Bardiya,Bheri,Terai,Mid-Western,"Per capita income, PPP $",1086
+Bajura,Seti,Mountain,Far-Western,Agriculture and Forestry,1552
+Bajura,Seti,Mountain,Far-Western,Fishing,0
+Bajura,Seti,Mountain,Far-Western,Mining and quarrying,22
+Bajura,Seti,Mountain,Far-Western,Manufacturing,89
+Bajura,Seti,Mountain,Far-Western,"Electricity, gas and water",5
+Bajura,Seti,Mountain,Far-Western,Construction,209
+Bajura,Seti,Mountain,Far-Western,Wholesale and retail trade,474
+Bajura,Seti,Mountain,Far-Western,Hotels and restaurants,65
+Bajura,Seti,Mountain,Far-Western,"Transport, storage and
 communications",43
-Bajura,Financial intermediation,12
-Bajura,"Real estate, renting and
+Bajura,Seti,Mountain,Far-Western,Financial intermediation,12
+Bajura,Seti,Mountain,Far-Western,"Real estate, renting and
 business activities",47
-Bajura,"Public administration and
+Bajura,Seti,Mountain,Far-Western,"Public administration and
 defense",120
-Bajura,Education,152
-Bajura,Health and social work,62
-Bajura,"Other community,
+Bajura,Seti,Mountain,Far-Western,Education,152
+Bajura,Seti,Mountain,Far-Western,Health and social work,62
+Bajura,Seti,Mountain,Far-Western,"Other community,
 social and personal services
 activities",94
-Bajura,"Total economy including
+Bajura,Seti,Mountain,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",2947
-Bajura,"Total economy at basic price
+Bajura,Seti,Mountain,Far-Western,"Total economy at basic price
 (total value added)",2851
-Bajura,GDP at market price,3122
-Bajura,Factor income,36
-Bajura,GNI,3158
-Bajura,"Per capita income, Rs. at
+Bajura,Seti,Mountain,Far-Western,GDP at market price,3122
+Bajura,Seti,Mountain,Far-Western,Factor income,36
+Bajura,Seti,Mountain,Far-Western,GNI,3158
+Bajura,Seti,Mountain,Far-Western,"Per capita income, Rs. at
 market price",23405
-Bajura,"Per capita income, $",324
-Bajura,"Per capita income, PPP $",523
-Bajhang,Agriculture and Forestry,2031
-Bajhang,Fishing,0
-Bajhang,Mining and quarrying,24
-Bajhang,Manufacturing,108
-Bajhang,"Electricity, gas and water",6
-Bajhang,Construction,249
-Bajhang,Wholesale and retail trade,621
-Bajhang,Hotels and restaurants,74
-Bajhang,"Transport, storage and
+Bajura,Seti,Mountain,Far-Western,"Per capita income, $",324
+Bajura,Seti,Mountain,Far-Western,"Per capita income, PPP $",523
+Bajhang,Seti,Mountain,Far-Western,Agriculture and Forestry,2031
+Bajhang,Seti,Mountain,Far-Western,Fishing,0
+Bajhang,Seti,Mountain,Far-Western,Mining and quarrying,24
+Bajhang,Seti,Mountain,Far-Western,Manufacturing,108
+Bajhang,Seti,Mountain,Far-Western,"Electricity, gas and water",6
+Bajhang,Seti,Mountain,Far-Western,Construction,249
+Bajhang,Seti,Mountain,Far-Western,Wholesale and retail trade,621
+Bajhang,Seti,Mountain,Far-Western,Hotels and restaurants,74
+Bajhang,Seti,Mountain,Far-Western,"Transport, storage and
 communications",79
-Bajhang,Financial intermediation,17
-Bajhang,"Real estate, renting and
+Bajhang,Seti,Mountain,Far-Western,Financial intermediation,17
+Bajhang,Seti,Mountain,Far-Western,"Real estate, renting and
 business activities",188
-Bajhang,"Public administration and
+Bajhang,Seti,Mountain,Far-Western,"Public administration and
 defense",171
-Bajhang,Education,214
-Bajhang,Health and social work,68
-Bajhang,"Other community,
+Bajhang,Seti,Mountain,Far-Western,Education,214
+Bajhang,Seti,Mountain,Far-Western,Health and social work,68
+Bajhang,Seti,Mountain,Far-Western,"Other community,
 social and personal services
 activities",92
-Bajhang,"Total economy including
+Bajhang,Seti,Mountain,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",3944
-Bajhang,"Total economy at basic price
+Bajhang,Seti,Mountain,Far-Western,"Total economy at basic price
 (total value added)",3817
-Bajhang,GDP at market price,4179
-Bajhang,Factor income,70
-Bajhang,GNI,4249
-Bajhang,"Per capita income, Rs. at
+Bajhang,Seti,Mountain,Far-Western,GDP at market price,4179
+Bajhang,Seti,Mountain,Far-Western,Factor income,70
+Bajhang,Seti,Mountain,Far-Western,GNI,4249
+Bajhang,Seti,Mountain,Far-Western,"Per capita income, Rs. at
 market price",21772
-Bajhang,"Per capita income, $",301
-Bajhang,"Per capita income, PPP $",487
-Darchula,Agriculture and Forestry,1770
-Darchula,Fishing,0
-Darchula,Mining and quarrying,44
-Darchula,Manufacturing,79
-Darchula,"Electricity, gas and water",3
-Darchula,Construction,321
-Darchula,Wholesale and retail trade,458
-Darchula,Hotels and restaurants,55
-Darchula,"Transport, storage and
+Bajhang,Seti,Mountain,Far-Western,"Per capita income, $",301
+Bajhang,Seti,Mountain,Far-Western,"Per capita income, PPP $",487
+Darchaula,Mahakali,Mountain,Far-Western,Agriculture and Forestry,1770
+Darchaula,Mahakali,Mountain,Far-Western,Fishing,0
+Darchaula,Mahakali,Mountain,Far-Western,Mining and quarrying,44
+Darchaula,Mahakali,Mountain,Far-Western,Manufacturing,79
+Darchaula,Mahakali,Mountain,Far-Western,"Electricity, gas and water",3
+Darchaula,Mahakali,Mountain,Far-Western,Construction,321
+Darchaula,Mahakali,Mountain,Far-Western,Wholesale and retail trade,458
+Darchaula,Mahakali,Mountain,Far-Western,Hotels and restaurants,55
+Darchaula,Mahakali,Mountain,Far-Western,"Transport, storage and
 communications",66
-Darchula,Financial intermediation,20
-Darchula,"Real estate, renting and
+Darchaula,Mahakali,Mountain,Far-Western,Financial intermediation,20
+Darchaula,Mahakali,Mountain,Far-Western,"Real estate, renting and
 business activities",198
-Darchula,"Public administration and
+Darchaula,Mahakali,Mountain,Far-Western,"Public administration and
 defense",160
-Darchula,Education,163
-Darchula,Health and social work,81
-Darchula,"Other community,
+Darchaula,Mahakali,Mountain,Far-Western,Education,163
+Darchaula,Mahakali,Mountain,Far-Western,Health and social work,81
+Darchaula,Mahakali,Mountain,Far-Western,"Other community,
 social and personal services
 activities",94
-Darchula,"Total economy including
+Darchaula,Mahakali,Mountain,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",3511
-Darchula,"Total economy at basic price
+Darchaula,Mahakali,Mountain,Far-Western,"Total economy at basic price
 (total value added)",3397
-Darchula,GDP at market price,3720
-Darchula,Factor income,18
-Darchula,GNI,3737
-Darchula,"Per capita income, Rs. at
+Darchaula,Mahakali,Mountain,Far-Western,GDP at market price,3720
+Darchaula,Mahakali,Mountain,Far-Western,Factor income,18
+Darchaula,Mahakali,Mountain,Far-Western,GNI,3737
+Darchaula,Mahakali,Mountain,Far-Western,"Per capita income, Rs. at
 market price",28042
-Darchula,"Per capita income, $",388
-Darchula,"Per capita income, PPP $",627
-Achham,Agriculture and Forestry,2923
-Achham,Fishing,0
-Achham,Mining and quarrying,51
-Achham,Manufacturing,140
-Achham,"Electricity, gas and water",5
-Achham,Construction,445
-Achham,Wholesale and retail trade,965
-Achham,Hotels and restaurants,83
-Achham,"Transport, storage and
+Darchaula,Mahakali,Mountain,Far-Western,"Per capita income, $",388
+Darchaula,Mahakali,Mountain,Far-Western,"Per capita income, PPP $",627
+Achham,Seti,Hill,Far-Western,Agriculture and Forestry,2923
+Achham,Seti,Hill,Far-Western,Fishing,0
+Achham,Seti,Hill,Far-Western,Mining and quarrying,51
+Achham,Seti,Hill,Far-Western,Manufacturing,140
+Achham,Seti,Hill,Far-Western,"Electricity, gas and water",5
+Achham,Seti,Hill,Far-Western,Construction,445
+Achham,Seti,Hill,Far-Western,Wholesale and retail trade,965
+Achham,Seti,Hill,Far-Western,Hotels and restaurants,83
+Achham,Seti,Hill,Far-Western,"Transport, storage and
 communications",156
-Achham,Financial intermediation,127
-Achham,"Real estate, renting and
+Achham,Seti,Hill,Far-Western,Financial intermediation,127
+Achham,Seti,Hill,Far-Western,"Real estate, renting and
 business activities",77
-Achham,"Public administration and
+Achham,Seti,Hill,Far-Western,"Public administration and
 defense",190
-Achham,Education,349
-Achham,Health and social work,111
-Achham,"Other community,
+Achham,Seti,Hill,Far-Western,Education,349
+Achham,Seti,Hill,Far-Western,Health and social work,111
+Achham,Seti,Hill,Far-Western,"Other community,
 social and personal services
 activities",75
-Achham,"Total economy including
+Achham,Seti,Hill,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",5698
-Achham,"Total economy at basic price
+Achham,Seti,Hill,Far-Western,"Total economy at basic price
 (total value added)",5514
-Achham,GDP at market price,6037
-Achham,Factor income,138
-Achham,GNI,6175
-Achham,"Per capita income, Rs. at
+Achham,Seti,Hill,Far-Western,GDP at market price,6037
+Achham,Seti,Hill,Far-Western,Factor income,138
+Achham,Seti,Hill,Far-Western,GNI,6175
+Achham,Seti,Hill,Far-Western,"Per capita income, Rs. at
 market price",23984
-Achham,"Per capita income, $",332
-Achham,"Per capita income, PPP $",536
-Doti,Agriculture and Forestry,3900
-Doti,Fishing,0
-Doti,Mining and quarrying,58
-Doti,Manufacturing,106
-Doti,"Electricity, gas and water",11
-Doti,Construction,457
-Doti,Wholesale and retail trade,840
-Doti,Hotels and restaurants,84
-Doti,"Transport, storage and
+Achham,Seti,Hill,Far-Western,"Per capita income, $",332
+Achham,Seti,Hill,Far-Western,"Per capita income, PPP $",536
+Doti,Seti,Hill,Far-Western,Agriculture and Forestry,3900
+Doti,Seti,Hill,Far-Western,Fishing,0
+Doti,Seti,Hill,Far-Western,Mining and quarrying,58
+Doti,Seti,Hill,Far-Western,Manufacturing,106
+Doti,Seti,Hill,Far-Western,"Electricity, gas and water",11
+Doti,Seti,Hill,Far-Western,Construction,457
+Doti,Seti,Hill,Far-Western,Wholesale and retail trade,840
+Doti,Seti,Hill,Far-Western,Hotels and restaurants,84
+Doti,Seti,Hill,Far-Western,"Transport, storage and
 communications",162
-Doti,Financial intermediation,71
-Doti,"Real estate, renting and
+Doti,Seti,Hill,Far-Western,Financial intermediation,71
+Doti,Seti,Hill,Far-Western,"Real estate, renting and
 business activities",452
-Doti,"Public administration and
+Doti,Seti,Hill,Far-Western,"Public administration and
 defense",279
-Doti,Education,221
-Doti,Health and social work,74
-Doti,"Other community,
+Doti,Seti,Hill,Far-Western,Education,221
+Doti,Seti,Hill,Far-Western,Health and social work,74
+Doti,Seti,Hill,Far-Western,"Other community,
 social and personal services
 activities",93
-Doti,"Total economy including
+Doti,Seti,Hill,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6809
-Doti,"Total economy at basic price
+Doti,Seti,Hill,Far-Western,"Total economy at basic price
 (total value added)",6591
-Doti,GDP at market price,7216
-Doti,Factor income,109
-Doti,GNI,7325
-Doti,"Per capita income, Rs. at
+Doti,Seti,Hill,Far-Western,GDP at market price,7216
+Doti,Seti,Hill,Far-Western,Factor income,109
+Doti,Seti,Hill,Far-Western,GNI,7325
+Doti,Seti,Hill,Far-Western,"Per capita income, Rs. at
 market price",34595
-Doti,"Per capita income, $",479
-Doti,"Per capita income, PPP $",774
-Dadeldhura,Agriculture and Forestry,2329
-Dadeldhura,Fishing,0
-Dadeldhura,Mining and quarrying,55
-Dadeldhura,Manufacturing,67
-Dadeldhura,"Electricity, gas and water",19
-Dadeldhura,Construction,390
-Dadeldhura,Wholesale and retail trade,541
-Dadeldhura,Hotels and restaurants,46
-Dadeldhura,"Transport, storage and
+Doti,Seti,Hill,Far-Western,"Per capita income, $",479
+Doti,Seti,Hill,Far-Western,"Per capita income, PPP $",774
+Dadeldhura,Mahakali,Hill,Far-Western,Agriculture and Forestry,2329
+Dadeldhura,Mahakali,Hill,Far-Western,Fishing,0
+Dadeldhura,Mahakali,Hill,Far-Western,Mining and quarrying,55
+Dadeldhura,Mahakali,Hill,Far-Western,Manufacturing,67
+Dadeldhura,Mahakali,Hill,Far-Western,"Electricity, gas and water",19
+Dadeldhura,Mahakali,Hill,Far-Western,Construction,390
+Dadeldhura,Mahakali,Hill,Far-Western,Wholesale and retail trade,541
+Dadeldhura,Mahakali,Hill,Far-Western,Hotels and restaurants,46
+Dadeldhura,Mahakali,Hill,Far-Western,"Transport, storage and
 communications",92
-Dadeldhura,Financial intermediation,138
-Dadeldhura,"Real estate, renting and
+Dadeldhura,Mahakali,Hill,Far-Western,Financial intermediation,138
+Dadeldhura,Mahakali,Hill,Far-Western,"Real estate, renting and
 business activities",335
-Dadeldhura,"Public administration and
+Dadeldhura,Mahakali,Hill,Far-Western,"Public administration and
 defense",141
-Dadeldhura,Education,191
-Dadeldhura,Health and social work,96
-Dadeldhura,"Other community,
+Dadeldhura,Mahakali,Hill,Far-Western,Education,191
+Dadeldhura,Mahakali,Hill,Far-Western,Health and social work,96
+Dadeldhura,Mahakali,Hill,Far-Western,"Other community,
 social and personal services
 activities",98
-Dadeldhura,"Total economy including
+Dadeldhura,Mahakali,Hill,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",4539
-Dadeldhura,"Total economy at basic price
+Dadeldhura,Mahakali,Hill,Far-Western,"Total economy at basic price
 (total value added)",4392
-Dadeldhura,GDP at market price,4809
-Dadeldhura,Factor income,45
-Dadeldhura,GNI,4855
-Dadeldhura,"Per capita income, Rs. at
+Dadeldhura,Mahakali,Hill,Far-Western,GDP at market price,4809
+Dadeldhura,Mahakali,Hill,Far-Western,Factor income,45
+Dadeldhura,Mahakali,Hill,Far-Western,GNI,4855
+Dadeldhura,Mahakali,Hill,Far-Western,"Per capita income, Rs. at
 market price",34164
-Dadeldhura,"Per capita income, $",473
-Dadeldhura,"Per capita income, PPP $",764
-Baitadi,Agriculture and Forestry,3127
-Baitadi,Fishing,0
-Baitadi,Mining and quarrying,85
-Baitadi,Manufacturing,108
-Baitadi,"Electricity, gas and water",10
-Baitadi,Construction,616
-Baitadi,Wholesale and retail trade,900
-Baitadi,Hotels and restaurants,77
-Baitadi,"Transport, storage and
+Dadeldhura,Mahakali,Hill,Far-Western,"Per capita income, $",473
+Dadeldhura,Mahakali,Hill,Far-Western,"Per capita income, PPP $",764
+Baitadi,Mahakali,Hill,Far-Western,Agriculture and Forestry,3127
+Baitadi,Mahakali,Hill,Far-Western,Fishing,0
+Baitadi,Mahakali,Hill,Far-Western,Mining and quarrying,85
+Baitadi,Mahakali,Hill,Far-Western,Manufacturing,108
+Baitadi,Mahakali,Hill,Far-Western,"Electricity, gas and water",10
+Baitadi,Mahakali,Hill,Far-Western,Construction,616
+Baitadi,Mahakali,Hill,Far-Western,Wholesale and retail trade,900
+Baitadi,Mahakali,Hill,Far-Western,Hotels and restaurants,77
+Baitadi,Mahakali,Hill,Far-Western,"Transport, storage and
 communications",159
-Baitadi,Financial intermediation,37
-Baitadi,"Real estate, renting and
+Baitadi,Mahakali,Hill,Far-Western,Financial intermediation,37
+Baitadi,Mahakali,Hill,Far-Western,"Real estate, renting and
 business activities",244
-Baitadi,"Public administration and
+Baitadi,Mahakali,Hill,Far-Western,"Public administration and
 defense",168
-Baitadi,Education,302
-Baitadi,Health and social work,88
-Baitadi,"Other community,
+Baitadi,Mahakali,Hill,Far-Western,Education,302
+Baitadi,Mahakali,Hill,Far-Western,Health and social work,88
+Baitadi,Mahakali,Hill,Far-Western,"Other community,
 social and personal services
 activities",94
-Baitadi,"Total economy including
+Baitadi,Mahakali,Hill,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",6016
-Baitadi,"Total economy at basic price
+Baitadi,Mahakali,Hill,Far-Western,"Total economy at basic price
 (total value added)",5821
-Baitadi,GDP at market price,6374
-Baitadi,Factor income,53
-Baitadi,GNI,6426
-Baitadi,"Per capita income, Rs. at
+Baitadi,Mahakali,Hill,Far-Western,GDP at market price,6374
+Baitadi,Mahakali,Hill,Far-Western,Factor income,53
+Baitadi,Mahakali,Hill,Far-Western,GNI,6426
+Baitadi,Mahakali,Hill,Far-Western,"Per capita income, Rs. at
 market price",25613
-Baitadi,"Per capita income, $",354
-Baitadi,"Per capita income, PPP $",573
-Kailali,Agriculture and Forestry,15361
-Kailali,Fishing,87
-Kailali,Mining and quarrying,98
-Kailali,Manufacturing,742
-Kailali,"Electricity, gas and water",332
-Kailali,Construction,1040
-Kailali,Wholesale and retail trade,4996
-Kailali,Hotels and restaurants,506
-Kailali,"Transport, storage and
+Baitadi,Mahakali,Hill,Far-Western,"Per capita income, $",354
+Baitadi,Mahakali,Hill,Far-Western,"Per capita income, PPP $",573
+Kailali,Seti,Terai,Far-Western,Agriculture and Forestry,15361
+Kailali,Seti,Terai,Far-Western,Fishing,87
+Kailali,Seti,Terai,Far-Western,Mining and quarrying,98
+Kailali,Seti,Terai,Far-Western,Manufacturing,742
+Kailali,Seti,Terai,Far-Western,"Electricity, gas and water",332
+Kailali,Seti,Terai,Far-Western,Construction,1040
+Kailali,Seti,Terai,Far-Western,Wholesale and retail trade,4996
+Kailali,Seti,Terai,Far-Western,Hotels and restaurants,506
+Kailali,Seti,Terai,Far-Western,"Transport, storage and
 communications",1202
-Kailali,Financial intermediation,1069
-Kailali,"Real estate, renting and
+Kailali,Seti,Terai,Far-Western,Financial intermediation,1069
+Kailali,Seti,Terai,Far-Western,"Real estate, renting and
 business activities",2604
-Kailali,"Public administration and
+Kailali,Seti,Terai,Far-Western,"Public administration and
 defense",461
-Kailali,Education,1220
-Kailali,Health and social work,542
-Kailali,"Other community,
+Kailali,Seti,Terai,Far-Western,Education,1220
+Kailali,Seti,Terai,Far-Western,Health and social work,542
+Kailali,Seti,Terai,Far-Western,"Other community,
 social and personal services
 activities",235
-Kailali,"Total economy including
+Kailali,Seti,Terai,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",30495
-Kailali,"Total economy at basic price
+Kailali,Seti,Terai,Far-Western,"Total economy at basic price
 (total value added)",29570
-Kailali,GDP at market price,32376
-Kailali,Factor income,287
-Kailali,GNI,32663
-Kailali,"Per capita income, Rs. at
+Kailali,Seti,Terai,Far-Western,GDP at market price,32376
+Kailali,Seti,Terai,Far-Western,Factor income,287
+Kailali,Seti,Terai,Far-Western,GNI,32663
+Kailali,Seti,Terai,Far-Western,"Per capita income, Rs. at
 market price",42107
-Kailali,"Per capita income, $",583
-Kailali,"Per capita income, PPP $",942
-Kanchanpur,Agriculture and Forestry,9225
-Kanchanpur,Fishing,54
-Kanchanpur,Mining and quarrying,94
-Kanchanpur,Manufacturing,455
-Kanchanpur,"Electricity, gas and water",205
-Kanchanpur,Construction,798
-Kanchanpur,Wholesale and retail trade,2779
-Kanchanpur,Hotels and restaurants,297
-Kanchanpur,"Transport, storage and
+Kailali,Seti,Terai,Far-Western,"Per capita income, $",583
+Kailali,Seti,Terai,Far-Western,"Per capita income, PPP $",942
+Kanchanpur,Mahakali,Terai,Far-Western,Agriculture and Forestry,9225
+Kanchanpur,Mahakali,Terai,Far-Western,Fishing,54
+Kanchanpur,Mahakali,Terai,Far-Western,Mining and quarrying,94
+Kanchanpur,Mahakali,Terai,Far-Western,Manufacturing,455
+Kanchanpur,Mahakali,Terai,Far-Western,"Electricity, gas and water",205
+Kanchanpur,Mahakali,Terai,Far-Western,Construction,798
+Kanchanpur,Mahakali,Terai,Far-Western,Wholesale and retail trade,2779
+Kanchanpur,Mahakali,Terai,Far-Western,Hotels and restaurants,297
+Kanchanpur,Mahakali,Terai,Far-Western,"Transport, storage and
 communications",364
-Kanchanpur,Financial intermediation,387
-Kanchanpur,"Real estate, renting and
+Kanchanpur,Mahakali,Terai,Far-Western,Financial intermediation,387
+Kanchanpur,Mahakali,Terai,Far-Western,"Real estate, renting and
 business activities",1548
-Kanchanpur,"Public administration and
+Kanchanpur,Mahakali,Terai,Far-Western,"Public administration and
 defense",299
-Kanchanpur,Education,826
-Kanchanpur,Health and social work,266
-Kanchanpur,"Other community,
+Kanchanpur,Mahakali,Terai,Far-Western,Education,826
+Kanchanpur,Mahakali,Terai,Far-Western,Health and social work,266
+Kanchanpur,Mahakali,Terai,Far-Western,"Other community,
 social and personal services
 activities",115
-Kanchanpur,"Total economy including
+Kanchanpur,Mahakali,Terai,Far-Western,"Total economy including
 financial intermediation
 service indirectly measured
 (total value added)",17713
-Kanchanpur,"Total economy at basic price
+Kanchanpur,Mahakali,Terai,Far-Western,"Total economy at basic price
 (total value added)",17141
-Kanchanpur,GDP at market price,18767
-Kanchanpur,Factor income,164
-Kanchanpur,GNI,18931
-Kanchanpur,"Per capita income, Rs. at
+Kanchanpur,Mahakali,Terai,Far-Western,GDP at market price,18767
+Kanchanpur,Mahakali,Terai,Far-Western,Factor income,164
+Kanchanpur,Mahakali,Terai,Far-Western,GNI,18931
+Kanchanpur,Mahakali,Terai,Far-Western,"Per capita income, Rs. at
 market price",41953
-Kanchanpur,"Per capita income, $",580
-Kanchanpur,"Per capita income, PPP $",938
+Kanchanpur,Mahakali,Terai,Far-Western,"Per capita income, $",580
+Kanchanpur,Mahakali,Terai,Far-Western,"Per capita income, PPP $",938

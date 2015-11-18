@@ -1,121 +1,121 @@
-industrial_classification,year,value
-Agriculture and forestry,2000/01,100
-Agriculture and forestry,2005/06,115.72
-Agriculture and forestry,2006/07,122.85
-Agriculture and forestry,2007/08,126.39
-Agriculture and forestry,2008/09,154.08
-Agriculture and forestry,2009/10,193.63
-Agriculture and forestry,2010/11,222.91
-Agriculture and forestry,2011/12,230.6
-Fishing,2000/01,100
-Fishing,2005/06,113
-Fishing,2006/07,115.82
-Fishing,2007/08,127.03
-Fishing,2008/09,127.1
-Fishing,2009/10,127.58
-Fishing,2010/11,127.47
-Fishing,2011/12,129.62
-Mining and Quarrying,2000/01,100
-Mining and Quarrying,2005/06,133.44
-Mining and Quarrying,2006/07,143.39
-Mining and Quarrying,2007/08,174.09
-Mining and Quarrying,2008/09,200.87
-Mining and Quarrying,2009/10,229.23
-Mining and Quarrying,2010/11,263.79
-Mining and Quarrying,2011/12,294.84
-Manufacturing,2000/01,100
-Manufacturing,2005/06,122.99
-Manufacturing,2006/07,130.79
-Manufacturing,2007/08,144.61
-Manufacturing,2008/09,167.25
-Manufacturing,2009/10,176.03
-Manufacturing,2010/11,192.86
-Manufacturing,2011/12,216.91
-Electricty gas and water,2000/01,100
-Electricty gas and water,2005/06,113.92
-Electricty gas and water,2006/07,113.59
-Electricty gas and water,2007/08,115.26
-Electricty gas and water,2008/09,114.74
-Electricty gas and water,2009/10,117.36
-Electricty gas and water,2010/11,118.25
-Electricty gas and water,2011/12,119.31
-Construction,2000/01,100
-Construction,2005/06,133.44
-Construction,2006/07,143.39
-Construction,2007/08,163.83
-Construction,2008/09,191.01
-Construction,2009/10,218.15
-Construction,2010/11,240.69
-Construction,2011/12,266.23
-Wholesale and retail trade,2000/01,100
-Wholesale and retail trade,2005/06,132.48
-Wholesale and retail trade,2006/07,144.1
-Wholesale and retail trade,2007/08,157.26
-Wholesale and retail trade,2008/09,176.11
-Wholesale and retail trade,2009/10,214.08
-Wholesale and retail trade,2010/11,239.72
-Wholesale and retail trade,2011/12,264.67
-Hotels and restaurants,2000/01,100
-Hotels and restaurants,2005/06,117.46
-Hotels and restaurants,2006/07,121.32
-Hotels and restaurants,2007/08,129.96
-Hotels and restaurants,2008/09,153.97
-Hotels and restaurants,2009/10,179.84
-Hotels and restaurants,2010/11,211.09
-Hotels and restaurants,2011/12,233.26
-"Transport, storage and communications",2000/01,100
-"Transport, storage and communications",2005/06,145.83
-"Transport, storage and communications",2006/07,157.74
-"Transport, storage and communications",2007/08,159.29
-"Transport, storage and communications",2008/09,179.54
-"Transport, storage and communications",2009/10,174.37
-"Transport, storage and communications",2010/11,177.86
-"Transport, storage and communications",2011/12,198.37
-Financial intermediation,2000/01,100
-Financial intermediation,2005/06,110.76
-Financial intermediation,2006/07,128.79
-Financial intermediation,2007/08,138.92
-Financial intermediation,2008/09,158.74
-Financial intermediation,2009/10,181.95
-Financial intermediation,2010/11,211.87
-Financial intermediation,2011/12,252.68
-"Real estate, renting and business activities",2000/01,100
-"Real estate, renting and business activities",2005/06,162.72
-"Real estate, renting and business activities",2006/07,171.66
-"Real estate, renting and business activities",2007/08,161.68
-"Real estate, renting and business activities",2008/09,175.84
-"Real estate, renting and business activities",2009/10,196.05
-"Real estate, renting and business activities",2010/11,217.28
-"Real estate, renting and business activities",2011/12,238.33
-Public Administration and defence,2000/01,100
-Public Administration and defence,2005/06,120
-Public Administration and defence,2006/07,132.01
-Public Administration and defence,2007/08,154.01
-Public Administration and defence,2008/09,185.35
-Public Administration and defence,2009/10,208.5
-Public Administration and defence,2010/11,229.7
-Public Administration and defence,2011/12,272.43
-Education,2000/01,100
-Education,2005/06,122.19
-Education,2006/07,133.19
-Education,2007/08,148.92
-Education,2008/09,172.89
-Education,2009/10,158.87
-Education,2010/11,157.43
-Education,2011/12,193.57
-Health and social work,2000/01,100
-Health and social work,2005/06,121.21
-Health and social work,2006/07,124.39
-Health and social work,2007/08,146.68
-Health and social work,2008/09,167.79
-Health and social work,2009/10,179.25
-Health and social work,2010/11,182.27
-Health and social work,2011/12,238.33
-"Other community, social and personal service activities",2000/01,100
-"Other community, social and personal service activities",2005/06,120.86
-"Other community, social and personal service activities",2006/07,130.83
-"Other community, social and personal service activities",2007/08,145.57
-"Other community, social and personal service activities",2008/09,166.12
-"Other community, social and personal service activities",2009/10,180.37
-"Other community, social and personal service activities",2010/11,199.2
-"Other community, social and personal service activities",2011/12,214.7
+industrial_classification,year AD,year BS,value
+Agriculture and forestry,2000/01,2057/58,100.0
+Agriculture and forestry,2005/06,2062/63,115.72
+Agriculture and forestry,2006/07,2063/64,122.85
+Agriculture and forestry,2007/08,2064/65,126.39
+Agriculture and forestry,2008/09,2065/66,154.08
+Agriculture and forestry,2009/10,2066/67,193.63
+Agriculture and forestry,2010/11,2067/68,222.91
+Agriculture and forestry,2011/12,2068/69,230.6
+Fishing,2000/01,2057/58,100.0
+Fishing,2005/06,2062/63,113.0
+Fishing,2006/07,2063/64,115.82
+Fishing,2007/08,2064/65,127.03
+Fishing,2008/09,2065/66,127.1
+Fishing,2009/10,2066/67,127.58
+Fishing,2010/11,2067/68,127.47
+Fishing,2011/12,2068/69,129.62
+Mining and Quarrying,2000/01,2057/58,100.0
+Mining and Quarrying,2005/06,2062/63,133.44
+Mining and Quarrying,2006/07,2063/64,143.39
+Mining and Quarrying,2007/08,2064/65,174.09
+Mining and Quarrying,2008/09,2065/66,200.87
+Mining and Quarrying,2009/10,2066/67,229.23
+Mining and Quarrying,2010/11,2067/68,263.79
+Mining and Quarrying,2011/12,2068/69,294.84
+Manufacturing,2000/01,2057/58,100.0
+Manufacturing,2005/06,2062/63,122.99
+Manufacturing,2006/07,2063/64,130.79
+Manufacturing,2007/08,2064/65,144.61
+Manufacturing,2008/09,2065/66,167.25
+Manufacturing,2009/10,2066/67,176.03
+Manufacturing,2010/11,2067/68,192.86
+Manufacturing,2011/12,2068/69,216.91
+Electricty gas and water,2000/01,2057/58,100.0
+Electricty gas and water,2005/06,2062/63,113.92
+Electricty gas and water,2006/07,2063/64,113.59
+Electricty gas and water,2007/08,2064/65,115.26
+Electricty gas and water,2008/09,2065/66,114.74
+Electricty gas and water,2009/10,2066/67,117.36
+Electricty gas and water,2010/11,2067/68,118.25
+Electricty gas and water,2011/12,2068/69,119.31
+Construction,2000/01,2057/58,100.0
+Construction,2005/06,2062/63,133.44
+Construction,2006/07,2063/64,143.39
+Construction,2007/08,2064/65,163.83
+Construction,2008/09,2065/66,191.01
+Construction,2009/10,2066/67,218.15
+Construction,2010/11,2067/68,240.69
+Construction,2011/12,2068/69,266.23
+Wholesale and retail trade,2000/01,2057/58,100.0
+Wholesale and retail trade,2005/06,2062/63,132.48
+Wholesale and retail trade,2006/07,2063/64,144.1
+Wholesale and retail trade,2007/08,2064/65,157.26
+Wholesale and retail trade,2008/09,2065/66,176.11
+Wholesale and retail trade,2009/10,2066/67,214.08
+Wholesale and retail trade,2010/11,2067/68,239.72
+Wholesale and retail trade,2011/12,2068/69,264.67
+Hotels and restaurants,2000/01,2057/58,100.0
+Hotels and restaurants,2005/06,2062/63,117.46
+Hotels and restaurants,2006/07,2063/64,121.32
+Hotels and restaurants,2007/08,2064/65,129.96
+Hotels and restaurants,2008/09,2065/66,153.97
+Hotels and restaurants,2009/10,2066/67,179.84
+Hotels and restaurants,2010/11,2067/68,211.09
+Hotels and restaurants,2011/12,2068/69,233.26
+"Transport, storage and communications",2000/01,2057/58,100.0
+"Transport, storage and communications",2005/06,2062/63,145.83
+"Transport, storage and communications",2006/07,2063/64,157.74
+"Transport, storage and communications",2007/08,2064/65,159.29
+"Transport, storage and communications",2008/09,2065/66,179.54
+"Transport, storage and communications",2009/10,2066/67,174.37
+"Transport, storage and communications",2010/11,2067/68,177.86
+"Transport, storage and communications",2011/12,2068/69,198.37
+Financial intermediation,2000/01,2057/58,100.0
+Financial intermediation,2005/06,2062/63,110.76
+Financial intermediation,2006/07,2063/64,128.79
+Financial intermediation,2007/08,2064/65,138.92
+Financial intermediation,2008/09,2065/66,158.74
+Financial intermediation,2009/10,2066/67,181.95
+Financial intermediation,2010/11,2067/68,211.87
+Financial intermediation,2011/12,2068/69,252.68
+"Real estate, renting and business activities",2000/01,2057/58,100.0
+"Real estate, renting and business activities",2005/06,2062/63,162.72
+"Real estate, renting and business activities",2006/07,2063/64,171.66
+"Real estate, renting and business activities",2007/08,2064/65,161.68
+"Real estate, renting and business activities",2008/09,2065/66,175.84
+"Real estate, renting and business activities",2009/10,2066/67,196.05
+"Real estate, renting and business activities",2010/11,2067/68,217.28
+"Real estate, renting and business activities",2011/12,2068/69,238.33
+Public Administration and defence,2000/01,2057/58,100.0
+Public Administration and defence,2005/06,2062/63,120.0
+Public Administration and defence,2006/07,2063/64,132.01
+Public Administration and defence,2007/08,2064/65,154.01
+Public Administration and defence,2008/09,2065/66,185.35
+Public Administration and defence,2009/10,2066/67,208.5
+Public Administration and defence,2010/11,2067/68,229.7
+Public Administration and defence,2011/12,2068/69,272.43
+Education,2000/01,2057/58,100.0
+Education,2005/06,2062/63,122.19
+Education,2006/07,2063/64,133.19
+Education,2007/08,2064/65,148.92
+Education,2008/09,2065/66,172.89
+Education,2009/10,2066/67,158.87
+Education,2010/11,2067/68,157.43
+Education,2011/12,2068/69,193.57
+Health and social work,2000/01,2057/58,100.0
+Health and social work,2005/06,2062/63,121.21
+Health and social work,2006/07,2063/64,124.39
+Health and social work,2007/08,2064/65,146.68
+Health and social work,2008/09,2065/66,167.79
+Health and social work,2009/10,2066/67,179.25
+Health and social work,2010/11,2067/68,182.27
+Health and social work,2011/12,2068/69,238.33
+"Other community, social and personal service activities",2000/01,2057/58,100.0
+"Other community, social and personal service activities",2005/06,2062/63,120.86
+"Other community, social and personal service activities",2006/07,2063/64,130.83
+"Other community, social and personal service activities",2007/08,2064/65,145.57
+"Other community, social and personal service activities",2008/09,2065/66,166.12
+"Other community, social and personal service activities",2009/10,2066/67,180.37
+"Other community, social and personal service activities",2010/11,2067/68,199.2
+"Other community, social and personal service activities",2011/12,2068/69,214.7
